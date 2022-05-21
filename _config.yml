@@ -84,10 +84,10 @@ author:
   avatar           : "NQBH.jpg"
   bio              : "A Scientist- & Creative Artist Wannabe"
   location         : "Ben Tre City, Vietnam"
-  employer         : "self-employed"
+  #employer         : "self-employed"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow" # NQBH: ?
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=22hHvB8AAAAJ"
-  email            :
+  email            : "nguyenquanbahong@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Hong-Quan-Ba-Nguyen" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
