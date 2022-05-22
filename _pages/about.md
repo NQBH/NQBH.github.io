@@ -51,24 +51,11 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 Hit Counters
 ------
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CountAPI</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="app.js" defer></script>
-    <script src="https://api.countapi.xyz/hit/nqbh.github.com/visits?callback=liveViews" async></script>
-</head>
-<body>
-    <h1>This page got <span id="visits"></span> views.</h1>
+This page got <span id="visits"></span> views.
 
-</body>
-</html>
-
-Free Web Hit Counters (https://www.hit-counts.com/)
+Free Web Hit Counters
 ------
-<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ2MjYyOQ==' border='0' alt='logo redesign'></a><BR><a href='https://www.glowgraphics.co.uk/'>logo redesign</a></div>
+<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ2MjYyOQ==' border='0'></a></div>
 
  <a href='https://www.stat-counter.org/'>stat-counter.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5d4fcf758e43789e0733c12344359701b24b8290'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/944340/t/0"></script>
