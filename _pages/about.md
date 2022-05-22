@@ -51,10 +51,6 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 Hit Counters
 ------
-This page got <span id="visits"></span> views.
-
-Free Web Hit Counters
-------
 <div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ2MjYyOQ==' border='0'></a></div>
 
  <a href='https://www.stat-counter.org/'>stat-counter.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5d4fcf758e43789e0733c12344359701b24b8290'></script>
@@ -67,18 +63,3 @@ Flag Counter
 <a href="https://flaghitcounter.com/details/5D"><img src="https://flaghitcounter.com/5D/" alt="Flag Counter"></a>
 
 <a href="https://www.flagcounter.me/details/cQh"><img src="https://www.flagcounter.me/cQh/" alt="Flag Counter"></a>
-
-Counting events
-------
-<button onclick="clicked()">Press Me!</button>
-<script>
-function clicked() {
-    var xhr = new XMLHttpRequest();
-    xhr.open("GET", "https://api.countapi.xyz/hit/nqbh.github.io/awesomeclick");
-    xhr.responseType = "json";
-    xhr.onload = function() {
-        alert(`This button has been clicked ${this.response.value} times!`);
-    }
-    xhr.send();
-}
-</script>
