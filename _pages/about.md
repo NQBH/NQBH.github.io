@@ -48,3 +48,19 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+<head>
+
+  <script async src="https://api.countapi.xyz/hit/https://nqbh.github.io/visits?  callback=callbackName"></script>
+
+</head>
+
+<body>
+   
+  <h1>This page got <span id="visits"></span> views.</h1>
+
+</body>
+
+function callbackName(response) {
+    document.getElementById('visits').innerText = response.value;
+}
