@@ -49,7 +49,8 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-<!DOCTYPE html>
+Hit Counters
+------
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -65,41 +66,9 @@ More info about configuring academicpages can be found in [the guide](https://ac
 </body>
 </html>
 
+Free Web Hit Counters (https://www.hit-counts.com/)
 ------
-This page got <div id="visits">...</div> visits.
-
-Using countapi-js
-------
-import countapi from 'countapi-js';
-
-countapi.visits().then((result) => {
-    console.log(result.value);
-});
-
-Using JSONP
-------
-<script>
-function cb(response) {
-    document.getElementById('visits').innerText = response.value;
-}
-</script>
-<script async src="https://api.countapi.xyz/hit/nqbh.github.com/visits?callback=cb"></script>
-
-Using XHR
-------
-var xhr = new XMLHttpRequest();
-xhr.open("GET", "https://api.countapi.xyz/hit/nqbh.github.io/visits");
-xhr.responseType = "json";
-xhr.onload = function() {
-    document.getElementById('visits').innerText = this.response.value;
-}
-xhr.send();
-
-Using jQuery
-------
-$.getJSON("https://api.countapi.xyz/hit/nqbh.github.io/visits", function(response) {
-    $("#visits").text(response.value);
-});
+<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ2MjYyOQ==' border='0' alt='logo redesign'></a><BR><a href='https://www.glowgraphics.co.uk/'>logo redesign</a></div>
 
 Counting events
 ------
