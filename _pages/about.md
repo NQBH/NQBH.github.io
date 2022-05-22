@@ -49,8 +49,6 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-<
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,20 +58,13 @@ More info about configuring academicpages can be found in [the guide](https://ac
     <link rel="stylesheet" href="style.css">
     <script src="app.js" defer></script>
     <script src="https://api.countapi.xyz/hit/florin-pop.com/visits?callback=liveViews" async></script>
-</head>
-<body>
-    <h1>This page got <span id="visits"></span> views.</h1>
 
-</body>
+    function liveViews(response) {
+      document.getElementById('visits').innerText = response.value;
+    }
+    // The function is called in the CDN on HTML.
 
-function liveViews(response) {
-    document.getElementById('visits').innerText = response.value;
-}
-// The function is called in the CDN on HTML.
-
-</html>
-
-*{
+    *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -91,3 +82,10 @@ h1{
     font-size: 40px;
     font-weight: 800;   
 }
+</head>
+<body>
+    <h1>This page got <span id="visits"></span> views.</h1>
+
+</body>
+
+</html>
