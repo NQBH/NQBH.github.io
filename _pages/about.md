@@ -64,6 +64,10 @@ Flag Counter
 ------
 <a href="https://info.flagcounter.com/zp3Q"><img src="https://s01.flagcounter.com/countxl/zp3Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_Flag+Counter/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+<a href="https://flaghitcounter.com/details/5D"><img src="https://flaghitcounter.com/5D/" alt="Flag Counter"></a>
+
+<a href="https://www.flagcounter.me/details/cQh"><img src="https://www.flagcounter.me/cQh/" alt="Flag Counter"></a>
+
 Counting events
 ------
 <button onclick="clicked()">Press Me!</button>
