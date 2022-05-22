@@ -49,6 +49,23 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CountAPI</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+    <script src="https://api.countapi.xyz/hit/nqbh.github.com/visits?callback=liveViews" async></script>
+</head>
+<body>
+    <h1>This page got <span id="visits"></span> views.</h1>
+
+</body>
+</html>
+
+------
 This page got <div id="visits">...</div> visits.
 
 Using countapi-js
