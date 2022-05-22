@@ -70,6 +70,13 @@ Free Web Hit Counters (https://www.hit-counts.com/)
 ------
 <div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ2MjYyOQ==' border='0' alt='logo redesign'></a><BR><a href='https://www.glowgraphics.co.uk/'>logo redesign</a></div>
 
+ <a href='https://www.stat-counter.org/'>stat-counter.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5d4fcf758e43789e0733c12344359701b24b8290'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/944340/t/0"></script>
+
+Flag Counter
+------
+<a href="https://info.flagcounter.com/zp3Q"><img src="https://s01.flagcounter.com/countxl/zp3Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_Flag+Counter/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 Counting events
 ------
 <button onclick="clicked()">Press Me!</button>
