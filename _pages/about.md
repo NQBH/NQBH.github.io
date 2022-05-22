@@ -49,43 +49,52 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CountAPI</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="app.js" defer></script>
-    <script src="https://api.countapi.xyz/hit/florin-pop.com/visits?callback=liveViews" async></script>
+<div id="visits">...</div>
 
-    function liveViews(response) {
-      document.getElementById('visits').innerText = response.value;
+Using countapi-js
+------
+import countapi from 'countapi-js';
+
+countapi.visits().then((result) => {
+    console.log(result.value);
+});
+
+Using JSONP
+------
+<script>
+function cb(response) {
+    document.getElementById('visits').innerText = response.value;
+}
+</script>
+<script async src="https://api.countapi.xyz/hit/nqbh.github.com/visits?callback=cb"></script>
+
+Using XHR
+------
+var xhr = new XMLHttpRequest();
+xhr.open("GET", "https://api.countapi.xyz/hit/nqbh.github.io/visits");
+xhr.responseType = "json";
+xhr.onload = function() {
+    document.getElementById('visits').innerText = this.response.value;
+}
+xhr.send();
+
+Using jQuery
+------
+$.getJSON("https://api.countapi.xyz/hit/nqbh.github.io/visits", function(response) {
+    $("#visits").text(response.value);
+});
+
+Counting events
+------
+<button onclick="clicked()">Press Me!</button>
+<script>
+function clicked() {
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", "https://api.countapi.xyz/hit/nqbh.github.io/awesomeclick");
+    xhr.responseType = "json";
+    xhr.onload = function() {
+        alert(`This button has been clicked ${this.response.value} times!`);
     }
-    // The function is called in the CDN on HTML.
-
-    *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
+    xhr.send();
 }
-body{
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: rgb(29, 29, 29);
-    color: blanchedalmond;
-}
-h1{
-    font-size: 40px;
-    font-weight: 800;   
-}
-</head>
-<body>
-    <h1>This page got <span id="visits"></span> views.</h1>
-
-</body>
-
-</html>
+</script>
