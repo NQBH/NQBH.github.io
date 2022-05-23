@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+------
 A Brief Self-Description
 ======
-
-highly introverted, highly sensitive, a disagreeable giver (used to be an agreeable giver before having been psychologically manipulated), minimalist but informative.
+Highly introverted, highly sensitive, a disagreeable giver (used to be an agreeable giver before having been psychologically manipulated), minimalist but informative.
 
 Miscellaneous
 ======
+------
 *How to build NQBH's GitHub Page, i.e., [nqbh.github.io](https://nqbh.github.io/)?* [NQBH's GitHub Page](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.pdf)
 
-
+I love animes, manhwas, movies, musics, quotes, etc. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/tree/master/NQBH_GitHub_page)
 
 Visitors
 ======
