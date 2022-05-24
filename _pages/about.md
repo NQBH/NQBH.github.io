@@ -139,12 +139,12 @@ I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything whi
 
 Visitors
 ======
+I have used 2 hit counters & 3 flag counters here. I will choose the best among them later.
 
 ------
 
 Hit Counters
 ------
-I have used 2 hit counters & 3 flag counters here. I will choose the best among them later.
 
 <div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ2MjYyOQ==' border='0'></a></div>
 
