@@ -17,8 +17,21 @@ I no longer believe in the adjective *professional*. Now whatever I work on is p
 
 I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I find that idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something* Embrace yourself. Let this thirst of knowledge invade. Now I work on, as pure hobbies, a much wider horizon of science.
 
-E-mail: <nguyenquanbahong@gmail.com>.
-Curriculum Vitae (CV). [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.pdf) (also [CV](/cv/) but not including latest updates & details as in the PDF.)
+E-mail: <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
+
+Curriculum Vitae (CV). [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.pdf) (also [CV](/cv/) page in the navigation topbar but not including latest updates & details as in the PDF.)
+
+> "The 2 most important days in your life are the day you are born & the day you find out why." -- Mark Twain
+
+> "The essence of mathematics lies in its freedom." -- Georg Cantor
+
+> "It is true that a mathematician who is not somewhat of a poet, will never be a perfect mathematician." -- Karl Weierstrass
+
+(The doube *ss* in the end of Weierstrass should be the character ß -- beta-like symbol -- used in German. Trust me. I knew it since I worked at Weierstrass Institute in Berlin, Germany for 1.5 years.)
+
+> "In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will. Man takes up the sword in order to shield the small wound in his heart sustained in a far-off time beyond remembrance. Man wields the sword so that he may die smiling in some far-off time beyond perception." -- Kentaro Miura, Berserk, Vol. 1
+
+> "Providence may guide a man to meet 1 specific person, even if such guidance eventually leads him to darkness. Man simply cannot forsake the beauty of his own chosen path. When will man learn a way to control his soul?" -- Kentaro Miura, Berserk
 
 ------
 
@@ -32,6 +45,10 @@ Curriculum Vitae (CV). [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/ma
 
 [Social Science](https://en.wikipedia.org/wiki/Social_science)
 ------
+
+### Philosophy
+
+### Psychology
 
 [Formal Science](https://en.wikipedia.org/wiki/Formal_science)
 ------
