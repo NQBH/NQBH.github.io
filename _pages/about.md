@@ -9,19 +9,30 @@ redirect_from:
 ---
 
 ------
-**A brief self-description.** Highly introverted, highly sensitive, a disagreeable giver (used to be an agreeable giver before having been psychologically manipulated), minimalist but informative.
+**A brief self-description.** `some adjectives` highly introverted, highly sensitive, minimalist but informative; `some nouns` a disagreeable giver (used to be an agreeable giver before having been psychologically manipulated), a broken eidetiker.
 
 ------
 
-Science
+[Science](https://en.wikipedia.org/wiki/Science)
 ======
+> "[Modern science](https://en.wikipedia.org/wiki/History_of_science#Modern_science) is commonly divided into 3 major [branches](https://en.wikipedia.org/wiki/Branches_of_science): [natural science](https://en.wikipedia.org/wiki/Natural_science), [social science](https://en.wikipedia.org/wiki/Social_science), & [formal science](https://en.wikipedia.org/wiki/Formal_science)." -- [Wikipedia/science/branches of science](https://en.wikipedia.org/wiki/Science#Branches_of_science)
 
+
+[Natural Science](https://en.wikipedia.org/wiki/Natural_science)
+------
+
+[Social Science](https://en.wikipedia.org/wiki/Social_science)
+------
+
+Formal Science
+------
 
 LaTeX
 ------
-**NQBH's LaTeX templates**: [LaTeX template for article (in English)](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article.tex), [LaTeX template for article in Vietnamese](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article_Vietnamese.tex), [LaTeX template for book](https://github.com/NQBH/hobby/blob/master/LaTeX_template_book.tex). (Actually, LaTeX's package `babel` will handle nicely the problem of switching between English & Vietnamese in these templates, thus there is no `LaTeX_template_book_Vietnamese` listed here).
+**NQBH's LaTeX templates.** [LaTeX template for article (in English)](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article.tex), [LaTeX template for article in Vietnamese](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article_Vietnamese.tex), [LaTeX template for book](https://github.com/NQBH/hobby/blob/master/LaTeX_template_book.tex). (Actually, LaTeX's package `babel` will handle nicely the problem of switching between English & Vietnamese in these templates, thus there is no `LaTeX_template_book_Vietnamese` listed here).
 
 ------
+
 Miscellaneous
 ======
 *How to build NQBH's GitHub Page, i.e., [nqbh.github.io](https://nqbh.github.io/)?* A detailed construction (with bugs) can be viewed at [NQBH's GitHub Page](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.pdf).
