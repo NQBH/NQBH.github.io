@@ -21,6 +21,8 @@ E-mail: <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
 Curriculum Vitae (CV). [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.pdf) (also [CV](/cv/) page in the navigation topbar but not including latest updates & details as in the PDF.)
 
+------
+
 > "The 2 most important days in your life are the day you are born & the day you find out why." -- Mark Twain
 
 > "The essence of mathematics lies in its freedom." -- Georg Cantor
@@ -32,6 +34,8 @@ Curriculum Vitae (CV). [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/ma
 > "In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will. Man takes up the sword in order to shield the small wound in his heart sustained in a far-off time beyond remembrance. Man wields the sword so that he may die smiling in some far-off time beyond perception." -- Kentaro Miura, Berserk, Vol. 1
 
 > "Providence may guide a man to meet 1 specific person, even if such guidance eventually leads him to darkness. Man simply cannot forsake the beauty of his own chosen path. When will man learn a way to control his soul?" -- Kentaro Miura, Berserk
+
+------
 
 [Blog](https://github.com/NQBH/hobby/tree/master/blog)
 ======
@@ -49,13 +53,22 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 ======
 > "[Modern science](https://en.wikipedia.org/wiki/History_of_science#Modern_science) is commonly divided into 3 major [branches](https://en.wikipedia.org/wiki/Branches_of_science): [natural science](https://en.wikipedia.org/wiki/Natural_science), [social science](https://en.wikipedia.org/wiki/Social_science), & [formal science](https://en.wikipedia.org/wiki/Formal_science)." -- [Wikipedia/science/branches of science](https://en.wikipedia.org/wiki/Science#Branches_of_science)
 
+* Nguyễn Quản Bá Hồng. [*Science*](https://github.com/NQBH/hobby/blob/master/science/NQBH_science.pdf). Mar 2022--now. Status: `Just initialize. Still in collecting`.
+
+------
 
 [Natural Science](https://en.wikipedia.org/wiki/Natural_science)
 ------
 
+------
+
 ### Physics
 
+------
+
 [Social Science](https://en.wikipedia.org/wiki/Social_science)
+------
+
 ------
 
 ### Philosophy
@@ -76,6 +89,9 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 ### [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
 
 #### Advanced Mathematics
+* Nguyễn Quản Bá Hồng. [*Some Topics in Mathematical Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.pdf). Mar 2022--now. Status: `Just initialized. Still in writing`.
+
+* Nguyễn Quản Bá Hồng. [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Mar 2022--now. Status: `Just initialized. Still in writing`.
 
 #### Elementary Mathematics
 * Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). Mar 2022--now. Status: `Still in writing`.
@@ -101,7 +117,9 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 ### Computer Science
 
 #### Linux
-* Nguyễn Quản Bá Hồng. [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). Mar 2022--now. Status: `Still in writing`.
+* Nguyễn Quản Bá Hồng. [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). Mar 2022--now. Status: `Still in collecting`.
+
+* Nguyễn Quản Bá Hồng. [*Software*](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.pdf). May 2022--now. `Just initialized. Still in collecting.`.
 
 Science/Miscellaneous
 ------
@@ -122,6 +140,8 @@ I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything whi
 Visitors
 ======
 
+------
+
 Hit Counters
 ------
 I have used 2 hit counters & 3 flag counters here. I will choose the best among them later.
@@ -130,6 +150,8 @@ I have used 2 hit counters & 3 flag counters here. I will choose the best among 
 
  <a href='https://www.stat-counter.org/'>stat-counter.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5d4fcf758e43789e0733c12344359701b24b8290'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/944340/t/0"></script>
+
+------
 
 Flag Counters
 ------
