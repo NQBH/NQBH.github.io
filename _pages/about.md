@@ -19,7 +19,9 @@ I used to believe that Mathematics is my life & only Mathematics can be consider
 
 **E-mail.** <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
-**Curriculum Vitae (CV).** [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.pdf) (also [CV](/cv/) page in the navigation topbar but not including latest updates & details as in the PDF.)
+**Curriculum Vitae (CV).** [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.pdf) (also [CV](/cv/) page in the navigation topbar but not including latest updates & details as in the PDF).
+
+**NQBH's library.** [NQBH/reference](https://github.com/NQBH/reference). Almost all of the references I am reading are uploaded & stored in this GitHub repository. There are some very large files (>> 50 MB) which I cannot upload due to GitHub's maximal filesize. I will list it in [NQBH/reference/oversized file](https://github.com/NQBH/reference/blob/master/oversized_file) & consider to store it later in [Git Large File Storage](https://git-lfs.github.com/) if needed & reasonable.
 
 ------
 
