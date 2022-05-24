@@ -9,9 +9,15 @@ redirect_from:
 ---
 
 ------
-**A brief self-description.** `some adjectives` highly introverted, highly sensitive, minimalist but informative; `some nouns` a disagreeable giver (used to be an agreeable giver before having been psychologically manipulated), a broken eidetiker.
+**A brief self-description.** `some adjectives` highly introverted, highly sensitive, honest, minimalist but/thus (?) informative; `some nouns` a disagreeable giver (used to be an agreeable giver before having been psychologically manipulated), a broken eidetiker.
 
-My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name as a scientist/mathematician is **Nguyen Quan Ba Hong**, or **Hong Quan Ba Nguyen**. I do not & will not use **Hong Nguyen** since there are too many Vietnamese girls with that name &, as a human being (PDE-researcher also), I prefer the uniqueness in literally anything which I am interested about. I also have another name called by my family: **Nguyễn Quản Trung Nhân**, i.e., *"người trung thực"*, nhưng cũng có thể chỉ là *"kẻ trung bình"*.
+My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name as a scientist/mathematician is **Nguyen Quan Ba Hong**, or **Hong Quan Ba Nguyen**. I do not & will not use **Hong Nguyen** since there are too many Vietnamese girls with that name &, as a human being, a PDE-researcher also, I prefer the uniqueness in literally anything which I am interested about. I also have another name called by my family: **Nguyễn Quản Trung Nhân**, i.e., *"người trung thực"*, nhưng cũng có thể chỉ là *"kẻ trung bình"*.
+
+I no longer believe in the adjective *professional*. Now whatever I work on is pure hobby. Doing something as a hobby in a professional way is much better than doing some professional job as a hobby.
+
+I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I find that idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something* Embrace yourself. Let this thirst of knowledge invade. Now I work on, as pure hobbies, a much wider horizon of science.
+
+E-mail: <nguyenquanbahong@gmail.com>.
 
 ------
 
@@ -29,8 +35,20 @@ My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name a
 [Formal Science](https://en.wikipedia.org/wiki/Formal_science)
 ------
 
-LaTeX
+### Data Science
+
+### Logic
+
+### Mathematics
+
+### Statistics
+
+### Computer Science
+
+Science/Miscellaneous
 ------
+
+### LaTeX
 **NQBH's LaTeX templates.** [LaTeX template for article (in English)](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article.tex), [LaTeX template for article in Vietnamese](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article_Vietnamese.tex), [LaTeX template for book](https://github.com/NQBH/hobby/blob/master/LaTeX_template_book.tex). (Actually, LaTeX's package `babel` will handle nicely the problem of switching between English & Vietnamese in these templates, thus there is no `LaTeX_template_book_Vietnamese` listed here).
 
 ------
@@ -40,9 +58,6 @@ Miscellaneous
 *How to build NQBH's GitHub Page, i.e., [nqbh.github.io](https://nqbh.github.io/)?* A detailed construction (with bugs) can be viewed at [NQBH's GitHub Page](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.pdf).
 
 I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion generator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/tree/master/NQBH_GitHub_page).
-
-
-
 
 
 ------
