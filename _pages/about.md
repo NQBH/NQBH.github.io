@@ -17,9 +17,9 @@ I no longer believe in the adjective *professional*. Now whatever I work on is p
 
 I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I find that idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something? To limit your mind or what?* Embrace yourself. Let this thirst of knowledge invade. Now I work on, as pure hobbies, a much wider horizon of science.
 
-E-mail: <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
+**E-mail.** <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
-Curriculum Vitae (CV). [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.pdf) (also [CV](/cv/) page in the navigation topbar but not including latest updates & details as in the PDF.)
+**Curriculum Vitae (CV).** [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.pdf) (also [CV](/cv/) page in the navigation topbar but not including latest updates & details as in the PDF.)
 
 ------
 
@@ -49,11 +49,16 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 ------
 
+[Literature](https://en.wikipedia.org/wiki/Literature)
+======
+
+* Nguyễn Quản Bá Hồng. [*A Personal Journey to Writing*](https://github.com/NQBH/hobby/blob/master/writing/NQBH_a_personal_journey_to_writing.pdf). Mar 2022--now. Status: `still in collecting`
+
 [Science](https://en.wikipedia.org/wiki/Science)
 ======
 > "[Modern science](https://en.wikipedia.org/wiki/History_of_science#Modern_science) is commonly divided into 3 major [branches](https://en.wikipedia.org/wiki/Branches_of_science): [natural science](https://en.wikipedia.org/wiki/Natural_science), [social science](https://en.wikipedia.org/wiki/Social_science), & [formal science](https://en.wikipedia.org/wiki/Formal_science)." -- [Wikipedia/science/branches of science](https://en.wikipedia.org/wiki/Science#Branches_of_science)
 
-* Nguyễn Quản Bá Hồng. [*Science*](https://github.com/NQBH/hobby/blob/master/science/NQBH_science.pdf). Mar 2022--now. Status: `Just initialize. Still in collecting`.
+* Nguyễn Quản Bá Hồng. [*Science*](https://github.com/NQBH/hobby/blob/master/science/NQBH_science.pdf). Mar 2022--now. Status: `just initialize, still in collecting`.
 
 ------
 
@@ -73,11 +78,11 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 ### Philosophy
 
-* Nguyễn Quản Bá Hồng. [*A Personal Journey to Philosophy*](https://github.com/NQBH/hobby/blob/master/philosophy/NQBH_a_personal_journey_to_philosophy.pdf). Mar 2022--now. Status: `Still in writing`.
+* Nguyễn Quản Bá Hồng. [*A Personal Journey to Philosophy*](https://github.com/NQBH/hobby/blob/master/philosophy/NQBH_a_personal_journey_to_philosophy.pdf). Mar 2022--now. Status: `still in writing ...`.
 
 ### Psychology
 
-* Nguyễn Quản Bá Hồng. [*A Personal Journey to Psychology: The Way I Perceive*](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.pdf). Mar 2022--now. Status: `Still in writing`.
+* Nguyễn Quản Bá Hồng. [*A Personal Journey to Psychology: The Way I Perceive*](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.pdf). Mar 2022--now. Status: `still in writing ...`.
 
 [Formal Science](https://en.wikipedia.org/wiki/Formal_science)
 ------
@@ -89,16 +94,19 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 ### [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
 
 #### Advanced Mathematics
-* Nguyễn Quản Bá Hồng. [*Some Topics in Mathematical Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.pdf). Mar 2022--now. Status: `Just initialized. Still in writing`.
+* Nguyễn Quản Bá Hồng. [*Some Topics in Mathematical Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
 
-* Nguyễn Quản Bá Hồng. [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Mar 2022--now. Status: `Just initialized. Still in writing`.
+##### Surveys
+* Nguyễn Quản Bá Hồng. [*A Survey on Navier--Stokes Equations*](https://github.com/NQBH/hobby/blob/master/survey/NSEs/NQBH_survey_NSEs.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
+
+* Nguyễn Quản Bá Hồng. [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
 
 #### Elementary Mathematics
-* Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). Mar 2022--now. Status: `Still in writing`.
+* Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). Mar 2022--now. Status: `still in writing ...`.
 
-- Nguyễn Quản Bá Hồng. [*Elementary Mathematics/Principles*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.pdf). Mar 2022--now. Status: `Still in writing`.
+- Nguyễn Quản Bá Hồng. [*Elementary Mathematics/Principles*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.pdf). Mar 2022--now. Status: `still in writing ...`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). Mar 2022--now. Status: `Still in writing`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). Mar 2022--now. Status: `still in writing ...`.
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). Mar 2022--now. Status: `Not initialized yet`.
 
@@ -106,7 +114,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Mar 2022--now. Status: `Not initialized yet`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Mar 2022--now. Status: `Still in writing`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Mar 2022--now. Status: `still in writing ...`.
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.pdf). Mar 2022--now. Status: `Not initialized yet`.
 
@@ -117,9 +125,9 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 ### Computer Science
 
 #### Linux
-* Nguyễn Quản Bá Hồng. [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). Mar 2022--now. Status: `Still in collecting`.
+* Nguyễn Quản Bá Hồng. [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). Mar 2022--now. Status: `still in collecting`.
 
-* Nguyễn Quản Bá Hồng. [*Software*](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.pdf). May 2022--now. `Just initialized. Still in collecting.`.
+* Nguyễn Quản Bá Hồng. [*Software*](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.pdf). May 2022--now. `just initialized, still in collecting.`.
 
 Science/Miscellaneous
 ------
@@ -131,9 +139,15 @@ Science/Miscellaneous
 
 Miscellaneous
 ======
-*How to build NQBH's GitHub Page, i.e., [nqbh.github.io](https://nqbh.github.io/)?* A detailed construction (with bugs) can be viewed at [NQBH's GitHub Page](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.pdf). Status: `Still in writing`.
+*How to build NQBH's GitHub Page, i.e., [nqbh.github.io](https://nqbh.github.io/)?* A detailed construction (with bugs) can be viewed at [NQBH's GitHub Page](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.pdf). Status: `still in writing ...`.
 
-I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion generator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/tree/master/NQBH_GitHub_page). Status: `Still in writing`.
+I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion generator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/tree/master/NQBH_GitHub_page). Status: `still in writing ...`.
+
+I used to love to draw. Here are some drawings in 2014 -- when I was 18 years old:
+![NQBH's drawing/Hulk](https://github.com/NQBH/hobby/blob/master/drawing/Hulk_3.jpg)
+![NQBH's drawing/random man](https://github.com/NQBH/hobby/blob/master/drawing/man_2.jpg)
+
+I will store other drawings at [NQBH/hobby/drawing](https://github.com/NQBH/hobby/tree/master/drawing) if I draw/paint again.
 
 ------
 
