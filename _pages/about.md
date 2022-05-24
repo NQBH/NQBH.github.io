@@ -13,7 +13,7 @@ redirect_from:
 
 My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name as a scientist/mathematician is **Nguyen Quan Ba Hong**, or **Hong Quan Ba Nguyen**. I do not & will not use **Hong Nguyen** since there are too many Vietnamese girls with that name &, as a human being, a PDE-researcher also, I prefer the uniqueness in literally anything which I am interested about. I also have another name called by my family: **Nguyễn Quản Trung Nhân**, i.e., *"người trung thực"*, nhưng cũng có thể chỉ là *"kẻ trung bình"*.
 
-I no longer believe in the adjective *professional*. Now whatever I work on is pure hobby. Doing something as a hobby in a professional way is much better than doing some professional job as a hobby.
+I no longer believe in the adjective *"professional"*. Now whatever I work on is considered as a pure hobby. Doing something as a hobby in a professional way is much better than doing some professional job as a hobby.
 
 I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I find that idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something? To limit your mind or what?* Embrace yourself. Let this thirst/craving for knowledge invade us. Now I work on, as pure hobbies, a much wider horizon of different fields in science.
 
@@ -77,6 +77,9 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 ------
 
 ### Physics
+I will write a short note on *Elementary Physics*.
+
+* Nguyễn Quản Bá Hồng. *Some Topics in Elementary Physics*. 2022--now. Status: `not initialized yet`.
 
 ------
 
@@ -97,6 +100,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 ------
 
 ### Data Science
+A survey will be inserted here.
 
 ### Logic
 
@@ -130,6 +134,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/NQBH_elementary_mathematics_grade_12.pdf). Mar 2022--now. Status: `Not initialized yet`.
 
 ### Statistics
+A survey will be inserted here.
 
 ### Computer Science
 
