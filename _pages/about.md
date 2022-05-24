@@ -15,7 +15,7 @@ My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name a
 
 I no longer believe in the adjective *professional*. Now whatever I work on is pure hobby. Doing something as a hobby in a professional way is much better than doing some professional job as a hobby.
 
-I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I find that idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something* Embrace yourself. Let this thirst of knowledge invade. Now I work on, as pure hobbies, a much wider horizon of science.
+I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I find that idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something? To limit your mind or what?* Embrace yourself. Let this thirst of knowledge invade. Now I work on, as pure hobbies, a much wider horizon of science.
 
 E-mail: <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
@@ -27,7 +27,7 @@ Curriculum Vitae (CV). [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/ma
 
 > "It is true that a mathematician who is not somewhat of a poet, will never be a perfect mathematician." -- Karl Weierstrass
 
-(The doube *ss* in the end of Weierstrass should be the character ß -- beta-like symbol -- used in German. Trust me. I knew it since I worked at Weierstrass Institute in Berlin, Germany for 1.5 years.)
+(The doube *"ss"* in the end of Weierstrass's name should be the character ß, i.e., beta-like symbol, in his original name, i.e., in German. Trust me: I knew it since I worked at Weierstrass Institute in Berlin, Germany for 1.5 years.)
 
 > "In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will. Man takes up the sword in order to shield the small wound in his heart sustained in a far-off time beyond remembrance. Man wields the sword so that he may die smiling in some far-off time beyond perception." -- Kentaro Miura, Berserk, Vol. 1
 
@@ -36,6 +36,8 @@ Curriculum Vitae (CV). [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/ma
 [Blog](https://github.com/NQBH/hobby/tree/master/blog)
 ======
 [NQBH's principles for blogging](https://github.com/NQBH/hobby/blob/master/blog/NQBH_principles_for_blogging).
+
+I list my blog post *chronologically*. Bloggers usually use *reverse chronological order* instead, i.e., the newest blog post appears 1st then older & older, & then the oldest post -- like an updated list of achievements in CV. I use chronological order here due to the development process of my mindset, & I think this order is more reasonable.
 
 * Nguyễn Quản Bá Hồng. [*Psychological Manipulation*](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation.pdf). May 10, 2021. Versions: [10pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_10pt.pdf), [11pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_11pt.pdf), [12pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_12pt.pdf). Status: `finished`
 
