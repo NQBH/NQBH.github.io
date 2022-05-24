@@ -33,6 +33,14 @@ Curriculum Vitae (CV). [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/ma
 
 > "Providence may guide a man to meet 1 specific person, even if such guidance eventually leads him to darkness. Man simply cannot forsake the beauty of his own chosen path. When will man learn a way to control his soul?" -- Kentaro Miura, Berserk
 
+[Blog](https://github.com/NQBH/hobby/tree/master/blog)
+======
+[NQBH's principles for blogging](https://github.com/NQBH/hobby/blob/master/blog/NQBH_principles_for_blogging).
+
+* Nguyễn Quản Bá Hồng. [*Psychological Manipulation*](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation.pdf). May 10, 2021. Versions: [10pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_10pt.pdf), [11pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_11pt.pdf), [12pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_12pt.pdf). Status: `finished`
+
+* Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still writing...`
+
 ------
 
 [Science](https://en.wikipedia.org/wiki/Science)
