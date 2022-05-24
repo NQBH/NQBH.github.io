@@ -144,8 +144,14 @@ Miscellaneous
 I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion generator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/tree/master/NQBH_GitHub_page). Status: `still in writing ...`.
 
 I used to love to draw. Here are some drawings in 2014 -- when I was 18 years old:
+
 ![NQBH's drawing/Hulk](https://github.com/NQBH/hobby/blob/master/drawing/Hulk_3.jpg)
+
+![NQBH's drawing/Hulk](/images/Hulk_3.jpg)
+
 ![NQBH's drawing/random man](https://github.com/NQBH/hobby/blob/master/drawing/man_2.jpg)
+
+![NQBH's drawing/random man](/images/man_2.jpg)
 
 I will store other drawings at [NQBH/hobby/drawing](https://github.com/NQBH/hobby/tree/master/drawing) if I draw/paint again.
 
