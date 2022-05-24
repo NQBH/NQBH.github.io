@@ -15,7 +15,7 @@ My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name a
 
 I no longer believe in the adjective *"professional"*. Now whatever I work on is considered as a pure hobby. Doing something as a hobby in a professional way is much better than doing some professional job as a hobby.
 
-I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I find that idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something? To limit your mind or what?* Embrace yourself. Let this thirst/craving for knowledge invade us. Now I work on, as pure hobbies, a much wider horizon of different fields in science.
+I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I realize that this idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something? To limit your mind or what?* Embrace yourself. Let this thirst/craving for knowledge invade us. Now I work on, as pure hobbies, a much wider horizon of different fields in science.
 
 **E-mail.** <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
@@ -58,13 +58,13 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 [Literature](https://en.wikipedia.org/wiki/Literature)
 ======
 
-* Nguyễn Quản Bá Hồng. [*A Personal Journey to Writing*](https://github.com/NQBH/hobby/blob/master/writing/NQBH_a_personal_journey_to_writing.pdf). Mar 2022--now. Status: `still in collecting`
+* Nguyễn Quản Bá Hồng. [*A Personal Journey to Writing*](https://github.com/NQBH/hobby/blob/master/writing/NQBH_a_personal_journey_to_writing.pdf). Mar 2022--now. Status: `still in collecting ...`
 
 [Science](https://en.wikipedia.org/wiki/Science)
 ======
 > "[Modern science](https://en.wikipedia.org/wiki/History_of_science#Modern_science) is commonly divided into 3 major [branches](https://en.wikipedia.org/wiki/Branches_of_science): [natural science](https://en.wikipedia.org/wiki/Natural_science), [social science](https://en.wikipedia.org/wiki/Social_science), & [formal science](https://en.wikipedia.org/wiki/Formal_science)." -- [Wikipedia/science/branches of science](https://en.wikipedia.org/wiki/Science#Branches_of_science)
 
-* Nguyễn Quản Bá Hồng. [*Science*](https://github.com/NQBH/hobby/blob/master/science/NQBH_science.pdf). Mar 2022--now. Status: `just initialize, still in collecting`.
+* Nguyễn Quản Bá Hồng. [*Science*](https://github.com/NQBH/hobby/blob/master/science/NQBH_science.pdf). Mar 2022--now. Status: `just initialize, still in collecting ...`.
 
 [NQBH's favorite/target journals](https://github.com/NQBH/hobby/tree/master/journal).
 
@@ -139,15 +139,15 @@ A survey will be inserted here.
 ### Computer Science
 
 #### Linux
-* Nguyễn Quản Bá Hồng. [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). Mar 2022--now. Status: `still in collecting`.
+* Nguyễn Quản Bá Hồng. [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). Mar 2022--now. Status: `still in collecting ...`.
 
-* Nguyễn Quản Bá Hồng. [*Software*](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.pdf). May 2022--now. `just initialized, still in collecting.`.
+* Nguyễn Quản Bá Hồng. [*Software*](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.pdf). May 2022--now. `just initialized, still in collecting ...`.
 
 Science/Miscellaneous
 ------
 
 ### TeX/LaTeX
-* Nguyễn Quản Bá Hồng. [*TeX*](https://github.com/NQBH/hobby/blob/master/TeX/NQBH_TeX.pdf). Apr 2022--now. Status: `still collecting...`.
+* Nguyễn Quản Bá Hồng. [*TeX*](https://github.com/NQBH/hobby/blob/master/TeX/NQBH_TeX.pdf). Apr 2022--now. Status: `still collecting ...`.
 
 **NQBH's LaTeX templates.** [LaTeX template for article (in English)](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article.tex), [LaTeX template for article in Vietnamese](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article_Vietnamese.tex), [LaTeX template for book](https://github.com/NQBH/hobby/blob/master/LaTeX_template_book.tex). (Actually, LaTeX's package `babel` will handle nicely the problem of switching between English & Vietnamese in these templates, thus there is no `LaTeX_template_book_Vietnamese` listed here).
 
