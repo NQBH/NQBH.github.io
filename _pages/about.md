@@ -15,7 +15,7 @@ My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name a
 
 I no longer believe in the adjective *professional*. Now whatever I work on is pure hobby. Doing something as a hobby in a professional way is much better than doing some professional job as a hobby.
 
-I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I find that idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something? To limit your mind or what?* Embrace yourself. Let this thirst of knowledge invade. Now I work on, as pure hobbies, a much wider horizon of science.
+I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I find that idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something? To limit your mind or what?* Embrace yourself. Let this thirst/craving for knowledge invade us. Now I work on, as pure hobbies, a much wider horizon of different fields in science.
 
 **E-mail.** <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
@@ -47,7 +47,7 @@ I used to believe that Mathematics is my life & only Mathematics can be consider
 
 I list my blog posts *chronologically*. Bloggers usually use *reverse chronological order* instead, i.e., the newest blog post appears 1st then older & older, & then the oldest post -- like an updated list of achievements in CV. I use chronological order here due to the development process of my mindset, & I think this order is more reasonable.
 
-* Nguyễn Quản Bá Hồng. [*Psychological Manipulation*](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation.pdf). May 10, 2021. Versions: [10pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_10pt.pdf), [11pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_11pt.pdf), [12pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_12pt.pdf). Status: `finished`
+* Nguyễn Quản Bá Hồng. [*Psychological Manipulation*](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation.pdf). May 10, 2021. Versions: [10pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_10pt.pdf), [11pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_11pt.pdf), [12pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_12pt.pdf). Status: `finished`.
 
 * Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still in writing...`
 
@@ -72,6 +72,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 [Natural Science](https://en.wikipedia.org/wiki/Natural_science)
 ------
+[NQBH's principles for publication](https://github.com/NQBH/publication/blob/master/NQBH_principles_for_publication).
 
 ------
 
