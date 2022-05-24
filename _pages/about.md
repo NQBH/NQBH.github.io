@@ -18,6 +18,7 @@ I no longer believe in the adjective *professional*. Now whatever I work on is p
 I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I find that idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something* Embrace yourself. Let this thirst of knowledge invade. Now I work on, as pure hobbies, a much wider horizon of science.
 
 E-mail: <nguyenquanbahong@gmail.com>.
+Curriculum Vitae (CV). [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.pdf) (also [CV](/cv/) but not including latest updates & details as in the PDF.)
 
 ------
 
