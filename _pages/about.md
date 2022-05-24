@@ -37,11 +37,11 @@ Curriculum Vitae (CV). [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/ma
 ======
 [NQBH's principles for blogging](https://github.com/NQBH/hobby/blob/master/blog/NQBH_principles_for_blogging).
 
-I list my blog post *chronologically*. Bloggers usually use *reverse chronological order* instead, i.e., the newest blog post appears 1st then older & older, & then the oldest post -- like an updated list of achievements in CV. I use chronological order here due to the development process of my mindset, & I think this order is more reasonable.
+I list my blog posts *chronologically*. Bloggers usually use *reverse chronological order* instead, i.e., the newest blog post appears 1st then older & older, & then the oldest post -- like an updated list of achievements in CV. I use chronological order here due to the development process of my mindset, & I think this order is more reasonable.
 
 * Nguyễn Quản Bá Hồng. [*Psychological Manipulation*](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation.pdf). May 10, 2021. Versions: [10pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_10pt.pdf), [11pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_11pt.pdf), [12pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_12pt.pdf). Status: `finished`
 
-* Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still writing...`
+* Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still in writing...`
 
 ------
 
@@ -53,12 +53,18 @@ I list my blog post *chronologically*. Bloggers usually use *reverse chronologic
 [Natural Science](https://en.wikipedia.org/wiki/Natural_science)
 ------
 
+### Physics
+
 [Social Science](https://en.wikipedia.org/wiki/Social_science)
 ------
 
 ### Philosophy
 
+* Nguyễn Quản Bá Hồng. [*A Personal Journey to Philosophy*](https://github.com/NQBH/hobby/blob/master/philosophy/NQBH_a_personal_journey_to_philosophy.pdf). Mar 2022--now. Status: `Still in writing`.
+
 ### Psychology
+
+* Nguyễn Quản Bá Hồng. [*A Personal Journey to Psychology: The Way I Perceive*](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.pdf). Mar 2022--now. Status: `Still in writing`.
 
 [Formal Science](https://en.wikipedia.org/wiki/Formal_science)
 ------
@@ -67,11 +73,35 @@ I list my blog post *chronologically*. Bloggers usually use *reverse chronologic
 
 ### Logic
 
-### Mathematics
+### [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
+
+#### Advanced Mathematics
+
+#### Elementary Mathematics
+* Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). Mar 2022--now. Status: `Still in writing`.
+
+- Nguyễn Quản Bá Hồng. [*Elementary Mathematics/Principles*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.pdf). Mar 2022--now. Status: `Still in writing`.
+
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). Mar 2022--now. Status: `Still in writing`.
+
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). Mar 2022--now. Status: `Not initialized yet`.
+
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). Mar 2022--now. Status: `Not initialized yet`.
+
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Mar 2022--now. Status: `Not initialized yet`.
+
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Mar 2022--now. Status: `Still in writing`.
+
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.pdf). Mar 2022--now. Status: `Not initialized yet`.
+
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/NQBH_elementary_mathematics_grade_12.pdf). Mar 2022--now. Status: `Not initialized yet`.
 
 ### Statistics
 
 ### Computer Science
+
+#### Linux
+* Nguyễn Quản Bá Hồng. [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). Mar 2022--now. Status: `Still in writing`.
 
 Science/Miscellaneous
 ------
@@ -83,10 +113,9 @@ Science/Miscellaneous
 
 Miscellaneous
 ======
-*How to build NQBH's GitHub Page, i.e., [nqbh.github.io](https://nqbh.github.io/)?* A detailed construction (with bugs) can be viewed at [NQBH's GitHub Page](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.pdf).
+*How to build NQBH's GitHub Page, i.e., [nqbh.github.io](https://nqbh.github.io/)?* A detailed construction (with bugs) can be viewed at [NQBH's GitHub Page](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.pdf). Status: `Still in writing`.
 
-I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion generator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/tree/master/NQBH_GitHub_page).
-
+I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion generator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/tree/master/NQBH_GitHub_page). Status: `Still in writing`.
 
 ------
 
