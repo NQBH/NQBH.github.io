@@ -8,18 +8,23 @@ redirect_from:
   - /about.html
 ---
 
+------
 **A brief self-description.** Highly introverted, highly sensitive, a disagreeable giver (used to be an agreeable giver before having been psychologically manipulated), minimalist but informative.
 
+------
 Miscellaneous
 ======
+------
 *How to build NQBH's GitHub Page, i.e., [nqbh.github.io](https://nqbh.github.io/)?* A detailed construction (with bugs) can be viewed at [NQBH's GitHub Page](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.pdf).
 
-I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion genenrator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/tree/master/NQBH_GitHub_page)
+I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion generator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/tree/master/NQBH_GitHub_page)
 
 **NQBH's LaTeX templates**: [LaTeX template for article (in English)](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article.tex), [LaTeX template for article in Vietnamese](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article_Vietnamese.tex), [LaTeX template for book](https://github.com/NQBH/hobby/blob/master/LaTeX_template_book.tex). (Actually, LaTeX's package `babel` will handle nicely the problem of switching between English & Vietnamese in these templates, thus there is no LaTeX_template_book_Vietnamese).
 
+------
 Visitors
 ======
+------
 
 Hit Counters
 ------
