@@ -11,6 +11,9 @@ redirect_from:
 ------
 **A brief self-description.** `some adjectives` highly introverted, highly sensitive, minimalist but informative; `some nouns` a disagreeable giver (used to be an agreeable giver before having been psychologically manipulated), a broken eidetiker.
 
+My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name as a scientist/mathematician is **Nguyen Quan Ba Hong**, or **Hong Quan Ba Nguyen**. I do not & will not use **Hong Nguyen** since there are too many Vietnamese girls with that name &, as a human being (PDE-researcher also), I prefer the uniqueness in literally anything which I am interested about.
+
+I also have another name called by my family: **Nguyễn Quản Trung Nhân**, i.e., *người trung thực*, nhưng cũng có thể là *kẻ trung bình*.
 ------
 
 [Science](https://en.wikipedia.org/wiki/Science)
@@ -24,7 +27,7 @@ redirect_from:
 [Social Science](https://en.wikipedia.org/wiki/Social_science)
 ------
 
-Formal Science
+[Formal Science](https://en.wikipedia.org/wiki/Formal_science)
 ------
 
 LaTeX
