@@ -13,15 +13,15 @@ redirect_from:
 
 My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name as a scientist/mathematician is **Nguyen Quan Ba Hong**, or **Hong Quan Ba Nguyen**. I do not & will not use **Hong Nguyen** since there are too many Vietnamese girls with that name &, as a human being, a PDE-researcher also, I prefer the uniqueness in literally anything which I am interested about. I also have another name called by my family: **Nguyễn Quản Trung Nhân**, i.e., *"người trung thực"*, nhưng cũng có thể chỉ là *"kẻ trung bình"*.
 
-I no longer believe in the adjective *"professional"*. Now whatever I work on is considered as a pure hobby. Doing something as a hobby in a professional way is much better than doing some professional job as a hobby.
+I no longer believe in the adjective *"professional"*. Now whatever I work on is considered as a pure love & hobby. Doing something as a hobby in a professional way is much better than doing some professional job as a hobby.
 
-I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I realize that this idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something? To limit your mind or what?* Embrace yourself. Let this thirst/craving for knowledge invade us. Now I work on, as pure hobbies, a much wider horizon of different fields in science.
+I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I realize that this idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something? To limit your mind or what?* Embrace yourself. Let this thirst/craving for the blood of knowledge invade us. Now I work on, as pure hobbies, a much wider horizon of different fields in science.
 
 **E-mail.** <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
 **Curriculum Vitae (CV).** [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.pdf) (also [CV](/cv/) page in the navigation topbar but not including latest updates & details as in the PDF).
 
-**NQBH's library.** [NQBH/reference](https://github.com/NQBH/reference) & my [BibTeX file](https://github.com/NQBH/reference/blob/master/bib.bib). Almost all of the references I am reading are uploaded & stored in this GitHub repository. There are some very large files (>> 50 MB) which I cannot upload due to GitHub's maximal filesize. I will list it in [NQBH/reference/oversized file](https://github.com/NQBH/reference/blob/master/oversized_file) & consider to store it later in [Git Large File Storage](https://git-lfs.github.com/) if needed & reasonable.
+**NQBH's library.** [NQBH/reference](https://github.com/NQBH/reference) & my [BibTeX file](https://github.com/NQBH/reference/blob/master/bib.bib). Almost all of the references I am reading are uploaded & stored in this GitHub repository. There are some very large files (>> 50 MB) which I cannot upload due to GitHub's maximal filesize. I will list them in [NQBH/reference/oversized file](https://github.com/NQBH/reference/blob/master/oversized_file) & consider to store it later in [Git Large File Storage](https://git-lfs.github.com/) if needed & reasonable.
 
 **NQBH's YouTube channel.** [YouTube/NQBH](https://www.youtube.com/channel/UCpKFOGpBNuVW3Rz8s_ps2kg) & some notes on its content can be viewed here [NQBH/hobby/YouTube](https://github.com/NQBH/hobby/tree/master/YouTube).
 
@@ -49,9 +49,9 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * Nguyễn Quản Bá Hồng. [*Psychological Manipulation*](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation.pdf). May 10, 2021. Versions: [10pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_10pt.pdf), [11pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_11pt.pdf), [12pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_12pt.pdf). Status: `finished`.
 
-* Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still in writing...`
+* Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still in writing ...`
 
-* Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: The Promised Neverland***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret`. Note: `NQBH's map of all other files` -- `The Head of The Snake`. 
+* Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: The Promised Neverland***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`. 
 
 ------
 
@@ -121,17 +121,17 @@ A survey will be inserted here.
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). Mar 2022--now. Status: `still in writing ...`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). Mar 2022--now. Status: `Not initialized yet`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). Mar 2022--now. Status: `not initialized yet`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). Mar 2022--now. Status: `Not initialized yet`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). Mar 2022--now. Status: `not initialized yet`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Mar 2022--now. Status: `Not initialized yet`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Mar 2022--now. Status: `not initialized yet`.
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Mar 2022--now. Status: `still in writing ...`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.pdf). Mar 2022--now. Status: `Not initialized yet`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.pdf). Mar 2022--now. Status: `not initialized yet`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/NQBH_elementary_mathematics_grade_12.pdf). Mar 2022--now. Status: `Not initialized yet`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/NQBH_elementary_mathematics_grade_12.pdf). Mar 2022--now. Status: `not initialized yet`.
 
 ### Statistics
 A survey will be inserted here.
@@ -147,7 +147,7 @@ Science/Miscellaneous
 ------
 
 ### TeX/LaTeX
-* Nguyễn Quản Bá Hồng. [*TeX*](https://github.com/NQBH/hobby/blob/master/TeX/NQBH_TeX.pdf). Apr 2022--now. Status: `still collecting ...`.
+* Nguyễn Quản Bá Hồng. [*TeX*](https://github.com/NQBH/hobby/blob/master/TeX/NQBH_TeX.pdf). Apr 2022--now. Status: `still in collecting ...`.
 
 **NQBH's LaTeX templates.** [LaTeX template for article (in English)](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article.tex), [LaTeX template for article in Vietnamese](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article_Vietnamese.tex), [LaTeX template for book](https://github.com/NQBH/hobby/blob/master/LaTeX_template_book.tex). (Actually, LaTeX's package `babel` will handle nicely the problem of switching between English & Vietnamese in these templates, thus there is no `LaTeX_template_book_Vietnamese` listed here).
 
