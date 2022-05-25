@@ -161,13 +161,9 @@ Miscellaneous
 
 * I used to love to draw. Here are some drawings in 2014 -- when I was 18 years old:
 
-![NQBH's drawing/Hulk](https://github.com/NQBH/hobby/blob/master/drawing/Hulk_3.jpg)
+![NQBH's drawing/Hulk](/images/Hulk_3.jpg "Hulk")
 
-![NQBH's drawing/Hulk](/images/Hulk_3.jpg)
-
-![NQBH's drawing/random man](https://github.com/NQBH/hobby/blob/master/drawing/man_2.jpg)
-
-![NQBH's drawing/random man](/images/man_2.jpg)
+![NQBH's drawing/random man](/images/man_2.jpg "A random man")
 
 I will store other drawings at [NQBH/hobby/drawing](https://github.com/NQBH/hobby/tree/master/drawing) if I draw/paint again.
 
