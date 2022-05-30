@@ -13,7 +13,7 @@ redirect_from:
 
 My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name as a scientist/mathematician is **Nguyen Quan Ba Hong**, or **Hong Quan Ba Nguyen**. I do not & will not use **Hong Nguyen** since there are too many Vietnamese girls with that name &, as a human being, a PDE-researcher also, I prefer the uniqueness in literally anything which I am interested about. I also have another name called by my family: **Nguyễn Quản Trung Nhân**, i.e., *"người trung thực"*, nhưng cũng có thể chỉ là *"kẻ trung bình"*.
 
-I no longer believe in the adjective *"professional"*. Now whatever I work on is considered as a pure love & hobby. Doing something as a hobby in a professional way is much better than doing some professional job as a hobby.
+I no longer believe in the adjective *"professional"*. Now whatever I work on is considered as a pure love & hobby. Doing some hobby in a professional way is much better than doing some professional job as a hobby. Nevertheless, if you can do your professional job as a hobby in a professional way, then you win -- a true winner.
 
 I used to believe that Mathematics is my life & only Mathematics can be considered like that, but now, after having increased my awareness & perception, I realize that this idea & the old me are bullshit. I have negated many parts of myself to be able to move forward. *Why only work on something? To limit your mind or what?* Embrace yourself. Let this thirst/craving for the blood of knowledge invade us. Now I work on, as pure hobbies, a much wider horizon of different fields in science.
 
