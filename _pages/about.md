@@ -157,7 +157,7 @@ Miscellaneous
 ======
 * *How to build NQBH's GitHub Page, i.e., [nqbh.github.io](https://nqbh.github.io/)?* A detailed construction (with bugs) can be viewed at [NQBH's GitHub Page](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.pdf). Status: `still in writing ...`.
 
-* I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion generator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/tree/master/NQBH_GitHub_page). Status: `still in writing ...`.
+* I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion generator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/blob/master/anime_manga_movie_music_quote/NQBH_anime_manga_movie_music_quote.pdf). Status: `still in writing ...`.
 
 * I used to love to draw. Here are some drawings in 2014 -- when I was 18 years old:
 
