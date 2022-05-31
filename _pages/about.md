@@ -181,10 +181,7 @@ I have used 2 hit counters & 3 flag counters for my GitHub page (Google Analytic
 
 Hit Counters
 ------
-
-<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ2MjYyOQ==' border='0'></a></div>
-
- <a href='https://www.stat-counter.org/'>stat-counter.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5d4fcf758e43789e0733c12344359701b24b8290'></script>
+<a href='https://www.stat-counter.org/'>stat-counter.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5d4fcf758e43789e0733c12344359701b24b8290'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/944340/t/0"></script>
 
 ------
