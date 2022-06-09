@@ -165,7 +165,7 @@ Miscellaneous
 
 ![NQBH's drawing/random man](/images/man_2.jpg "A random man")
 
-I will store other drawings at [NQBH/hobby/drawing](https://github.com/NQBH/hobby/tree/master/drawing) if I draw/paint again.
+I will store other drawings at [NQBH/hobby/drawing](https://github.com/NQBH/hobby/tree/master/drawing) if I draw/paint again. [NQBH's collection on drawing](https://github.com/NQBH/hobby/blob/master/drawing/NQBH_drawing.pdf).
 
 * [NQBH's favorite 9gag memes & gifs](https://github.com/NQBH/hobby/tree/master/9gag).
 
