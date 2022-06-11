@@ -185,6 +185,9 @@ Hit Counters
 <a href='https://www.stat-counter.org/'>stat-counter.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5d4fcf758e43789e0733c12344359701b24b8290'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/944340/t/0"></script>
 
+<script type="text/javascript" src="https://www.stat-counter.org/count/aw4j"></script><br>
+ <a href='http://www.counter-zaehler.de'>besucherzähler homepage</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=8b8e1e7cc5a6044e3fdcca24cebbfaff9007df2e'></script>
+
 ------
 
 Flag Counters
