@@ -11,7 +11,7 @@ redirect_from:
 ------
 **A brief self-description.** `some adjectives` highly introverted, highly sensitive, honest, minimalist but/thus (?) informative; `some noun phrases` dyslexia/reading disorder, a disagreeable giver (used to be an agreeable giver before having been psychologically manipulated), a broken eidetiker.
 
-My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name as a scientist/mathematician is **Nguyen Quan Ba Hong**, or **Hong Quan Ba Nguyen**. I do not & will not use **Hong Nguyen** since there are too many Vietnamese girls with that name &, as a human being, a PDE-researcher also, I prefer the uniqueness in literally anything which I am interested about. I also have another name called by my family: **Nguyễn Quản Trung Nhân**, i.e., *"người trung thực"*, nhưng cũng có thể chỉ là *"kẻ trung bình"*.
+My Vietnamese full name is **Nguyễn Quản Bá Hồng**. My publication name as a scientist/mathematician is **Nguyen Quan Ba Hong**, or **Hong Quan Ba Nguyen**. I do not & will not use **Hong Nguyen** since there are too many Vietnamese girls with that name &, as a human being, a PDE-researcher also, I prefer the uniqueness in literally anything in which I am interested. I also have another name called by my family: **Nguyễn Quản Trung Nhân**, i.e., *"người trung thực"*, nhưng cũng có thể chỉ là *"kẻ trung bình"*.
 
 I no longer believe in the adjective *"professional"*. Now whatever I work on is considered as a pure love & hobby. Doing some hobby in a professional way is much better than doing some professional job as a hobby. Nevertheless, if you can do your professional job as a hobby in a professional way, then you win -- a true winner.
 
@@ -182,9 +182,6 @@ I have used 2 hit counters & 3 flag counters for my GitHub page (Google Analytic
 Hit Counters
 ------
 
-<a href='https://www.stat-counter.org/'>stat-counter.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=5d4fcf758e43789e0733c12344359701b24b8290'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/944340/t/0"></script>
-
 <script type="text/javascript" src="https://www.stat-counter.org/count/aw4j"></script><br>
  <a href='http://www.counter-zaehler.de'>besucherzähler homepage</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=8b8e1e7cc5a6044e3fdcca24cebbfaff9007df2e'></script>
 
@@ -193,8 +190,8 @@ Hit Counters
 Flag Counters
 ------
 
-<a href="https://info.flagcounter.com/zp3Q"><img src="https://s01.flagcounter.com/countxl/zp3Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_Flag+Counter/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
 <a href="https://flaghitcounter.com/details/5D"><img src="https://flaghitcounter.com/5D/" alt="Flag Counter"></a>
 
 <a href="https://www.flagcounter.me/details/cQh"><img src="https://www.flagcounter.me/cQh/" alt="Flag Counter"></a>
+
+<a href="https://info.flagcounter.com/zp3Q"><img src="https://s01.flagcounter.com/countxl/zp3Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_Flag+Counter/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
