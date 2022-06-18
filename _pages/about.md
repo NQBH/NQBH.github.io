@@ -47,11 +47,17 @@ I used to believe that Mathematics is my life & only Mathematics can be consider
 
 I list my blog posts *chronologically*. Bloggers usually use *reverse chronological order* instead, i.e., the newest blog post appears 1st then older & older, & then the oldest post -- like an updated list of achievements in CV. I use chronological order here due to the development process of my mindset, & I think this order is more reasonable.
 
+* Nguyễn Quản Bá Hồng. [*Optimal Shape Design for Air Ducts*](https://github.com/NQBH/hobby/blob/master/ROMSOC/blog/optimal_shape_design_of_airducts/NQBH_ROMSOC_blog.pdf). [ROMSOC/blog/Optimal shape design of air ducts]. Nov 30, 2020.
+
 * Nguyễn Quản Bá Hồng. [*Psychological Manipulation*](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation.pdf). May 10, 2021. Versions: [10pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_10pt.pdf), [11pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_11pt.pdf), [12pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_12pt.pdf). Status: `finished`.
 
 * Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still in writing ...`
 
-* Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: The Promised Neverland***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`. 
+* Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: The Promised Neverland***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`.
+
+- Nguyễn Quản Bá Hồng. [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). Jun 2022--now.
+
+- Nguyễn Quản Bá Hồng. *Simplicity*. Jun 2022--now.
 
 ------
 
@@ -107,6 +113,9 @@ A survey will be inserted here.
 ### [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
 
 #### Advanced Mathematics
+
+* Hong Quan Ba Nguyen. [*Research Profile*](https://github.com/NQBH/hobby/blob/master/WIAS/WIAS-Day2021/nguyen_RG8/nguyen_RG8.pdf). Research Group 8. WIAS Day 2021. Feb 19, 2021.
+
 * Nguyễn Quản Bá Hồng. [*Some Topics in Mathematical Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
 
 ##### Surveys
