@@ -188,11 +188,11 @@ Donations & Tutor Fees
 ======
 If you want to donate money for my artworks or pay tutor fees for my online classes, choose 1 of the following methods:
 
-**NQBH's Vietnamese Bank Account.** Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB). Swiftcode: ASCBVNVX. Số Tài Khoản: 1510717. Chủ Tài Khoản: Nguyễn Quản Bá Hồng. Chi Nhánh: ACB-CN Bến Tre.
+**NQBH's Vietnamese Bank Account.** Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB). Swiftcode: `ASCBVNVX`. Số Tài Khoản: `1510717`. Chủ Tài Khoản: `Nguyễn Quản Bá Hồng`. Chi Nhánh: `ACB-CN Bến Tre`.
 
-**NQBH's French Bank Account.** BNP Paribas (France). IBAN: FR76 30004 03065 00000783718 86. Account Holder: Nguyen Quan Ba Hong. BIC: BNPAFRPPXXX
+**NQBH's French Bank Account.** BNP Paribas (France). IBAN: `FR76 30004 03065 00000783718 86`. Account Holder: `Nguyen Quan Ba Hong`. BIC: `BNPAFRPPXXX`.
 
-**Paypal.** nguyenquanbahong@gmail.com
+**Paypal.** `nguyenquanbahong@gmail.com`.
 
 ------
 
