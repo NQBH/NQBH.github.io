@@ -55,9 +55,9 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: The Promised Neverland***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`.
 
-  + Nguyễn Quản Bá Hồng. [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). Jun 2022--now.
+  + Nguyễn Quản Bá Hồng. [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`
 
-  + Nguyễn Quản Bá Hồng. *Simplicity*. Jun 2022--now.
+  + Nguyễn Quản Bá Hồng. *Simplicity*. Jun 2022--now. Status: `just initialized, still in writing ...`
 
 ------
 
