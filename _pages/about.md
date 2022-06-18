@@ -125,7 +125,7 @@ A survey will be inserted here.
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). Mar 2022--now. Status: `not initialized yet`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Mar 2022--now. Status: `not initialized yet`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Mar 2022--now. Status: `still in writing ...`.
 
@@ -170,6 +170,16 @@ I will store other drawings at [NQBH/hobby/drawing](https://github.com/NQBH/hobb
 * [NQBH's favorite 9gag memes & gifs](https://github.com/NQBH/hobby/tree/master/9gag).
 
 * [NQBH's favorite pictures of cuteness](https://github.com/NQBH/hobby/tree/master/picture) (girls, cats & dogs, etc.).
+
+------
+
+Donations & Tutor Fees
+======
+**NQBH's Vietnamese Bank Account.** Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB). Swiftcode: ASCBVNVX. Số Tài Khoản: 1510717. Chủ Tài Khoản: Nguyễn Quản Bá Hồng. Chi Nhánh: ACB-CN Bến Tre.
+
+**NQBH's French Bank Account.** BNP Paribas (France). IBAN: FR76 30004 03065 00000783718 86. Account Holder: Nguyen Quan Ba Hong. BIC: BNPAFRPPXXX
+
+**Paypal.** nguyenquanbahong@gmail.com
 
 ------
 
