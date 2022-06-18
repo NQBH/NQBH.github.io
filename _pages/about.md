@@ -115,6 +115,8 @@ A survey will be inserted here.
 * Nguyễn Quản Bá Hồng. [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
 
 #### Elementary Mathematics
+I will held online classes to teach elementary mathematics, elementary physics, & basic programming. Contact my email to join. I will add you to some Facebook groups in order to upload materials & discuss easier.
+
 * Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). Mar 2022--now. Status: `still in writing ...`.
 
 - Nguyễn Quản Bá Hồng. [*Elementary Mathematics/Principles*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.pdf). Mar 2022--now. Status: `still in writing ...`.
@@ -175,6 +177,8 @@ I will store other drawings at [NQBH/hobby/drawing](https://github.com/NQBH/hobb
 
 Donations & Tutor Fees
 ======
+If you want to donate money for my artworks or pay tutor fees for my online classes, choose 1 of the following methods:
+
 **NQBH's Vietnamese Bank Account.** Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB). Swiftcode: ASCBVNVX. Số Tài Khoản: 1510717. Chủ Tài Khoản: Nguyễn Quản Bá Hồng. Chi Nhánh: ACB-CN Bến Tre.
 
 **NQBH's French Bank Account.** BNP Paribas (France). IBAN: FR76 30004 03065 00000783718 86. Account Holder: Nguyen Quan Ba Hong. BIC: BNPAFRPPXXX
