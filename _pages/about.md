@@ -116,7 +116,13 @@ A survey will be inserted here.
 
 * Hong Quan Ba Nguyen. [*Research Profile*](https://github.com/NQBH/hobby/blob/master/WIAS/WIAS-Day2021/nguyen_RG8/nguyen_RG8.pdf). Research Group 8. WIAS Day 2021. Feb 19, 2021.
 
+* Nguyễn Quản Bá Hồng. [*Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/NQBH_advanced_mathematics.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
+
+* Nguyễn Quản Bá Hồng. [*Bayesian Inverse Problem*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/Bayesian_inverse_problem/NQBH_Bayesian_inverse_problem.pdf). Aug 3, 2021. [Gallery](https://github.com/NQBH/hobby/tree/master/advanced_mathematics/Bayesian_inverse_problem/gallery). [MATLAB codes](https://github.com/NQBH/hobby/tree/master/advanced_mathematics/Bayesian_inverse_problem/MATLAB).
+
 * Nguyễn Quản Bá Hồng. [*Some Topics in Mathematical Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
+
+* Nguyễn Quản Bá Hồng. [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
 ##### Surveys
 * Nguyễn Quản Bá Hồng. [*A Survey on Navier--Stokes Equations*](https://github.com/NQBH/hobby/blob/master/survey/NSEs/NQBH_survey_NSEs.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
@@ -130,15 +136,15 @@ I will held online classes to teach elementary mathematics, elementary physics, 
 
 - Nguyễn Quản Bá Hồng. [*Elementary Mathematics/Principles*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.pdf). Mar 2022--now. Status: `still in writing ...`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). Mar 2022--now. Status: `still in writing ...`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). Mar 2022--now. Status: `still in writing ...`. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_6/resource).
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). Mar 2022--now. Status: `not initialized yet`.
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). Mar 2022--now. Status: `not initialized yet`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource).
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Mar 2022--now. Status: `still in writing ...`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Mar 2022--now. Status: `still in writing ...`. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource).
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.pdf). Mar 2022--now. Status: `not initialized yet`.
 
