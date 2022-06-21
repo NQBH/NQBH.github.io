@@ -136,15 +136,15 @@ I will held online classes to teach elementary mathematics, elementary physics, 
 
 - Nguyễn Quản Bá Hồng. [*Elementary Mathematics/Principles*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.pdf). Mar 2022--now. Status: `still in writing ...`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). Mar 2022--now. Status: `still in writing ...`. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_6/resource).
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). Mar 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_6/resource). Status: `still in writing ...`.
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). Mar 2022--now. Status: `not initialized yet`.
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). Mar 2022--now. Status: `not initialized yet`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource).
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Mar 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource). Status: `just initialized, still in writing ...`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Mar 2022--now. Status: `still in writing ...`. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource).
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Mar 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource). Status: `still in writing ...`.
 
 - Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.pdf). Mar 2022--now. Status: `not initialized yet`.
 
@@ -204,15 +204,6 @@ If you want to donate money for my artworks or pay tutor fees for my online clas
 
 Visitors
 ======
-I have used 2 hit counters & 3 flag counters for my GitHub page (Google Analytics is also a good idea if needed). I will choose the best among them later.
-
-------
-
-Hit Counters
-------
-
-<script type="text/javascript" src="https://www.stat-counter.org/count/aw4j"></script><br>
- <a href='http://www.counter-zaehler.de'>besucherzähler homepage</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=8b8e1e7cc5a6044e3fdcca24cebbfaff9007df2e'></script>
 
 ------
 
