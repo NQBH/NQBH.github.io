@@ -51,20 +51,22 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * Nguyễn Quản Bá Hồng. [*Psychological Manipulation*](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation.pdf). May 10, 2021. Versions: [10pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_10pt.pdf), [11pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_11pt.pdf), [12pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_12pt.pdf). Status: `finished`.
 
-* Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still in writing ...`
+* Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still in writing ...`.
 
 * Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: The Promised Neverland***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`.
 
-  + Nguyễn Quản Bá Hồng. [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`
+  + Nguyễn Quản Bá Hồng. [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
-  + Nguyễn Quản Bá Hồng. *Simplicity*. Jun 2022--now. Status: `just initialized, still in writing ...`
+  + Nguyễn Quản Bá Hồng. *Simplicity*. Jun 2022--now. Status: `just initialized, still in writing ...`.
+
+  + Nguyễn Quản Bá Hồng. [*Minimalism*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/minimalism/NQBH_minimalism.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
 ------
 
 [Literature](https://en.wikipedia.org/wiki/Literature)
 ======
 
-* Nguyễn Quản Bá Hồng. [*A Personal Journey to Writing*](https://github.com/NQBH/hobby/blob/master/writing/NQBH_a_personal_journey_to_writing.pdf). Mar 2022--now. Status: `still in collecting ...`
+* Nguyễn Quản Bá Hồng. [*A Personal Journey to Writing*](https://github.com/NQBH/hobby/blob/master/writing/NQBH_a_personal_journey_to_writing.pdf). Mar 2022--now. Status: `still in collecting ...`.
 
 [Science](https://en.wikipedia.org/wiki/Science)
 ======
