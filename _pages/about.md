@@ -53,7 +53,9 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still in writing ...`.
 
-* Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: The Promised Neverland***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`.
+* Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: The Wonderland or The Promised Neverland***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`.
+
+  + Nguyễn Quản Bá Hồng. [*Preface to Series: A Personal Journey to Realms of Knowledge: The Wonderland or The Promised Neverland*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/preface/NQBH_preface_series_a_personal_journey_to_realms_of_knowledge.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
   + Nguyễn Quản Bá Hồng. [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
@@ -123,6 +125,10 @@ A survey will be inserted here.
 * Nguyễn Quản Bá Hồng. [*Bayesian Inverse Problem*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/Bayesian_inverse_problem/NQBH_Bayesian_inverse_problem.pdf). Aug 3, 2021. [Gallery](https://github.com/NQBH/hobby/tree/master/advanced_mathematics/Bayesian_inverse_problem/gallery). [MATLAB codes](https://github.com/NQBH/hobby/tree/master/advanced_mathematics/Bayesian_inverse_problem/MATLAB).
 
 * Nguyễn Quản Bá Hồng. [*Some Topics in Mathematical Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
+
+  + Michael Hintermüller, Hong Quan Ba Nguyen. *A Shape Optimization Problem for Navier--Stokes Flows in 3D Tubes*. MORSS2020. [Abstract](https://github.com/NQBH/hobby/blob/master/ROMSOC/talk/MORSS2020/abstract/NQBH_abstract.pdf). Jan 30, 2021.
+
+  + Michael Hintermüller, Hong Quan Ba Nguyen. *Optimal Shape Design of Air Ducts in Combustion Engines: Design a General Shape Optimization Framework*. [Abstract](https://github.com/NQBH/hobby/blob/master/ROMSOC/talk/ROMSOC_ESR_seminar/abstract/NQBH_abstract.pdf). Apr 10, 2021.
 
 * Nguyễn Quản Bá Hồng. [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
