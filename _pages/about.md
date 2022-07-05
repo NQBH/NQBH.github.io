@@ -132,6 +132,8 @@ A survey will be inserted here.
 
 * Nguyễn Quản Bá Hồng. [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
+* Nguyễn Quản Bá Hồng. [*Turbulence*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/turbulence/NQBH_turbulence.pdf). Jul 2022--now. Status: `just initialized, still in writing ...`.
+
 ##### Surveys
 * Nguyễn Quản Bá Hồng. [*A Survey on Navier--Stokes Equations*](https://github.com/NQBH/hobby/blob/master/survey/NSEs/NQBH_survey_NSEs.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
 
