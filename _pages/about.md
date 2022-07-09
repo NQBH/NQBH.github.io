@@ -53,15 +53,17 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still in writing ...`.
 
-* Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: The Wonderland or The Promised Neverland***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`.
+* Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: Wonderland or The Promised Neverland?***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`.
 
-  + Nguyễn Quản Bá Hồng. [*Preface to Series: A Personal Journey to Realms of Knowledge: The Wonderland or The Promised Neverland*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/preface/NQBH_preface_series_a_personal_journey_to_realms_of_knowledge.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
+  + Nguyễn Quản Bá Hồng. [*Preface to Series: A Personal Journey to Realms of Knowledge: The Wonderland or The Promised Neverland*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/preface/NQBH_series_a_personal_journey_to_realms_of_knowledge_preface.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
   + Nguyễn Quản Bá Hồng. [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
   + Nguyễn Quản Bá Hồng. *Simplicity*. Jun 2022--now. Status: `just initialized, still in writing ...`.
 
   + Nguyễn Quản Bá Hồng. [*Minimalism*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/minimalism/NQBH_minimalism.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
+
+  + Nguyễn Quản Bá Hồng. [*Series: A Personal Journey to Realms of Knowledge: Wonderland or The Promised Neverland?/Miscellaneous*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/miscellaneous/NQBH_series_a_personal_journey_to_realms_of_knowledge_miscellaneous.pdf). Jul 2022--now. Status: `just initialized, still in writing ...`.
 
 ------
 
@@ -223,5 +225,3 @@ Flag Counters
 <a href="https://flaghitcounter.com/details/5D"><img src="https://flaghitcounter.com/5D/" alt="Flag Counter"></a>
 
 <a href="https://www.flagcounter.me/details/cQh"><img src="https://www.flagcounter.me/cQh/" alt="Flag Counter"></a>
-
-<a href="https://info.flagcounter.com/zp3Q"><img src="https://s01.flagcounter.com/countxl/zp3Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_Flag+Counter/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
