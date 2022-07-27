@@ -55,7 +55,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: Wonderland or The Promised Neverland?***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`.
 
-  + Nguyễn Quản Bá Hồng. [*Preface to Series: A Personal Journey to Realms of Knowledge: The Wonderland or The Promised Neverland*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/preface/NQBH_series_a_personal_journey_to_realms_of_knowledge_preface.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
+  + Nguyễn Quản Bá Hồng. [*Series: A Personal Journey to Realms of Knowledge: The Wonderland or The Promised Neverland/Preface*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/preface/NQBH_series_a_personal_journey_to_realms_of_knowledge_preface.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
   + Nguyễn Quản Bá Hồng. [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
@@ -143,6 +143,8 @@ A survey will be inserted here.
 
 #### Elementary Mathematics
 I will hold online classes to teach elementary mathematics, elementary physics, & basic programming. Contact my email to join. I will add you to some Facebook groups in order to upload materials & discuss easier.
+
+[NQBH's students in elementary mathematics class](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/student/NQBH_elementary_mathematics_student.pdf).
 
 * Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). Mar 2022--now. Status: `still in writing ...`.
 
