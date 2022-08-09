@@ -93,7 +93,7 @@ I will write a short note on *Elementary Physics*.
 
 * Nguyễn Quản Bá Hồng. *Some Topics in Elementary Physics*. 2022--now. Status: `not initialized yet`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Physics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/NQBH_elementary_physics_grade_11.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`.
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Physics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/NQBH_elementary_physics_grade_11.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_11/resource)].
 
 ------
 
