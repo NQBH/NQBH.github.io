@@ -144,9 +144,9 @@ A survey will be inserted here.
 * Nguyễn Quản Bá Hồng. [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
 
 #### Elementary Mathematics
-I will hold online classes to teach elementary mathematics, elementary physics, & basic programming. Contact my email to join. I will add you to some Facebook groups in order to upload materials & discuss easier.
+I will hold offline/on-site & online classes to teach elementary mathematics, elementary physics, & basic programming (Pascal, C/C++). Contact my email to join. I will add you to some Facebook groups in order to upload materials & discuss easier.
 
-[[NQBH's students in elementary mathematics class](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/student/NQBH_elementary_mathematics_student.pdf)].
+[[NQBH's students in elementary mathematics class](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/student/NQBH_elementary_mathematics_student.pdf)]. [[Facebook/NQBH's Online Classes](https://www.facebook.com/nqbhonlineclasses)]. [[Facebook Group: NQBH's online class: elementary mathematics & physics & basic programming](https://www.facebook.com/groups/352883940320238/)].
 
 * Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics/NQBH_some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics.pdf). Mar 2022--now. Status: `still in writing ...`.
 
