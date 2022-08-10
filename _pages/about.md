@@ -173,10 +173,13 @@ A survey will be inserted here.
 
 ### Computer Science
 
+#### Elementary Computer Science (Programming-focused)
+* Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Computer Science/grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_computer_science/grade_11/NQBH_elementary_computer_science_grade_11.pdf). Aug 2022--now. Status: `just initialized, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_computer_science/grade_11/resource)]. [[advanced resource](https://github.com/NQBH/hobby/tree/master/elementary_computer_science/resource)].
+
 #### Linux
 * Nguyễn Quản Bá Hồng. [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). Mar 2022--now. Status: `still in collecting ...`.
 
-* Nguyễn Quản Bá Hồng. [*Software*](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.pdf). May 2022--now. `just initialized, still in collecting ...`.
+* Nguyễn Quản Bá Hồng. [*Software*](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.pdf). May 2022--now. Status: `just initialized, still in collecting ...`.
 
 Science/Miscellaneous
 ------
