@@ -144,7 +144,7 @@ A survey will be inserted here.
 * Nguyễn Quản Bá Hồng. [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
 
 #### Elementary Mathematics
-I will hold offline/on-site & online classes to teach elementary mathematics, elementary physics, & basic programming (Pascal, C/C++). Contact my email to join. I will add you to some Facebook groups in order to upload materials & discuss easier.
+I will hold offline/on-site & online classes to teach elementary mathematics, elementary physics, & basic programming (Pascal, Python, C/C++). Contact my email to join. I will add you to some Facebook groups in order to upload materials & discuss easier.
 
 [[NQBH's students in elementary mathematics class](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/student/NQBH_elementary_mathematics_student.pdf)]. [[Facebook/NQBH's Online Classes](https://www.facebook.com/nqbhonlineclasses)]. [[Facebook Group: NQBH's online class: elementary mathematics & physics & basic programming](https://www.facebook.com/groups/352883940320238/)].
 
