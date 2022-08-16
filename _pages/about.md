@@ -88,8 +88,23 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 ------
 
+### Chemistry
+
+#### Elementary Chemistry
+
+* Nguyễn Quản Bá Hồng. *Some Topics in Elementary Chemistry*. 2022--now. Status: `not initialized yet`.
+
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Chemistry/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/NQBH_elementary_chemistry_grade_10.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/problem/NQBH_elementary_chemistry_grade_10_problem.pdf)].
+
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Chemistry/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/NQBH_elementary_chemistry_grade_11.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/problem/NQBH_elementary_chemistry_grade_11_problem.pdf)].
+
+- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Chemistry/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_12/NQBH_elementary_chemistry_grade_12.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_12/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_12/problem/NQBH_elementary_chemistry_grade_12_problem.pdf)].
+
+------
+
 ### Physics
-I will write a short note on *Elementary Physics*.
+
+#### Elementary Physics
 
 * Nguyễn Quản Bá Hồng. *Some Topics in Elementary Physics*. 2022--now. Status: `not initialized yet`.
 
