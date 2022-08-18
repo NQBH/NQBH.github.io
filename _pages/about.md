@@ -167,6 +167,8 @@ I will hold offline/on-site & online classes to teach elementary mathematics, el
 
 [[NQBH's students](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/student/NQBH_elementary_mathematics_student.pdf)]. [[Facebook page: NQBH's online classes](https://www.facebook.com/nqbhonlineclasses)]. [[Facebook group: NQBH's online class: elementary mathematics & physics & chemistry & basic programming](https://www.facebook.com/groups/352883940320238/)]. At the moment, I have used Zalo groups instead of Facebook ones to interact with my students. Thus there has been no growth in the number of members in these Facebook page & group for months.
 
+[[A list of books planned to buy/download](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.pdf)].
+
 * Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics/NQBH_some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics.pdf). Mar 2022--now. Status: `still in writing ...`.
 
 * Nguyễn Quản Bá Hồng. [*Elementary Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). Jul 2022--now. Status: `still in writing ...`.
