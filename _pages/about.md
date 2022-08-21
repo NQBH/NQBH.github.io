@@ -121,6 +121,8 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 ------
 
+* Nguyễn Quản Bá Hồng. [*Quotes from the Books*](https://github.com/NQBH/hobby/blob/master/quotes_from_the_books/NQBH_quotes_from_the_books.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`.
+
 ### Philosophy
 
 * Nguyễn Quản Bá Hồng. [*A Personal Journey to Philosophy*](https://github.com/NQBH/hobby/blob/master/philosophy/NQBH_a_personal_journey_to_philosophy.pdf). Mar 2022--now. Status: `still in writing ...`.
