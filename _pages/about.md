@@ -19,11 +19,11 @@ I used to believe that Mathematics is my life & only Mathematics can be consider
 
 **E-mail.** <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
-**Curriculum Vitae (CV).** [NQBH's CV](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.pdf) (also [CV](/cv/) page in the navigation topbar but not including latest updates & details as in the PDF).
+**Curriculum Vitae (CV).** [[NQBH's CV](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.pdf)] [[TeX](https://github.com/NQBH/miscellaneous/blob/master/CV/NQBH_CV.tex)] (also [CV](/cv/) page in the navigation topbar but not including latest updates & details as in the PDF).
 
-**NQBH's library.** [NQBH/reference](https://github.com/NQBH/reference) & my [BibTeX file](https://github.com/NQBH/reference/blob/master/bib.bib). Almost all of the references I am reading are uploaded & stored in this GitHub repository. There are some very large files (>> 50 MB) which I cannot upload due to GitHub's maximal filesize. I will list them in [NQBH/reference/oversized file](https://github.com/NQBH/reference/blob/master/oversized_file) & consider to store it later in [Git Large File Storage](https://git-lfs.github.com/) if needed & reasonable.
+**NQBH's library.** [[NQBH/reference](https://github.com/NQBH/reference)] & my [[BibTeX file](https://github.com/NQBH/reference/blob/master/bib.bib)]. Almost all of the references I am reading are uploaded & stored in this GitHub repository. There are some very large files (>> 50 MB) which I cannot upload due to GitHub's maximal filesize. I will list them in [[NQBH/reference/oversized file](https://github.com/NQBH/reference/blob/master/oversized_file)] & consider to store it later in [Git Large File Storage](https://git-lfs.github.com/) if needed & reasonable.
 
-**NQBH's YouTube channel.** [YouTube/NQBH](https://www.youtube.com/channel/UCpKFOGpBNuVW3Rz8s_ps2kg) & some notes on its content can be viewed here [NQBH/hobby/YouTube](https://github.com/NQBH/hobby/tree/master/YouTube).
+**NQBH's YouTube channel.** [[YouTube/NQBH](https://www.youtube.com/channel/UCpKFOGpBNuVW3Rz8s_ps2kg)] & some notes on its content can be viewed here [[NQBH/hobby/YouTube](https://github.com/NQBH/hobby/tree/master/YouTube)].
 
 ------
 
@@ -43,7 +43,7 @@ I used to believe that Mathematics is my life & only Mathematics can be consider
 
 [Blog](https://github.com/NQBH/hobby/tree/master/blog)
 ======
-[NQBH's principles for blogging](https://github.com/NQBH/hobby/blob/master/blog/NQBH_principles_for_blogging).
+[[NQBH's principles for blogging](https://github.com/NQBH/hobby/blob/master/blog/NQBH_principles_for_blogging)].
 
 I list my blog posts *chronologically*. Bloggers usually use *reverse chronological order* instead, i.e., the newest blog post appears 1st then older & older, & then the oldest post -- like an updated list of achievements in CV. I use chronological order here due to the development process of my mindset, & I think this order is more reasonable.
 
@@ -199,7 +199,7 @@ Author: Nguyễn Quản Bá Hồng.
 
 - [*Xác Định Điểm Trên Trục Tọa Độ*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/geometry/2D_geometry/NQBH_xac_dinh_diem_tren_truc_toa_do.pdf). Aug 27, 2013. Status: `finished`.
 
-- Nguyễn Văn Quí, Nguyễn Quản Bá Hồng. [*1 Cách Đổi Biến & Ứng Dụng Trong Chứng Minh Bất Đẳng Thức*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/inequality/a_substitution_in_proving_inequality/NQBH_a_substitution_in_proving_inequality.pdf). Aug 20, 2013. Status: `finished`. Đây là bản mở rộng không bị cắt của bài viết cùng tên nằm trong Kỷ Yếu Gặp Gỡ Toán Học 2013.
+- Nguyễn Văn Quí, Nguyễn Quản Bá Hồng. [*1 Cách Đổi Biến & Ứng Dụng Trong Chứng Minh Bất Đẳng Thức*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/inequality/a_substitution_in_proving_inequality/NQBH_a_substitution_in_proving_inequality.pdf). Aug 20, 2013. Status: `finished`. Đây là bản mở rộng không bị cắt của bài viết cùng tên nằm trong Kỷ Yếu Gặp Gỡ Toán Học 2013. Cả 2 files đó có lỗi sai trong phần kết luận khi nào đẳng thức xảy ra nên đang được viết lại, với nhiều bổ sung & mở rộng.
 
 ### Statistics
 A survey will be inserted here.
