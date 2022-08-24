@@ -47,36 +47,36 @@ I used to believe that Mathematics is my life & only Mathematics can be consider
 
 I list my blog posts *chronologically*. Bloggers usually use *reverse chronological order* instead, i.e., the newest blog post appears 1st then older & older, & then the oldest post -- like an updated list of achievements in CV. I use chronological order here due to the development process of my mindset, & I think this order is more reasonable.
 
-* Nguyễn Quản Bá Hồng. [*Optimal Shape Design for Air Ducts*](https://github.com/NQBH/hobby/blob/master/ROMSOC/blog/optimal_shape_design_of_airducts/NQBH_ROMSOC_blog.pdf). [ROMSOC/blog/Optimal shape design of air ducts](https://www.romsoc.eu/optimal-shape-design-of-air-ducts/) (there is a typo "conguration" due to the annoying auto-deletion or non-recognition of the term `fi` in some old text editors -- I did not produce this typo in my original writing). Nov 30, 2020. Status: `finished`.
+* [*Optimal Shape Design for Air Ducts*](https://github.com/NQBH/hobby/blob/master/ROMSOC/blog/optimal_shape_design_of_airducts/NQBH_ROMSOC_blog.pdf). [ROMSOC/blog/Optimal shape design of air ducts](https://www.romsoc.eu/optimal-shape-design-of-air-ducts/) (there is a typo "conguration" due to the annoying auto-deletion or non-recognition of the term `fi` in some old text editors -- I did not produce this typo in my original writing). Nov 30, 2020. Status: `finished`.
 
-* Nguyễn Quản Bá Hồng. [*Psychological Manipulation*](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation.pdf). May 10, 2021. Versions: [10pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_10pt.pdf), [11pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_11pt.pdf), [12pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_12pt.pdf). Status: `finished`.
+* [*Psychological Manipulation*](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation.pdf). May 10, 2021. Versions: [10pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_10pt.pdf), [11pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_11pt.pdf), [12pt](https://github.com/NQBH/hobby/blob/master/blog/psychological_manipulation/NQBH_psychological_manipulation_size_12pt.pdf). Status: `finished`.
 
-* Nguyễn Quản Bá Hồng. [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still in writing ...`.
+* [*Happiness in/vs. Research*](https://github.com/NQBH/hobby/blob/master/blog/happiness_in_or_vs_research/NQBH_happiness_in_or_vs_research.pdf). Mar 2022--now. Status: `just initialize, still in writing ...`.
 
-* Nguyễn Quản Bá Hồng. [***Series: A Personal Journey to Realms of Knowledge: Wonderland or The Promised Neverland?***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`.
+* [***Series: A Personal Journey to Realms of Knowledge: Wonderland or The Promised Neverland?***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`.
 
-  + Nguyễn Quản Bá Hồng. [*Series: A Personal Journey to Realms of Knowledge: The Wonderland or The Promised Neverland/Preface*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/preface/NQBH_series_a_personal_journey_to_realms_of_knowledge_preface.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
+  + [*Series: A Personal Journey to Realms of Knowledge: The Wonderland or The Promised Neverland/Preface*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/preface/NQBH_series_a_personal_journey_to_realms_of_knowledge_preface.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
-  + Nguyễn Quản Bá Hồng. [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
+  + [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
-  + Nguyễn Quản Bá Hồng. *Simplicity*. Jun 2022--now. Status: `just initialized, still in writing ...`.
+  + *Simplicity*. Jun 2022--now. Status: `just initialized, still in writing ...`.
 
-  + Nguyễn Quản Bá Hồng. [*Minimalism*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/minimalism/NQBH_minimalism.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
+  + [*Minimalism*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/minimalism/NQBH_minimalism.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
-  + Nguyễn Quản Bá Hồng. [*Series: A Personal Journey to Realms of Knowledge: Wonderland or The Promised Neverland?/Miscellaneous*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/miscellaneous/NQBH_series_a_personal_journey_to_realms_of_knowledge_miscellaneous.pdf). Jul 2022--now. Status: `just initialized, still in writing ...`.
+  + [*Series: A Personal Journey to Realms of Knowledge: Wonderland or The Promised Neverland?/Miscellaneous*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/miscellaneous/NQBH_series_a_personal_journey_to_realms_of_knowledge_miscellaneous.pdf). Jul 2022--now. Status: `just initialized, still in writing ...`.
 
 ------
 
 [Literature](https://en.wikipedia.org/wiki/Literature)
 ======
 
-* Nguyễn Quản Bá Hồng. [*A Personal Journey to Writing*](https://github.com/NQBH/hobby/blob/master/writing/NQBH_a_personal_journey_to_writing.pdf). Mar 2022--now. Status: `still in collecting ...`.
+* [*A Personal Journey to Writing*](https://github.com/NQBH/hobby/blob/master/writing/NQBH_a_personal_journey_to_writing.pdf). Mar 2022--now. Status: `still in collecting ...`.
 
 [Science](https://en.wikipedia.org/wiki/Science)
 ======
 > "[Modern science](https://en.wikipedia.org/wiki/History_of_science#Modern_science) is commonly divided into 3 major [branches](https://en.wikipedia.org/wiki/Branches_of_science): [natural science](https://en.wikipedia.org/wiki/Natural_science), [social science](https://en.wikipedia.org/wiki/Social_science), & [formal science](https://en.wikipedia.org/wiki/Formal_science)." -- [Wikipedia/science/branches of science](https://en.wikipedia.org/wiki/Science#Branches_of_science)
 
-* Nguyễn Quản Bá Hồng. [*Science*](https://github.com/NQBH/hobby/blob/master/science/NQBH_science.pdf). Mar 2022--now. Status: `just initialize, still in collecting ...`.
+* [*Science*](https://github.com/NQBH/hobby/blob/master/science/NQBH_science.pdf). Mar 2022--now. Status: `just initialize, still in collecting ...`.
 
 [NQBH's favorite/target journals](https://github.com/NQBH/hobby/tree/master/journal).
 
@@ -92,13 +92,13 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 #### Elementary Chemistry
 
-* Nguyễn Quản Bá Hồng. *Some Topics in Elementary Chemistry*. 2022--now. Status: `not initialized yet`.
+* *Some Topics in Elementary Chemistry*. 2022--now. Status: `not initialized yet`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Chemistry/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/NQBH_elementary_chemistry_grade_10.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/problem/NQBH_elementary_chemistry_grade_10_problem.pdf)].
+- [*Some Topics in Elementary Chemistry/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/NQBH_elementary_chemistry_grade_10.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/problem/NQBH_elementary_chemistry_grade_10_problem.pdf)].
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Chemistry/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/NQBH_elementary_chemistry_grade_11.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/problem/NQBH_elementary_chemistry_grade_11_problem.pdf)].
+- [*Some Topics in Elementary Chemistry/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/NQBH_elementary_chemistry_grade_11.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/problem/NQBH_elementary_chemistry_grade_11_problem.pdf)].
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Chemistry/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_12/NQBH_elementary_chemistry_grade_12.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_12/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_12/problem/NQBH_elementary_chemistry_grade_12_problem.pdf)].
+- [*Some Topics in Elementary Chemistry/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_12/NQBH_elementary_chemistry_grade_12.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_12/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_12/problem/NQBH_elementary_chemistry_grade_12_problem.pdf)].
 
 ------
 
@@ -106,13 +106,13 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 #### Elementary Physics
 
-* Nguyễn Quản Bá Hồng. *Some Topics in Elementary Physics*. 2022--now. Status: `not initialized yet`.
+* *Some Topics in Elementary Physics*. 2022--now. Status: `not initialized yet`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Physics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/NQBH_elementary_physics_grade_10.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/problem/NQBH_elementary_physics_grade_10_problem.pdf)].
+- [*Some Topics in Elementary Physics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/NQBH_elementary_physics_grade_10.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/problem/NQBH_elementary_physics_grade_10_problem.pdf)].
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Physics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/NQBH_elementary_physics_grade_11.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/problem/NQBH_elementary_physics_grade_11_problem.pdf)].
+- [*Some Topics in Elementary Physics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/NQBH_elementary_physics_grade_11.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/problem/NQBH_elementary_physics_grade_11_problem.pdf)].
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Physics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_12/NQBH_elementary_physics_grade_12.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_12/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_12/problem/NQBH_elementary_physics_grade_12_problem.pdf)].
+- [*Some Topics in Elementary Physics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_12/NQBH_elementary_physics_grade_12.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_12/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_12/problem/NQBH_elementary_physics_grade_12_problem.pdf)].
 
 ------
 
@@ -121,15 +121,15 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 ------
 
-* Nguyễn Quản Bá Hồng. [*Quotes from the Books*](https://github.com/NQBH/hobby/blob/master/quotes_from_the_books/NQBH_quotes_from_the_books.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`.
+* [*Quotes from the Books*](https://github.com/NQBH/hobby/blob/master/quotes_from_the_books/NQBH_quotes_from_the_books.pdf). Aug 2022--now. Status: `just initialize, still in collecting ...`.
 
 ### Philosophy
 
-* Nguyễn Quản Bá Hồng. [*A Personal Journey to Philosophy*](https://github.com/NQBH/hobby/blob/master/philosophy/NQBH_a_personal_journey_to_philosophy.pdf). Mar 2022--now. Status: `still in writing ...`.
+* [*A Personal Journey to Philosophy*](https://github.com/NQBH/hobby/blob/master/philosophy/NQBH_a_personal_journey_to_philosophy.pdf). Mar 2022--now. Status: `still in writing ...`.
 
 ### Psychology
 
-* Nguyễn Quản Bá Hồng. [*A Personal Journey to Psychology: The Way I Perceive*](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.pdf). Mar 2022--now. Status: `still in writing ...`.
+* [*A Personal Journey to Psychology: The Way I Perceive*](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.pdf). Mar 2022--now. Status: `still in writing ...`.
 
 [Formal Science](https://en.wikipedia.org/wiki/Formal_science)
 ------
@@ -145,24 +145,24 @@ A survey will be inserted here.
 
 * Hong Quan Ba Nguyen. [*Research Profile*](https://github.com/NQBH/hobby/blob/master/WIAS/WIAS-Day2021/nguyen_RG8/nguyen_RG8.pdf). Research Group 8. WIAS Day 2021. Feb 19, 2021.
 
-* Nguyễn Quản Bá Hồng. [*Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/NQBH_advanced_mathematics.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
+* [*Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/NQBH_advanced_mathematics.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
-* Nguyễn Quản Bá Hồng. [*Bayesian Inverse Problem*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/Bayesian_inverse_problem/NQBH_Bayesian_inverse_problem.pdf). Aug 3, 2021. [Gallery](https://github.com/NQBH/hobby/tree/master/advanced_mathematics/Bayesian_inverse_problem/gallery). [MATLAB codes](https://github.com/NQBH/hobby/tree/master/advanced_mathematics/Bayesian_inverse_problem/MATLAB).
+* [*Bayesian Inverse Problem*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/Bayesian_inverse_problem/NQBH_Bayesian_inverse_problem.pdf). Aug 3, 2021. [Gallery](https://github.com/NQBH/hobby/tree/master/advanced_mathematics/Bayesian_inverse_problem/gallery). [MATLAB codes](https://github.com/NQBH/hobby/tree/master/advanced_mathematics/Bayesian_inverse_problem/MATLAB).
 
-* Nguyễn Quản Bá Hồng. [*Some Topics in Mathematical Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
+* [*Some Topics in Mathematical Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
 
   + Michael Hintermüller, Hong Quan Ba Nguyen. *A Shape Optimization Problem for Navier--Stokes Flows in 3D Tubes*. MORSS2020. [Abstract](https://github.com/NQBH/hobby/blob/master/ROMSOC/talk/MORSS2020/abstract/NQBH_abstract.pdf). Jan 30, 2021.
 
   + Michael Hintermüller, Hong Quan Ba Nguyen. *Optimal Shape Design of Air Ducts in Combustion Engines: Design a General Shape Optimization Framework*. [Abstract](https://github.com/NQBH/hobby/blob/master/ROMSOC/talk/ROMSOC_ESR_seminar/abstract/NQBH_abstract.pdf). Apr 10, 2021.
 
-* Nguyễn Quản Bá Hồng. [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
+* [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
 
-* Nguyễn Quản Bá Hồng. [*Turbulence*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/turbulence/NQBH_turbulence.pdf). Jul 2022--now. Status: `just initialized, still in writing ...`.
+* [*Turbulence*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/turbulence/NQBH_turbulence.pdf). Jul 2022--now. Status: `just initialized, still in writing ...`.
 
 ##### Surveys
-* Nguyễn Quản Bá Hồng. [*A Survey on Navier--Stokes Equations*](https://github.com/NQBH/hobby/blob/master/survey/NSEs/NQBH_survey_NSEs.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
+* [*A Survey on Navier--Stokes Equations*](https://github.com/NQBH/hobby/blob/master/survey/NSEs/NQBH_survey_NSEs.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
 
-* Nguyễn Quản Bá Hồng. [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
+* [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
 
 #### Elementary Mathematics
 I will hold offline/on-site & online classes to teach elementary mathematics, elementary physics, elementary chemistry, & basic programming (Pascal, Python, C/C++). Contact my email to join. I will add you to some Facebook groups in order to upload materials & discuss easier.
@@ -171,25 +171,35 @@ I will hold offline/on-site & online classes to teach elementary mathematics, el
 
 [[A list of books planned to buy/download](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.pdf)].
 
-* Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics/NQBH_some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics.pdf). Mar 2022--now. Status: `still in writing ...`.
+Author: Nguyễn Quản Bá Hồng.
 
-* Nguyễn Quản Bá Hồng. [*Elementary Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). Jul 2022--now. Status: `still in writing ...`.
+* [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics/NQBH_some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics.pdf). Mar 2022--now. Status: `still in writing ...`.
 
-- Nguyễn Quản Bá Hồng. [*Elementary Mathematics/Principles*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.pdf). Mar 2022--now. Status: `still in writing ...`.
+* [*Elementary Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). Jul 2022--now. Status: `still in writing ...`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). Mar 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_6/resource). Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_6/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/problem/NQBH_elementary_mathematics_grade_6_problem.pdf)].
+- [*Elementary Mathematics/Principles*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.pdf). Mar 2022--now. Status: `still in writing ...`.
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_7/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/problem/NQBH_elementary_mathematics_grade_7_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). Mar 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_6/resource). Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_6/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/problem/NQBH_elementary_mathematics_grade_6_problem.pdf)].
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/problem/NQBH_elementary_mathematics_grade_8_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_7/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/problem/NQBH_elementary_mathematics_grade_7_problem.pdf)].
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Aug 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource). Status: `just initialized, still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/problem/NQBH_elementary_mathematics_grade_9_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/problem/NQBH_elementary_mathematics_grade_8_problem.pdf)].
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Aug 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource). Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/problem/NQBH_elementary_mathematics_grade_10_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Aug 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource). Status: `just initialized, still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/problem/NQBH_elementary_mathematics_grade_9_problem.pdf)].
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.pdf). Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/problem/NQBH_elementary_mathematics_grade_11_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Aug 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource). Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/problem/NQBH_elementary_mathematics_grade_10_problem.pdf)].
 
-- Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Mathematics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/NQBH_elementary_mathematics_grade_12.pdf). 2022--now. Status: `not initialized yet`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_12/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/problem/NQBH_elementary_mathematics_grade_12_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.pdf). Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/problem/NQBH_elementary_mathematics_grade_11_problem.pdf)].
+
+- [*Some Topics in Elementary Mathematics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/NQBH_elementary_mathematics_grade_12.pdf). 2022--now. Status: `not initialized yet`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_12/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/problem/NQBH_elementary_mathematics_grade_12_problem.pdf)].
+
+- [*Short VMO 2017 Training Course at Ben Tre High School for Gifted Students*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/CBT_VMO_training/NQBH_CBT_VMO_2017_training.pdf). Dec 18, 2016. Status: `finished`. [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/CBT_VMO_training/NQBH_CBT_VMO_2017_training.tex)].
+
+- [*1 Số Lớp Phương Trình Bậc Cao Giải Được Nhờ Phương Trình Bậc 2 & Phương Trình Bậc 3*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/equation_inequation/solvable_equation/NQBH_some_solvable_polynomials.pdf) (Some solvable polynomials due to quadratic & Cubic Polynomials). Sep 21, 2016. Status: `finished`. [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/equation_inequation/solvable_equation/NQBH_some_solvable_polynomials.tex)].
+
+- [*Xác Định Điểm Trên Trục Tọa Độ*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/geometry/2D_geometry/NQBH_xac_dinh_diem_tren_truc_toa_do.pdf). Aug 27, 2013. Status: `finished`.
+
+- Nguyễn Văn Quí, Nguyễn Quản Bá Hồng. [*1 Cách Đổi Biến & Ứng Dụng Trong Chứng Minh Bất Đẳng Thức*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/inequality/a_substitution_in_proving_inequality/NQBH_a_substitution_in_proving_inequality.pdf). Aug 20, 2013. Status: `finished`. Đây là bản mở rộng không bị cắt của bài viết cùng tên nằm trong Kỷ Yếu Gặp Gỡ Toán Học 2013.
 
 ### Statistics
 A survey will be inserted here.
@@ -197,18 +207,18 @@ A survey will be inserted here.
 ### Computer Science
 
 #### Elementary Computer Science (Programming-focused)
-* Nguyễn Quản Bá Hồng. [*Some Topics in Elementary Computer Science/grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_computer_science/grade_11/NQBH_elementary_computer_science_grade_11.pdf). Aug 2022--now. Status: `just initialized, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_computer_science/grade_11/resource)]. [[advanced resource](https://github.com/NQBH/hobby/tree/master/elementary_computer_science/resource)].
+* [*Some Topics in Elementary Computer Science/grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_computer_science/grade_11/NQBH_elementary_computer_science_grade_11.pdf). Aug 2022--now. Status: `just initialized, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_computer_science/grade_11/resource)]. [[advanced resource](https://github.com/NQBH/hobby/tree/master/elementary_computer_science/resource)].
 
 #### Linux
-* Nguyễn Quản Bá Hồng. [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). Mar 2022--now. Status: `still in collecting ...`.
+* [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). Mar 2022--now. Status: `still in collecting ...`.
 
-* Nguyễn Quản Bá Hồng. [*Software*](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.pdf). May 2022--now. Status: `just initialized, still in collecting ...`.
+* [*Software*](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.pdf). May 2022--now. Status: `just initialized, still in collecting ...`.
 
 Science/Miscellaneous
 ------
 
 ### TeX/LaTeX
-* Nguyễn Quản Bá Hồng. [*TeX*](https://github.com/NQBH/hobby/blob/master/TeX/NQBH_TeX.pdf). Apr 2022--now. Status: `still in collecting ...`.
+* [*TeX*](https://github.com/NQBH/hobby/blob/master/TeX/NQBH_TeX.pdf). Apr 2022--now. Status: `still in collecting ...`.
 
 **NQBH's LaTeX templates.** [LaTeX template for article (in English)](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article.tex), [LaTeX template for article in Vietnamese](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article_Vietnamese.tex), [LaTeX template for book](https://github.com/NQBH/hobby/blob/master/LaTeX_template_book.tex). (Actually, LaTeX's package `babel` will handle nicely the problem of switching between English & Vietnamese in these templates, thus there is no `LaTeX_template_book_Vietnamese` listed here).
 
