@@ -145,11 +145,13 @@ A survey will be inserted here.
 
 * Hong Quan Ba Nguyen. [*Research Profile*](https://github.com/NQBH/hobby/blob/master/WIAS/WIAS-Day2021/nguyen_RG8/nguyen_RG8.pdf). Research Group 8. WIAS Day 2021. Feb 19, 2021.
 
-* [*Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/NQBH_advanced_mathematics.pdf). Jun 2022--now. Status: `just initialized, still in writing ...`.
+* [*Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/NQBH_advanced_mathematics.pdf). Jun 2022--now. Status: `just initialized, still in collecting ...`.
+
+* [*Inequality*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/inequality/NQBH_inequality.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/inequality/NQBH_inequality.tex)]. Aug 2022--now. Status: `just initialized, still in collecting ...`.
 
 * [*Bayesian Inverse Problem*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/Bayesian_inverse_problem/NQBH_Bayesian_inverse_problem.pdf). Aug 3, 2021. [Gallery](https://github.com/NQBH/hobby/tree/master/advanced_mathematics/Bayesian_inverse_problem/gallery). [MATLAB codes](https://github.com/NQBH/hobby/tree/master/advanced_mathematics/Bayesian_inverse_problem/MATLAB).
 
-* [*Some Topics in Mathematical Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.pdf). Mar 2022--now. Status: `just initialized, still in writing ...`.
+* [*Some Topics in Mathematical Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.pdf). Mar 2022--now. Status: `just initialized, still in collecting ...`.
 
   + Michael Hintermüller, Hong Quan Ba Nguyen. *A Shape Optimization Problem for Navier--Stokes Flows in 3D Tubes*. MORSS2020. [Abstract](https://github.com/NQBH/hobby/blob/master/ROMSOC/talk/MORSS2020/abstract/NQBH_abstract.pdf). Jan 30, 2021.
 
@@ -201,7 +203,7 @@ Author: Nguyễn Quản Bá Hồng.
 
 - Nguyễn Văn Quí, Nguyễn Quản Bá Hồng. [vi] [*1 Cách Đổi Biến & Ứng Dụng Trong Chứng Minh Bất Đẳng Thức*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/inequality/a_substitution_in_proving_inequality/NQBH_a_substitution_in_proving_inequality.pdf); [en] *A Substitution & Its Application in Proving Inequalities*. Aug 20, 2013. Status: `finished`. Đây là bản mở rộng không bị cắt của bài viết cùng tên nằm trong Kỷ Yếu Gặp Gỡ Toán Học 2013. Cả 2 files đó có lỗi sai trong phần kết luận khi nào đẳng thức xảy ra nên đang được viết lại, với nhiều bổ sung & mở rộng.
 
-- [*Substitution & Change of Variables in Elementary Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/substitution_change_of_variables/NQBH_elementary_mathematics_substitution_change_of_variables.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/substitution_change_of_variables/NQBH_elementary_mathematics_substitution_change_of_variables.tex)]. Aug 2022--now. Status: `just initialized, still in collecting ...`.
+- [*Substitution & Change of Variables in Elementary Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/substitution_change_of_variables/NQBH_elementary_mathematics_substitution_change_of_variables.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/substitution_change_of_variables/NQBH_elementary_mathematics_substitution_change_of_variables.tex)]. Aug 2022--now. Status: `just initialized, still in writing ...`.
 
 ### Statistics
 A survey will be inserted here.
