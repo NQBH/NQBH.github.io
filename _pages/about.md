@@ -129,7 +129,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 ### Psychology
 
-* [*A Personal Journey to Psychology: The Way I Perceive*](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/philosophy/NQBH_a_personal_journey_to_philosophy.tex)]. Mar 2022--now. Status: `still in writing ...`.
+* [*A Personal Journey to Psychology: The Way I Perceive*](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.tex)]. Mar 2022--now. Status: `still in writing ...`.
 
 [Formal Science](https://en.wikipedia.org/wiki/Formal_science)
 ------
