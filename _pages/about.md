@@ -94,6 +94,10 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * *Some Topics in Elementary Chemistry*. 2022--now. Status: `not initialized yet`.
 
+- [*Some Topics in Elementary Chemistry/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_problem.pdf)].
+
+- [*Some Topics in Elementary Chemistry/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/problem/NQBH_elementary_chemistry_grade_9_problem.pdf)].
+
 - [*Some Topics in Elementary Chemistry/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/NQBH_elementary_chemistry_grade_10.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/NQBH_elementary_chemistry_grade_10.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/problem/NQBH_elementary_chemistry_grade_10_problem.pdf)].
 
 - [*Some Topics in Elementary Chemistry/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/NQBH_elementary_chemistry_grade_11.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/NQBH_elementary_chemistry_grade_11.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/problem/NQBH_elementary_chemistry_grade_11_problem.pdf)].
@@ -107,6 +111,10 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 #### Elementary Physics
 
 * *Some Topics in Elementary Physics*. 2022--now. Status: `not initialized yet`.
+
+- [*Some Topics in Elementary Physics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/NQBH_elementary_physics_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/NQBH_elementary_physics_grade_8.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/problem/NQBH_elementary_physics_grade_8_problem.pdf)].
+
+- [*Some Topics in Elementary Physics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/NQBH_elementary_physics_grade_9.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/NQBH_elementary_physics_grade_9.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/problem/NQBH_elementary_physics_grade_9_problem.pdf)].
 
 - [*Some Topics in Elementary Physics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/NQBH_elementary_physics_grade_10.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/NQBH_elementary_physics_grade_10.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/problem/NQBH_elementary_physics_grade_10_problem.pdf)].
 
@@ -282,7 +290,5 @@ Visitors
 
 Flag Counters
 ------
-
-<a href="https://flaghitcounter.com/details/5D"><img src="https://flaghitcounter.com/5D/" alt="Flag Counter"></a>
 
 <a href="https://www.flagcounter.me/details/cQh"><img src="https://www.flagcounter.me/cQh/" alt="Flag Counter"></a>
