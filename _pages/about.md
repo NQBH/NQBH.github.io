@@ -96,7 +96,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 - [*Some Topics in Elementary Chemistry/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_problem.pdf)]. [[cheatsheet](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_cheatsheet.pdf)]
 
-+ 
+  + [*Problems in Elementary Chemistry/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_problem.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
 - [*Some Topics in Elementary Chemistry/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/problem/NQBH_elementary_chemistry_grade_9_problem.pdf)].
 
