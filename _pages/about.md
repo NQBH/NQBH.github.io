@@ -94,7 +94,9 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * *Some Topics in Elementary Chemistry*. 2022--now. Status: `not initialized yet`.
 
-- [*Some Topics in Elementary Chemistry/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_problem.pdf)].
+- [*Some Topics in Elementary Chemistry/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_problem.pdf)]. [[cheatsheet](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_cheatsheet.pdf)]
+
++ 
 
 - [*Some Topics in Elementary Chemistry/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/problem/NQBH_elementary_chemistry_grade_9_problem.pdf)].
 
@@ -181,7 +183,7 @@ A survey will be inserted here.
 #### Elementary Mathematics
 I will hold offline/on-site & online classes to teach elementary mathematics, elementary physics, elementary chemistry, & basic programming (Pascal, Python, C/C++). Contact my email to join. I will add you to some Facebook groups in order to upload materials & discuss easier.
 
-[[NQBH's students](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/student/NQBH_elementary_mathematics_student.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/student/NQBH_elementary_mathematics_student.tex)]. [[Facebook page: NQBH's online classes](https://www.facebook.com/nqbhonlineclasses)]. [[Facebook group: NQBH's online class: elementary mathematics & physics & chemistry & basic programming](https://www.facebook.com/groups/352883940320238/)]. At the moment, I have used Zalo groups instead of Facebook ones to interact with my students. Thus there has been no growth in the number of members in these Facebook page & group for months.
+[[NQBH's students](https://github.com/NQBH/hobby/blob/master/STEM/student/NQBH_elementary_STEM_student.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/STEM/student/NQBH_elementary_STEM_student.tex)]. [[Facebook page: NQBH's online classes](https://www.facebook.com/nqbhonlineclasses)]. [[Facebook group: NQBH's online class: elementary mathematics & physics & chemistry & basic programming](https://www.facebook.com/groups/352883940320238/)]. At the moment, I have used Zalo groups instead of Facebook ones to interact with my students. Thus there has been no growth in the number of members in these Facebook page & group for months.
 
 [[A list of books planned to buy/download](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.tex)].
 
