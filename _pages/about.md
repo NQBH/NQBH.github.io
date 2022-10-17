@@ -197,8 +197,6 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 [Social Science](https://en.wikipedia.org/wiki/Social_science)
 ------
 
-------
-
 * [*Quotes from the Books*](https://github.com/NQBH/hobby/blob/master/quotes_from_the_books/NQBH_quotes_from_the_books.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/quotes_from_the_books/NQBH_quotes_from_the_books.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`.
 
 ### Philosophy
