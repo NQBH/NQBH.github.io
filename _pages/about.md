@@ -86,6 +86,16 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 ------
 [[NQBH's principles for publication](https://github.com/NQBH/publication/blob/master/NQBH_principles_for_publication)].
 
+### Elementary Natural Science
+
+* [*Some Topics in Elementary Natural Science/Grades 6 & 7*](https://github.com/NQBH/hobby/blob/master/natural_science/grade_6_7/NQBH_elementary_natural_science_grade_6_7.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/natural_science/grade_6_7/NQBH_elementary_natural_science_grade_6_7.tex)]. Oct 2022--now. Status: `just initialize, still in collecting ...`.
+
+  + [*Cheatsheet for Elementary Natural Science/Grades 6 & 7*](https://github.com/NQBH/hobby/blob/master/elementary_natural_science/grade_6_7/cheatsheet/NQBH_elementary_natural_science_grade_6_7_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_natural_science/grade_6_7/cheatsheet/NQBH_elementary_natural_science_grade_6_7_cheatsheet.tex)]. Oct 2022--now. Status: `still in collecting ...`.
+
+  + [*Problems in Elementary Natural Science/Grades 6 & 7*](https://github.com/NQBH/hobby/blob/master/elementary_natural_science/grade_6_7/problem/NQBH_elementary_natural_science_grade_6_7_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_natural_science/grade_6_7/problem/NQBH_elementary_natural_science_grade_6_7_problem.tex)]. Oct 2022--now. Status: `still in collecting ...`.
+
+  + [*Problems & Solutions in Natural Science/Grades 6 & 7*](https://github.com/NQBH/hobby/blob/master/elementary_natural_science/grade_6_7/solution/NQBH_elementary_natural_science_grade_6_7_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_natural_science/grade_6_7/solution/NQBH_elementary_natural_science_grade_6_7_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
+
 ------
 
 ### Chemistry
