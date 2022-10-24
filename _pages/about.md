@@ -67,8 +67,14 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 ------
 
-[Literature](https://en.wikipedia.org/wiki/Literature)
+[Linguistics & Literature](https://en.wikipedia.org/wiki/Literature)
 ======
+
+[Resource](https://github.com/NQBH/hobby/tree/master/language/english/resource).
+
+* [*Problems in English*](https://github.com/NQBH/hobby/blob/master/language/english/problem/NQBH_english_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/language/english/problem/NQBH_english_problem.tex)]. Oct 2022--now. Status: `just initialized, still in writing ...`.
+
+* [*Sentence Transformation*](https://github.com/NQBH/hobby/blob/master/language/english/sentence_transformation/NQBH_sentence_transformation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/language/english/sentence_transformation/NQBH_sentence_transformation.tex)]. Oct 2022--now. Status: `just initialized, still in writing ...`.
 
 * [*A Personal Journey to Writing*](https://github.com/NQBH/hobby/blob/master/writing/NQBH_a_personal_journey_to_writing.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/writing/NQBH_a_personal_journey_to_writing.tex)]. Mar 2022--now. Status: `still in collecting ...`.
 
