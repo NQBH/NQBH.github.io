@@ -352,6 +352,8 @@ A survey will be inserted here.
 
 #### Linux
 
+I use Ubuntu Pro.
+
 * [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.tex)]. Mar 2022--now. Status: `still in collecting ...`.
 
 * [*Software*](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.tex)]. May 2022--now. Status: `just initialized, still in collecting ...`.  [[note](https://github.com/NQBH/hobby/blob/master/software/NQBH_note)].
