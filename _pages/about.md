@@ -352,7 +352,7 @@ A survey will be inserted here.
 
 #### Linux
 
-I use Ubuntu Pro.
+I am using Ubuntu 22.10 Kinetic Kudu Pro.
 
 * [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.tex)]. Mar 2022--now. Status: `still in collecting ...`.
 
