@@ -325,6 +325,8 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Problems & Solutions in Elementary Mathematics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/solution/NQBH_elementary_mathematics_grade_12_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/solution/NQBH_elementary_mathematics_grade_12_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
+  + [*Exponentiation & Logarithm -- Hàm Số Lũy Thừa, Hàm Số Mũ, & Hàm Số Logarithm*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/exponentiation_logarithm/NQBH_exponentiation_logarithm.pdf). [[TeX](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_12/exponentiation_logarithm)]. Nov 23--now. Status: `still in writing ...`.
+
 - [*Short VMO 2017 Training Course at Ben Tre High School for Gifted Students*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/CBT_VMO_training/NQBH_CBT_VMO_2017_training.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/CBT_VMO_training/NQBH_CBT_VMO_2017_training.tex)]. Dec 18, 2016. Status: `finished`.
 
 - [vi] [*1 Số Lớp Phương Trình Bậc Cao Giải Được Nhờ Phương Trình Bậc 2 & Phương Trình Bậc 3*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/equation_inequation/solvable_equation/NQBH_some_solvable_polynomials.pdf); [en] *Some solvable polynomials due to quadratic & Cubic Polynomials*. [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/equation_inequation/solvable_equation/NQBH_some_solvable_polynomials.tex)]. Sep 21, 2016. Status: `finished`.
