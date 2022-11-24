@@ -409,6 +409,8 @@ If you want to donate money for my artworks or pay tutor fees for my online clas
 
 **Paypal.** `nguyenquanbahong@gmail.com`.
 
+[NQBH's list of contributors & donators](https://github.com/NQBH/hobby/blob/master/contributor_donator/NQBH_contributor_donator.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/contributor_donator/NQBH_contributor_donator.tex)], which is hoped to be plural instead of singular. *What kind of crazy monomaniac is this?*
+
 ------
 
 Visitors
