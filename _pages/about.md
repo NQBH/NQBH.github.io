@@ -356,6 +356,8 @@ A survey will be inserted here.
 
 * [*Python*](https://github.com/NQBH/hobby/blob/master/programming/Python/NQBH_Python.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/programming/Python/NQBH_Python.tex)]. Sep 2022--now. Status: `just initialized, still in collecting ...`.
 
+* [*Problems in Elementary Computer Science*](https://github.com/NQBH/hobby/blob/master/elementary_computer_science/problem/NQBH_elementary_computer_science_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_computer_science/problem/NQBH_elementary_computer_science_problem.tex)]. Nov 24--now. Status: `just initialized, still in writing ...`.
+
 #### Linux
 
 I am using Ubuntu 22.10 Kinetic Kudu Pro.
