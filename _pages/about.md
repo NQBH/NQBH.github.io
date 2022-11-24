@@ -182,6 +182,8 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Problems & Solutions in Elementary Physics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/solution/NQBH_elementary_physics_grade_10_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/solution/NQBH_elementary_physics_grade_10_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
+  + [*Dynamics*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/dynamics/NQBH_dynamics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/dynamics/NQBH_dynamics.tex)]. Nov 24--now. Status: `still in writing ...`.
+
 - [*Some Topics in Elementary Physics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/NQBH_elementary_physics_grade_11.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/NQBH_elementary_physics_grade_11.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/problem/NQBH_elementary_physics_grade_11_problem.pdf)].
 
   + [*Cheatsheet for Elementary Physics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/cheatsheet/NQBH_elementary_physics_grade_11_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/cheatsheet/NQBH_elementary_physics_grade_11_cheatsheet.tex)]. Oct 2022--now. Status: `still in collecting ...`.
