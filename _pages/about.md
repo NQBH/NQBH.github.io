@@ -279,6 +279,8 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Divisor & Multiplier -- Ước & Bội*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.tex)]. Nov 22--now. Status: `still in writing ...`.
 
+  + [*Visual Geometry*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/visual_geometry/NQBH_elementary_mathematics_grade_6_visual_geometry.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/visual_geometry/NQBH_elementary_mathematics_grade_6_visual_geometry.tex)]. Nov 26--now. Status: `still in writing ...`.
+
 - [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.tex)]/ Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_7/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/problem/NQBH_elementary_mathematics_grade_7_problem.pdf)].
 
   + [*Cheatsheet for Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/cheatsheet/NQBH_elementary_mathematics_grade_7_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/cheatsheet/NQBH_elementary_mathematics_grade_7_cheatsheet.tex)]. Oct 2022--now. Status: `still in collecting ...`.
