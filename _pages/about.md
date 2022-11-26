@@ -237,7 +237,9 @@ A survey will be inserted here.
 
 * [*Inequality*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/inequality/NQBH_inequality.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/inequality/NQBH_inequality.tex)]. Aug 2022--now. Status: `just initialized, still in collecting ...`.
 
-* [*Mathematical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_analysis/NQBH_mathematical_analysis.tex)]. Aug 2022--now. Status: `just initialized, still in collecting ...`.
+* [*Mathematical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_analysis/NQBH_mathematical_analysis.tex)]. Aug 2022--now. Status: `just initialized, still in collecting ...`. Status: `just initialized, still in collecting ...`.
+
+* [*Shape Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/shape_optimization/NQBH_shape_optimization.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/shape_optimization/NQBH_shape_optimization.tex)]. Nov 25, 2022--now. 
 
 * [*Some Topics in Mathematical Optimization*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/mathematical_optimization/NQBH_mathematical_optimization.tex)]. Mar 2022--now. Status: `just initialized, still in collecting ...`.
 
