@@ -291,6 +291,8 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Problems & Solutions in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/solution/NQBH_elementary_mathematics_grade_7_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/solution/NQBH_elementary_mathematics_grade_7_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
+  + [*Rational -- Số Hữu Tỷ Q*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/rational/NQBH_rational.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/rational/NQBH_rational.tex)]. Nov 28, 2022--now. Status: `still in collecting ...`.
+
 - [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.tex)]. Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/problem/NQBH_elementary_mathematics_grade_8_problem.pdf)].
 
   + [*Cheatsheet for Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/cheatsheet/NQBH_elementary_mathematics_grade_8_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/cheatsheet/NQBH_elementary_mathematics_grade_8_cheatsheet.tex)]. Oct 2022--now. Status: `still in collecting ...`.
