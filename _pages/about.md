@@ -281,7 +281,9 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Problems & Solutions in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/solution/NQBH_elementary_mathematics_grade_6_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/solution/NQBH_elementary_mathematics_grade_6_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
-  + [*Divisor & Multiplier -- Ước & Bội*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.tex)]. Nov 22--now. Status: `still in writing ...`.
+  + [*Divisor & Multiplier -- Ước & Bội*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.tex)]. Nov 22, 2022--now. Status: `still in writing ...`.
+
+  + [*Integer -- Số Nguyên Z*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.tex)]. Dec 12, 2022--now. Status: `still in writing ...`.
 
   + [*Visual Geometry*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/visual_geometry/NQBH_elementary_mathematics_grade_6_visual_geometry.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/visual_geometry/NQBH_elementary_mathematics_grade_6_visual_geometry.tex)]. Nov 26--now. Status: `still in writing ...`.
 
