@@ -132,13 +132,6 @@ $susy: (
   output: float,
   gutter-position: after,
   container: $large,
-  .sidebar {
-    @include span(2 of 12);
-  }
-
-  .page {
-    @include span(10 of 12 last);
-  }
   global-box-sizing: border-box,
   // debug: (
   //   image: show,
