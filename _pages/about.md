@@ -1,9 +1,9 @@
 ---
 permalink: /
+classes: wide
 title: "Nguyễn Quản Bá Hồng [NQBH]'s GitHub Page"
 excerpt: "About Me"
 author_profile: true
-classes: wide
 redirect_from: 
   - /about/
   - /about.html
