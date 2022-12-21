@@ -294,6 +294,8 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Integer -- Số Nguyên Z*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.tex)]. Dec 12, 2022--now. Status: `still in writing ...`.
 
+  + [*Fraction -- Phân Số*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/fraction/NQBH_fraction.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/fraction/NQBH_fraction.tex)]. Dec 21, 2022--now. Status: `still in writing ...`.
+
   + [*Visual Geometry*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/visual_geometry/NQBH_elementary_mathematics_grade_6_visual_geometry.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/visual_geometry/NQBH_elementary_mathematics_grade_6_visual_geometry.tex)]. Nov 26--now. Status: `still in writing ...`.
 
 - [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.tex)]/ Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_7/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/problem/NQBH_elementary_mathematics_grade_7_problem.pdf)].
