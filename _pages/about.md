@@ -155,6 +155,8 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Problems & Solutions in Elementary Chemistry/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_12/solution/NQBH_elementary_chemistry_grade_12_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_12/solution/NQBH_elementary_chemistry_grade_12_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
+- [*Atom, Chemical Element, & Chemical Compound -- Nguyên Tử, Nguyên Tố Hóa Học, & Hợp Chất Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/atom_chemical_element_chemical_compound/NQBH_atom_chemical_element_chemical_compound.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/atom_chemical_element_chemical_compound/NQBH_atom_chemical_element_chemical_compound.tex)]. Dec 23, 2022--now. Status: `still in collecting ...`.
+
 - [*Chemical Reaction -- Phản Ứng Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/chemical_reaction/NQBH_chemical_reaction.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/chemical_reaction/NQBH_chemical_reaction.tex)]. Dec 6, 2022--now. Status: `still in collecting ...`.
 
 - [*Orgnanic Chemistry -- Hóa Học Hữu Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/organic_chemistry/NQBH_organic_chemistry.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/organic_chemistry/NQBH_organic_chemistry.tex)]. Dec 8, 2022--now. Status: `still in collecting ...`.
