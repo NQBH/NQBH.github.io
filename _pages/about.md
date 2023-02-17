@@ -179,6 +179,8 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Problems & Solutions in Elementary Physics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/solution/NQBH_elementary_physics_grade_8_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/solution/NQBH_elementary_physics_grade_8_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
+  + [*Thermodynamics -- Nhiệt Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/thermodynamics/NQBH_thermodynamics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/thermodynamics/NQBH_thermodynamics.tex)]. Feb 2023--now. Status: `still in collecting ...`.
+
 - [*Some Topics in Elementary Physics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/NQBH_elementary_physics_grade_9.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/NQBH_elementary_physics_grade_9.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/problem/NQBH_elementary_physics_grade_9_problem.pdf)].
 
   + [*Cheatsheet for Elementary Physics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/cheatsheet/NQBH_elementary_physics_grade_9_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/cheatsheet/NQBH_elementary_physics_grade_9_cheatsheet.tex)]. Oct 2022--now. Status: `still in collecting ...`.
