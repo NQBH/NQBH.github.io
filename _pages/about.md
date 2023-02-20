@@ -314,7 +314,11 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Rational -- Số Hữu Tỷ Q*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/rational/NQBH_rational.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/rational/NQBH_rational.tex)]. Nov 28, 2022--now. Status: `still in collecting ...`.
 
+  + [*Algebraic Expression -- Biểu Thức Đại Số*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/algebraic_expression/NQBH_algebraic_expression.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/algebraic_expression/NQBH_algebraic_expression.tex)]. Feb 2023--now. Status: `still in collecting ...`.
+
   + [*Real -- Số Thực R*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/real/NQBH_real.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/real/NQBH_real.tex)]. Dec 12, 2022--now. Status: `still in collecting ...`.
+
+  + [*Triangle -- Tam Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/triangle/NQBH_triangle.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/triangle/NQBH_triangle.tex)]. Feb 2023--now. Status: `still in collecting ...`.
 
 - [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.tex)]. Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/problem/NQBH_elementary_mathematics_grade_8_problem.pdf)].
 
