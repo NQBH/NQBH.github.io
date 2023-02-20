@@ -294,9 +294,11 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Problems & Solutions in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/solution/NQBH_elementary_mathematics_grade_6_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/solution/NQBH_elementary_mathematics_grade_6_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
+  + [*Natural -- Số Tự Nhiên $\mathbb{N}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/NQBH_natural.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/NQBH_natural.tex)]. Oct 2022--now. Status: `still in collecting ...`.
+
   + [*Divisor & Multiplier -- Ước & Bội*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.tex)]. Nov 22, 2022--now. Status: `still in writing ...`.
 
-  + [*Integer -- Số Nguyên Z*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.tex)]. Dec 12, 2022--now. Status: `still in writing ...`.
+  + [*Integer -- Số Nguyên $\mathbb{Z}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.tex)]. Dec 12, 2022--now. Status: `still in writing ...`.
 
   + [*Fraction -- Phân Số*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/fraction/NQBH_fraction.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/fraction/NQBH_fraction.tex)]. Dec 21, 2022--now. Status: `still in writing ...`.
 
@@ -312,11 +314,11 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Problems & Solutions in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/solution/NQBH_elementary_mathematics_grade_7_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/solution/NQBH_elementary_mathematics_grade_7_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
-  + [*Rational -- Số Hữu Tỷ Q*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/rational/NQBH_rational.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/rational/NQBH_rational.tex)]. Nov 28, 2022--now. Status: `still in collecting ...`.
+  + [*Rational -- Số Hữu Tỷ $\mathbb{Q}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/rational/NQBH_rational.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/rational/NQBH_rational.tex)]. Nov 28, 2022--now. Status: `still in collecting ...`.
 
   + [*Algebraic Expression -- Biểu Thức Đại Số*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/algebraic_expression/NQBH_algebraic_expression.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/algebraic_expression/NQBH_algebraic_expression.tex)]. Feb 2023--now. Status: `still in collecting ...`.
 
-  + [*Real -- Số Thực R*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/real/NQBH_real.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/real/NQBH_real.tex)]. Dec 12, 2022--now. Status: `still in collecting ...`.
+  + [*Real -- Số Thực $\mathbb{R}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/real/NQBH_real.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/real/NQBH_real.tex)]. Dec 12, 2022--now. Status: `still in collecting ...`.
 
   + [*Triangle -- Tam Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/triangle/NQBH_triangle.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/triangle/NQBH_triangle.tex)]. Feb 2023--now. Status: `still in collecting ...`.
 
