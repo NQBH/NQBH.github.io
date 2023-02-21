@@ -37,7 +37,7 @@ I used to believe that Mathematics is my life & only Mathematics can be consider
 
 > "It is true that a mathematician who is not somewhat of a poet, will never be a perfect mathematician." -- Karl Weierstrass
 
-(The doube *"ss"* in the end of Weierstrass's name should be the character ß, i.e., beta-like symbol, in his original name in German. Trust me: I knew it since I worked at Weierstrass Institute in Berlin, Germany for 1.5 years.)
+(The doube *"ss"* in the end of Weierstrass's name should be the character ß, i.e., beta-like symbol: Eszett, in his original name in German. Trust me: I knew it since I worked at Weierstrass Institute in Berlin, Germany for 1.5 years.)
 
 > "In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will. Man takes up the sword in order to shield the small wound in his heart sustained in a far-off time beyond remembrance. Man wields the sword so that he may die smiling in some far-off time beyond perception." -- Kentaro Miura, Berserk, Vol. 1
 
@@ -422,8 +422,6 @@ Science/Miscellaneous
 ------
 
 ### TeX/LaTeX
-
-[[Math2IT/Bảng biến thiên & bảng xét dấu trong LaTeX](https://github.com/NQBH/hobby/blob/master/TeX/Math2IT_bang_bien_thien_bang_xet_dau/Math2IT_bang_bien_thien_bang_xet_dau.pdf)]. [[rar](https://github.com/NQBH/hobby/blob/master/TeX/Math2IT_bang_bien_thien_bang_xet_dau/Math2IT_bang_bien_thien_bang_xet_dau.rar)]. [[TeX](https://github.com/NQBH/hobby/blob/master/TeX/Math2IT_bang_bien_thien_bang_xet_dau/Math2IT_bang_bien_thien_bang_xet_dau.tex)].
 
 * [*TeX*](https://github.com/NQBH/hobby/blob/master/TeX/NQBH_TeX.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/TeX/NQBH_TeX.tex)]. Apr 2022--now. Status: `still in collecting ...`.
 
