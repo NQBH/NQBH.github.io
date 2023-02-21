@@ -10,6 +10,7 @@ redirect_from:
   - /about.html
 toc: true
 ---
+{% include toc %}
 
 ------
 **A brief self-description.** `some adjectives` highly introverted, highly sensitive, honest, minimalist but/thus (?) informative; `some noun phrases` dyslexia/reading disorder, a disagreeable giver (used to be an agreeable giver before having been psychologically manipulated), a broken eidetiker.
