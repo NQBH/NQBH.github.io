@@ -115,7 +115,7 @@ $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
-$x-large                    : 1500px !default; //1280px !default;
+$x-large                    : 1280px !default; //1280px !default;
 $max-width                  : $x-large !default;
 /*
    Grid
@@ -127,7 +127,7 @@ $right-sidebar-width-wide   : 0px;
 
 $susy: (
   columns: 12,
-  column-width: 120px,
+  column-width: 150 px, // 120px,
   gutters: 1/4,
   math: fluid,
   output: float,
