@@ -2,13 +2,13 @@
 permalink: /
 classes: wide
 layout: single
-toc: true
 title: "Nguyễn Quản Bá Hồng [NQBH]'s GitHub Page"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+toc: true
 ---
 
 ------
