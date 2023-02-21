@@ -115,7 +115,7 @@ $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
-$x-large                    : 1280px !default; //1280px !default;
+$x-large                    : 1500px !default; //1280px !default;
 $max-width                  : $x-large !default;
 /*
    Grid
@@ -132,14 +132,14 @@ $susy: (
   math: fluid,
   output: float,
   gutter-position: after,
-  container: $large,
+  container: $x-large,
   global-box-sizing: border-box,
-  // debug: (
-  //   image: show,
-  //   color: blue,
-  //   output: overlay,
-  //   toggle: top right,
-  // ),
+  debug: (
+     image: show,
+     color: blue,
+     output: overlay,
+     toggle: top right,
+   ),
 );
 
 
