@@ -121,9 +121,9 @@ $max-width                  : $x-large !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 0px;
-$right-sidebar-width        : 0px;
-$right-sidebar-width-wide   : 0px;
+$right-sidebar-width-narrow : 120px;
+$right-sidebar-width        : 120px;
+$right-sidebar-width-wide   : 120px;
 
 $susy: (
   columns: 12,
