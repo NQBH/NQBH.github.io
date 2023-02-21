@@ -1,6 +1,7 @@
 ---
 permalink: /writing/
 title: "Writing"
+text-align: justify
 toc: true
 ---
 
