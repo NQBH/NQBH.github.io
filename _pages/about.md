@@ -425,6 +425,10 @@ Science/Miscellaneous
 
 * [*TeX*](https://github.com/NQBH/hobby/blob/master/TeX/NQBH_TeX.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/TeX/NQBH_TeX.tex)]. Apr 2022--now. Status: `still in collecting ...`.
 
++ [*TikZ*](https://github.com/NQBH/hobby/blob/master/TeX/TikZ/NQBH_TikZ.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/TeX/TikZ/NQBH_TikZ.tex)]. A personal practice of drawing figures in LaTeX by using TikZ package.
+
++ Drawing chemical formulas with `mhchem` & `chemfig` TeX packages.
+
 **NQBH's LaTeX templates.** [LaTeX template for article (in English)](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article.tex), [LaTeX template for article in Vietnamese](https://github.com/NQBH/hobby/blob/master/LaTeX_template_article_Vietnamese.tex), [LaTeX template for book](https://github.com/NQBH/hobby/blob/master/LaTeX_template_book.tex). (Actually, LaTeX's package `babel` will handle nicely the problem of switching between English & Vietnamese in these templates, thus there is no `LaTeX_template_book_Vietnamese` listed here).
 
 ------
