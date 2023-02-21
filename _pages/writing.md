@@ -18,7 +18,7 @@ Advanced Mathematics
 
 - Cédric Villani. [*Birth of A Theorem: A Mathematical Adventure*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/Villani2015/NQBH_Villani2015.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/Villani2015/NQBH_Villani2015.tex)]. Original: [Villani2015](https://github.com/NQBH/reference/blob/master/Villani2015.epub). [Villani2016](https://github.com/NQBH/reference/blob/master/Villani2016.epub).
 
-$$\partial_t f + \mathbf{v}\cdot\nabla_\mathbf{x}f = \int_{\mathbb{R}^3}\int_{\mathbb{S}^2} \left\|\mathbf{v} - \mathbf{v}_\star\right\|[f(\mathbf{v}')f(\mathbf{v}_\star') - f(\mathbf{v})f(\mathbf{v}_\star)]{\rm d}\mathbf{v}_\star d\sigma$$.
+$$\partial_t f + {\bf v}\cdot\nabla_{\bf x}f = \int_{\mathbb{R}^3}\int_{\mathbb{S}^2} \left\|{\bf v} - {\bf v}_\star\right\|[f({\bf v}')f({\bf v}_\star') - f({\bf v})f({\bf v}_\star)]{\rm d}{\bf v}_\star{\rm d}\sigma$$.
 
 Psychology
 ======
