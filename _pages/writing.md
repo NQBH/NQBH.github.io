@@ -38,4 +38,4 @@ NQBH's Writings
 
 Some Personal Principles of Composition:
 
-1. Whenever I feel hesitation between 2 (or more) words, I will a slash (slashes) between them to be able to defeat my procrastination in the matter of choosing the right word, also writer's block. I consider this principle as a linear combination (the most basic concept in Linear Algebra) of thosewords, or a worse metaphor: interpolation spaces between Sobolev spaces in Mathematical Analysis -- not a good explanation, I know, but they are my best insights on this.
+1. Whenever I feel hesitation between 2 (or more) words, I will a slash (slashes) between them to be able to defeat my procrastination in the matter of choosing the right word, also writer's block. I consider this principle as a linear combination (the most basic concept in Linear Algebra) of those words, or even a worse metaphor: interpolation spaces between Sobolev spaces in Mathematical Analysis -- not a good explanation, I know, but they are my best insights on this choice/style. Anyway, I can choose them later when my linguistics ability is improved.
