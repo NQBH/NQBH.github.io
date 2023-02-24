@@ -460,8 +460,6 @@ If you want to donate money for my artworks or pay tutor fees for my online clas
 
 **NQBH's Vietnamese Bank Account.** Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB). Swiftcode: `ASCBVNVX`. Số Tài Khoản: `1510717`. Chủ Tài Khoản: `Nguyễn Quản Bá Hồng`. Chi Nhánh: `ACB-CN Bến Tre`.
 
-**NQBH's French Bank Account.** BNP Paribas (France). IBAN: `FR76 30004 03065 00000783718 86`. Account Holder: `Nguyen Quan Ba Hong`. BIC: `BNPAFRPPXXX`.
-
 **Paypal.** `nguyenquanbahong@gmail.com`.
 
 [NQBH's list of contributors & donators](https://github.com/NQBH/hobby/blob/master/contributor_donator/NQBH_contributor_donator.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/contributor_donator/NQBH_contributor_donator.tex)], which is hoped to be plural instead of singular. *What kind of crazy monomaniac is this?*
