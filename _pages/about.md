@@ -338,7 +338,7 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Quadrilateral -- Tứ Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/quadrilateral/NQBH_quadrilateral.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/quadrilateral/NQBH_quadrilateral.tex)]. Nov 11, 2022--now. Status: `still in collecting ...`.
 
-  + [*Congruent Triangles -- Các Tam Giác Đồng Dạng*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/similar_triangle/NQBH_similar_triangle.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/similar_triangle/NQBH_similar_triangle.tex)]. Feb 2023--now. Status: `still in collecting ...`.
+  + [*Similar Triangles -- Các Tam Giác Đồng Dạng*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/similar_triangle/NQBH_similar_triangle.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/similar_triangle/NQBH_similar_triangle.tex)]. Feb 2023--now. Status: `still in collecting ...`.
 
 - [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Aug 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.tex)]. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/problem/NQBH_elementary_mathematics_grade_9_problem.pdf)].
 
