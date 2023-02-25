@@ -322,7 +322,7 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Real -- Số Thực $\mathbb{R}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/real/NQBH_real.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/real/NQBH_real.tex)]. Dec 12, 2022--now. Status: `still in collecting ...`.
 
-  + [*Triangle -- Tam Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/triangle/NQBH_triangle.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/triangle/NQBH_triangle.tex)]. Feb 2023--now. Status: `still in collecting ...`.
+  + [*Congruent Triangles -- Các Tam Giác Bằng Nhau*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/congruent_triangle/NQBH_congruent_triangle.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/congruent_triangle/NQBH_congruent_triangle.tex)]. Feb 2023--now. Status: `still in collecting ...`.
 
 - [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.tex)]. Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/problem/NQBH_elementary_mathematics_grade_8_problem.pdf)].
 
@@ -332,11 +332,13 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Problems & Solutions in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/solution/NQBH_elementary_mathematics_grade_8_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/solution/NQBH_elementary_mathematics_grade_8_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
-  + [*Polynomial -- Đa Thức*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/polynomial/NQBH_polynomial.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/polynomial/NQBH_polynomial.tex)]. Dec 12, 2022--now. Status: `still in collecting ...`.
+  + [*Polynomial -- Đa Thức $\mathbb{R}[x]$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/polynomial/NQBH_polynomial.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/polynomial/NQBH_polynomial.tex)]. Dec 12, 2022--now. Status: `still in collecting ...`.
 
   + [*Algebraic & Rational Fractions -- Phân Thức Đại Số & Phân Thức Đại Số Hữu Tỷ*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/algebraic_rational_fractions/NQBH_algebraic_rational_fractions.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/algebraic_rational_fractions/NQBH_algebraic_rational_fractions.tex)]. Nov 11, 2022--now. Status: `still in collecting ...`.
 
   + [*Quadrilateral -- Tứ Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/quadrilateral/NQBH_quadrilateral.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/quadrilateral/NQBH_quadrilateral.tex)]. Nov 11, 2022--now. Status: `still in collecting ...`.
+
+  + [*Congruent Triangles -- Các Tam Giác Đồng Dạng*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/similar_triangle/NQBH_similar_triangle.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/similar_triangle/NQBH_similar_triangle.tex)]. Feb 2023--now. Status: `still in collecting ...`.
 
 - [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Aug 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.tex)]. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/problem/NQBH_elementary_mathematics_grade_9_problem.pdf)].
 
