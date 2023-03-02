@@ -382,6 +382,8 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Antiderivative & Integration -- Nguyên Hàm & Tích Phân*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/integration/NQBH_integration.pdf). [[TeX]](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/integration/NQBH_integration.tex). Feb 2023--now. Status: `still in collecting ...`.
 
+  + [*Method of Coordinates in 3D -- Phương Pháp Tọa Độ Trong Không Gian*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/method_of_coordinates_in_3D/NQBH_method_of_coordinates_in_3D.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/method_of_coordinates_in_3D/NQBH_method_of_coordinates_in_3D.tex)]. Mar 2023--now. Status: `still in collecting ...`.
+
 - [*Short VMO 2017 Training Course at Ben Tre High School for Gifted Students*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/CBT_VMO_training/NQBH_CBT_VMO_2017_training.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/CBT_VMO_training/NQBH_CBT_VMO_2017_training.tex)]. Dec 18, 2016. Status: `finished`.
 
 - [vi] [*1 Số Lớp Phương Trình Bậc Cao Giải Được Nhờ Phương Trình Bậc 2 & Phương Trình Bậc 3*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/equation_inequation/solvable_equation/NQBH_some_solvable_polynomials.pdf); [en] *Some solvable polynomials due to quadratic & Cubic Polynomials*. [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/equation_inequation/solvable_equation/NQBH_some_solvable_polynomials.tex)]. Sep 21, 2016. Status: `finished`.
