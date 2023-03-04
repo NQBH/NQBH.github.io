@@ -123,6 +123,10 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Problems & Solutions in Elementary Chemistry/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/solution/NQBH_elementary_chemistry_grade_8_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/solution/NQBH_elementary_chemistry_grade_8_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
+  + [*Oxygen, Air -- Oxi $\rm O_2$, Không Khí*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/oxygen/NQBH_oxygen.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/oxygen/NQBH_oxygen.tex)]. Feb 2023--now. Status: `still in collecting ...`.
+
+  + [*Hydrogen, Water -- Hiđro $\rm H_2$, Nước $\rm H_2O$*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/hydrogen/NQBH_hydrogen_water.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/hydrogen/NQBH_hydrogen_water.tex)]. Mar 2023--now. Status: `still in collecting ...`.
+
 - [*Some Topics in Elementary Chemistry/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.tex)]. Aug 2022--now. Status: `just initialize, still in collecting ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/problem/NQBH_elementary_chemistry_grade_9_problem.pdf)].
 
   + [*Cheatsheet for Elementary Chemistry/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/cheatsheet/NQBH_elementary_chemistry_grade_9_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/cheatsheet/NQBH_elementary_chemistry_grade_9_cheatsheet.tex)]. Oct 2022--now. Status: `still in collecting ...`.

@@ -5,7 +5,7 @@ text-align: justify
 toc: true
 ---
 {% include toc %}
-To be able to write, I have to read a lot (Damn this bloody dyslexia). I try to track my reading process carefully by [[NQBH's reading list/process](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.tex)].
+To be able to write, I have to read a lot (damn this bloody dyslexia). I try to track my reading process carefully by [[NQBH's reading list/process](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.tex)].
 
 To deal with my reading issue, I read by typing -- only good & hard books, of course. These are only my own materials to read, not violating any copyright laws.
 
