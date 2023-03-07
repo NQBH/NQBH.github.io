@@ -35,12 +35,9 @@ PMEs: $\partial_tu - \Delta u^m + u^{-\beta}\chi_{\{ u>0 \}} = 0$ in $(0,\infty)
 ### Turbulence Models
 Navier--Stokes equations, $k$-$\varepsilon$ turbulence model(s) (several variants), $k$-$\omega$ turbulence model.
 
-\nabla\cdot(\rho{\bf u}) &= 0,
-
-\partial_t(\rho{\bf u}) + \nabla\cdot(\rho{\bf u}\otimes{\bf u}) &= \nabla\cdot[(\mu + \mu_{\rm t})\nabla{\bf u}] + {\bf Q}^{\bf u},
-
-\partial_t(\rho k) + \nabla\cdot(\rho{\bf u}k) &= \nabla\cdot\left(\left(\mu + \frac{\mu_{\rm t}}{\sigma_k}\right)\nabla k\right) + P_k - \rho\varepsilon,
-
-\partial_t(\rho\varepsilon) + \nabla\cdot(\rho{\bf u}\varepsilon) &= \nabla\cdot\left(\left(\mu + \frac{\mu_{\rm t}}{\sigma_\varepsilon}\right)\nabla\varepsilon\right) + C_{\varepsilon1}\frac{\varepsilon}{k}P_k - C_{\varepsilon2}\rho\frac{\varepsilon^2}{k}.
+$$\nabla\cdot(\rho{\bf u}) &= 0$$,
+$$\partial_t(\rho{\bf u}) + \nabla\cdot(\rho{\bf u}\otimes{\bf u}) &= \nabla\cdot[(\mu + \mu_{\rm t})\nabla{\bf u}] + {\bf Q}^{\bf u}$$,
+$$\partial_t(\rho k) + \nabla\cdot(\rho{\bf u}k) &= \nabla\cdot\left(\left(\mu + \frac{\mu_{\rm t}}{\sigma_k}\right)\nabla k\right) + P_k - \rho\varepsilon$$,
+$$\partial_t(\rho\varepsilon) + \nabla\cdot(\rho{\bf u}\varepsilon) &= \nabla\cdot\left(\left(\mu + \frac{\mu_{\rm t}}{\sigma_\varepsilon}\right)\nabla\varepsilon\right) + C_{\varepsilon1}\frac{\varepsilon}{k}P_k - C_{\varepsilon2}\rho\frac{\varepsilon^2}{k}$$.
 
 ------
