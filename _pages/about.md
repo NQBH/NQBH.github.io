@@ -151,7 +151,11 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Problems & Solutions in Elementary Chemistry/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/solution/NQBH_elementary_chemistry_grade_11_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/solution/NQBH_elementary_chemistry_grade_11_solution.tex)]. Oct 2022--now. Status: `still in collecting ...`.
 
-  + [*Nitrogen -- Nhóm Nitơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/organic_chemistry/NQBH_organic_chemistry.tex). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/organic_chemistry/NQBH_organic_chemistry.tex)]. Dec 8, 2022--now. Status: `still in collecting ...`.
+  + [*Nitrogen -- Nhóm Nitơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/nitrogen/NQBH_nitrogen.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/nitrogen/NQBH_nitrogen.tex)]. Dec 2022--now. Status: `still in collecting ...`.
+
+  + [*Organic Chemistry -- Hóa Học Hữu Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/organic_chemistry/NQBH_organic_chemistry.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/organic_chemistry/NQBH_organic_chemistry.tex)]. Dec 2022--now. Status: `still in collecting ...`.
+
+  + [*Hydrocarbon*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/hydrocarbon/NQBH_hydrocarbon.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/hydrocarbon/NQBH_hydrocarbon.tex)]. Feb 2023--now. Status: `still in collecting ...`.
 
 - [*Some Topics in Elementary Chemistry/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_12/NQBH_elementary_chemistry_grade_12.pdf). Aug 2022--now. Status: `not initialized yet ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_12/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_12/problem/NQBH_elementary_chemistry_grade_12_problem.pdf)].
 
