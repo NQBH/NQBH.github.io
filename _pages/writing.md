@@ -14,11 +14,19 @@ To deal with my reading issue, I read by typing -- only good & hard books, of co
 Advanced Mathematics
 ======
 
+**Why Do Mathematics?** Mathematics gives us a sense of meaning, a sense of order, a sense of being able to distinguish what is right & what is wrong, to avoid ambiguity & chaos, which are 2 of primal sources of depressions & other psychological problems.
+
 - G. H. Hardy. [*A Mathematician's Apology*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/Hardy2017/NQBH_Hardy2017.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/Hardy2017/NQBH_Hardy2017.tex)]. Original: [Hardy2017](https://github.com/NQBH/reference/blob/master/Hardy2017.pdf). [An Annotated Mathematician's Apology](https://github.com/NQBH/reference/blob/master/Hardy2022.pdf).
 
 - Cédric Villani. [*Birth of A Theorem: A Mathematical Adventure*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/Villani2015/NQBH_Villani2015.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/Villani2015/NQBH_Villani2015.tex)]. Original: [Villani2015](https://github.com/NQBH/reference/blob/master/Villani2015.epub). [Villani2016](https://github.com/NQBH/reference/blob/master/Villani2016.epub).
 
 $$\partial_t f + {\bf v}\cdot\nabla_{\bf x}f = \int_{\mathbb{R}^3}\int_{\mathbb{S}^2} \left\|{\bf v} - {\bf v}_\star\right\|[f({\bf v}')f({\bf v}_\star') - f({\bf v})f({\bf v}_\star)]{\rm d}{\bf v}_\star{\rm d}\sigma$$.
+
+------
+
+Game
+======
+I have played DotA 2 for some years now & I have some thoughts on it, especially on the moods it has brought to me.
 
 Psychology
 ======
@@ -34,6 +42,11 @@ Psychology
 - Debbie Mirza. [*The Covert Passive Aggressive Narcissist*](https://github.com/NQBH/hobby/blob/master/psychology/Mirza2017/NQBH_Mirza2017.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Mirza2017/NQBH_Mirza2017.tex)]. Status: `still in reading by typing ...`.
 
 - George Simon, Jr. [*In Sheep's Clothing: Understanding & Dealing with Manipulative People*](https://github.com/NQBH/hobby/blob/master/psychology/Simon2010/NQBH_Simon2010.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Simon2010/NQBH_Simon2010.tex)]. Status: `still in reading by typing ...`.
+
+Education
+======
+
+------
 
 NQBH's Writings
 ======
