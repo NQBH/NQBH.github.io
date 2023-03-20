@@ -32,9 +32,9 @@ Education
 
 [en] I have been teaching some very-very basic classes in Elementary Mathematics, Elementary Physics, Elementary Chemistry, & Programming from Aug 2022, alongside my own research.
 
-[vi] 
+[vi] Bắt đầu từ cuối tháng 7, đầu tháng 8 năm 2022, tôi có mở 1 số lớp học thêm về Toán/Lý/Hóa Sơ Cấp, & Lập Trình cho học sinh ở quê mình. Thành thật mà nói, dẫu quay lại chốn này sau bao nhiêu năm, cảnh quang thay đổi, nhưng có những thứ muôn đời khó mà thay đổi, ẩn sâu hơn, khó nhìn thấy hơn, mà chắc có lẽ phải đi thật xa để trở về mới có thể nhìn ra nó rõ nét như vậy: đó là mặt bằng ý thức & dân trí cực thấp của dân quê, tính luôn cả học sinh & 1 vài giáo viên. Tôi không có ý định chà đạp, bôi nhọ, chỉ có điều cái thứ mà tôi cảm nhận khi còn học cấp 2 đến giờ vẫn thế, không hề thay đổi.
 
-**How can you teach a lazy uneducated studen? Girl or boy worse?**
+**How can you teach a lazy uneducated student? Girl or boy worse?**
 
 ------
 
@@ -45,6 +45,17 @@ I have played DotA 2 for some years now & I have some thoughts on it, especially
 
 Psychology
 ======
+
+Some quotes from the opening of Yôkoso jitsuryoku shijô shugi no kyôshitsu e $\star$ Classroom of Elite (2017--):
+
+> [en] "What is evil? -- Whatever springs from weakness." [de] "Was ist schlecht? -- Alles, was aus der Schwäche stammt." -- Friedrich Wilhelm Nietzsche, *Der Antichrist*
+
+> [en] "It takes a great talent & skill to conceal one's talent & skill." [fr] "C'est une grande habileté que de savoir cacher son habileté." [en] "We should not be upset that others hide the truth frm us, when we hide it so often from ourselves." [fr] "Il ne faut pas s'offenser que les autres nous cachent la vérité, puisque nous nous la cachons si souvent à nous--mêmes." -- La Rochefoucauld, *Réflexions ou sentences et maximes morales $\star$ Reflections; or Sentences & Moral Maxims*
+
+> "Man is an animal that makes bargains; no other animal does this -- no dog exchanges bones with another." -- Adam Smith, *An Inquiry into the Nature & Causes of the Wealth of Nations*
+
+> [en] "Hell is other people." [fr] "l'enfer, c'est les autres."
+ -- Jean-Paul Sartre, *Huis Clos $\star$ No Exit*
 
 - Susan Cain. [*Quiet: The Power of Introverts in a World That Can't Stop Talking*](https://github.com/NQBH/hobby/blob/master/psychology/Cain2013/NQBH_Cain2013.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Cain2013/NQBH_Cain2013.tex)]. Status: `still in reading by typing ...`.
 
@@ -58,13 +69,14 @@ Psychology
 
 - George Simon, Jr. [*In Sheep's Clothing: Understanding & Dealing with Manipulative People*](https://github.com/NQBH/hobby/blob/master/psychology/Simon2010/NQBH_Simon2010.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Simon2010/NQBH_Simon2010.tex)]. Status: `still in reading by typing ...`.
 
++ I think the only way to see through a thick mask of a person is to pretend that you are a loser to him/her to make him/her assume that he/she can do anything to you to satisfy his/her ego. The mask will be melt down instantly.
 
 ------
 
 Reading
 ======
 
-- I try to categorize books on my reading list according to their levels of difficulty. For those books which are easy to read & understand, I will read them whenever I feel not concentrated so much, e.g., hero-selection time before each DotA 2 match or minipause(s) within it. For those books which are in high level of difficulty & abstract, I will read them whenever I feel empty, numb [Linkin Park's Numb] to fill these voids (of emotions or of meanings?) inside me.
+- I try to categorize books on my reading list according to their levels of difficulty. For those books which are easy to read & understand, I will read them whenever I feel not concentrated so much, e.g., hero-selection time before each DotA 2 match or minipause(s) within it. For those books which are in high level of difficulty & abstractness, I will read them whenever I feel empty, numb [Linkin Park's Numb] to fill these voids (of emotions or of meanings?) inside me.
 
 ------
 
