@@ -48,14 +48,13 @@ Psychology
 
 Some quotes from the opening of Yôkoso jitsuryoku shijô shugi no kyôshitsu e $\star$ Classroom of Elite (2017--):
 
-> [en] "What is evil? -- Whatever springs from weakness." [de] "Was ist schlecht? -- Alles, was aus der Schwäche stammt." -- Friedrich Wilhelm Nietzsche, *Der Antichrist*
+> `[en]` "What is evil? -- Whatever springs from weakness." `[de]` "Was ist schlecht? -- Alles, was aus der Schwäche stammt." -- Friedrich Wilhelm Nietzsche, *Der Antichrist*
 
-> [en] "It takes a great talent & skill to conceal one's talent & skill." [fr] "C'est une grande habileté que de savoir cacher son habileté." [en] "We should not be upset that others hide the truth frm us, when we hide it so often from ourselves." [fr] "Il ne faut pas s'offenser que les autres nous cachent la vérité, puisque nous nous la cachons si souvent à nous--mêmes." -- La Rochefoucauld, *Réflexions ou sentences et maximes morales $\star$ Reflections; or Sentences & Moral Maxims*
+> `[en]` "It takes a great talent & skill to conceal one's talent & skill." `[fr]` "C'est une grande habileté que de savoir cacher son habileté." [en] "We should not be upset that others hide the truth from us, when we hide it so often from ourselves." `[fr]` "Il ne faut pas s'offenser que les autres nous cachent la vérité, puisque nous nous la cachons si souvent à nous--mêmes." -- La Rochefoucauld, *Réflexions ou sentences et maximes morales $\star$ Reflections; or Sentences & Moral Maxims*
 
 > "Man is an animal that makes bargains; no other animal does this -- no dog exchanges bones with another." -- Adam Smith, *An Inquiry into the Nature & Causes of the Wealth of Nations*
 
-> [en] "Hell is other people." [fr] "l'enfer, c'est les autres."
- -- Jean-Paul Sartre, *Huis Clos $\star$ No Exit*
+> `[en]` "Hell is other people." `[fr]` "l'enfer, c'est les autres." -- Jean-Paul Sartre, *Huis Clos $\star$ No Exit*
 
 - Susan Cain. [*Quiet: The Power of Introverts in a World That Can't Stop Talking*](https://github.com/NQBH/hobby/blob/master/psychology/Cain2013/NQBH_Cain2013.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Cain2013/NQBH_Cain2013.tex)]. Status: `still in reading by typing ...`.
 
