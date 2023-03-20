@@ -5,6 +5,9 @@ text-align: justify
 toc: true
 ---
 {% include toc %}
+
+**Goal.** *I try to record some of my thoughts here.*
+
 To be able to write well, I have to read a lot (damn this bloody dyslexia). I try to track my reading process carefully by [[NQBH's reading list/process](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.tex)].
 
 To deal with my reading issue, I read by typing -- only good & hard books, of course. These are only my own materials to read, not violating any copyright laws.
@@ -24,8 +27,20 @@ $$\partial_t f + {\bf v}\cdot\nabla_{\bf x}f = \int_{\mathbb{R}^3}\int_{\mathbb{
 
 ------
 
+Education
+======
+
+[en] I have been teaching some very-very basic classes in Elementary Mathematics, Elementary Physics, Elementary Chemistry, & Programming from Aug 2022, alongside my own research.
+
+[vi] 
+
+**How can you teach a lazy uneducated studen? Girl or boy worse?**
+
+------
+
 Game
 ======
+
 I have played DotA 2 for some years now & I have some thoughts on it, especially on the moods it has brought to me.
 
 Psychology
@@ -43,15 +58,22 @@ Psychology
 
 - George Simon, Jr. [*In Sheep's Clothing: Understanding & Dealing with Manipulative People*](https://github.com/NQBH/hobby/blob/master/psychology/Simon2010/NQBH_Simon2010.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Simon2010/NQBH_Simon2010.tex)]. Status: `still in reading by typing ...`.
 
-Education
-======
 
 ------
 
-NQBH's Writings
+Reading
 ======
 
-Some Personal Principles of Composition:
+- I try to categorize books on my reading list according to their levels of difficulty. For those books which are easy to read & understand, I will read them whenever I feel not concentrated so much, e.g., hero-selection time before each DotA 2 match or minipause(s) within it. For those books which are in high level of difficulty & abstract, I will read them whenever I feel empty, numb [Linkin Park's Numb] to fill these voids (of emotions or of meanings?) inside me.
+
+------
+
+Writing
+======
+
+I start to compose some secret drafts but the procrastination is great -- I cannot refuse it. What I feel is that it is not ripe enough to write. It needs more flavors.
+
+### Some Personal Principles of Composition:
 
 - Whenever I feel hesitation between 2 (or more) words, I will use a slash (slashes) between them to be able to defeat my procrastination in the matter of choosing the right word, also writer's block. I consider this principle as a linear combination (the most basic concept in Linear Algebra) of those words, or even a worse metaphor: interpolation spaces between Sobolev spaces in Mathematical Analysis -- not a good explanation, I know, but they are my best insights on this choice/style. Anyway, I can choose them later when my linguistics ability is improved.
 
