@@ -368,6 +368,10 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*1st-Order Function -- Hàm Số bậc Nhất $y = ax + b$, $a\ne0$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/1st_order_function/NQBH_1st_order_function.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/1st_order_function/NQBH_1st_order_function.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
+  + [*1st-Order 2-Unknown System of Equations -- Hệ Phương Trình Bậc Nhất 2 Ẩn*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/1st_order_2_unknown_system_of_equations/NQBH_1st_order_2_unknown_system_of_equations.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/1st_order_2_unknown_system_of_equations/NQBH_1st_order_2_unknown_system_of_equations.tex)]. Apr 2023--now. Status: `unfinished ...`.
+
+  + [*2nd-Order 1-Unknown Equation -- Phương Trình Bậc 2 với 1 Ẩn $y = ax^2 + bx + c$, $a\ne0$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/2nd_order_1_unknown_equation/NQBH_2nd_order_1_unknown_equation.pdf). [[TeX]https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/2nd_order_1_unknown_equation/NQBH_2nd_order_1_unknown_equation.tex]. Apr 2023--now. Status: `unfinished ...`.
+
 - [*Diophantine Equation*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.tex)]. Nov 27--now. Status: `unfinished ...`.
 
 **Elementary Mathematics for Grade 10 $\star$ Toán Sơ Cấp Lớp 10.**
