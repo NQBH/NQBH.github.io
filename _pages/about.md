@@ -370,6 +370,7 @@ Author: Nguyễn Quản Bá Hồng.
 
 - [*Diophantine Equation*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.tex)]. Nov 27--now. Status: `unfinished ...`.
 
+**Elementary Mathematics for Grade 10 $\star$ Toán Sơ Cấp Lớp 10.**
 - [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Aug 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.tex)]. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/problem/NQBH_elementary_mathematics_grade_10_problem.pdf)].
 
   + [*Cheatsheet for Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/cheatsheet/NQBH_elementary_mathematics_grade_10_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/cheatsheet/NQBH_elementary_mathematics_grade_10_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
@@ -378,6 +379,7 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Problems & Solutions in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/solution/NQBH_elementary_mathematics_grade_10_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/solution/NQBH_elementary_mathematics_grade_10_solution.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
+**Elementary Mathematics for Grade 11 $\star$ Toán Sơ Cấp Lớp 11.**
 - [*Some Topics in Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.tex)]. Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/problem/NQBH_elementary_mathematics_grade_11_problem.pdf)].
 
   + [*Cheatsheet for Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/cheatsheet/NQBH_elementary_mathematics_grade_11_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/cheatsheet/NQBH_elementary_mathematics_grade_11_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
@@ -390,6 +392,7 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*3D Vector -- Vector Trong Không Gian*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/3D_vector/NQBH_3D_vector.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/3D_vector/NQBH_3D_vector.tex)]. Feb 2023--now. Status: `unfinished ...`.
 
+**Elementary Mathematics for Grade 12 $\star$ Toán Sơ Cấp Lớp 12.**
 - [*Some Topics in Elementary Mathematics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/NQBH_elementary_mathematics_grade_12.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/NQBH_elementary_mathematics_grade_12.tex)]. 2022--now. Status: `not initialized yet`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_12/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/problem/NQBH_elementary_mathematics_grade_12_problem.pdf)].
 
   + [*Cheatsheet for Elementary Mathematics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/cheatsheet/NQBH_elementary_mathematics_grade_12_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/cheatsheet/NQBH_elementary_mathematics_grade_12_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
