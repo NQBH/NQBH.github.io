@@ -364,7 +364,7 @@ Author: Nguyễn Quản Bá Hồng.
 
   + [*Problems & Solutions in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/solution/NQBH_elementary_mathematics_grade_9_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/solution/NQBH_elementary_mathematics_grade_9_solution.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
-  + [*Square Root & Cube Root -- Căn Bậc 2 $\sqrt{f(x)}& Căn Bậc 3 $\sqrt[3]{f(x)}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/NQBH_square_root_cube_root.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/NQBH_square_root_cube_root.tex)]. Apr 2023--now. Status: `unfinished ...`.
+  + [*Square Root & Cube Root -- Căn Bậc 2 $\sqrt{f(x)}$ & Căn Bậc 3 $\sqrt[3]{f(x)}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/NQBH_square_root_cube_root.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/NQBH_square_root_cube_root.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
 - [*Diophantine Equation*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.tex)]. Nov 27--now. Status: `unfinished ...`.
 
