@@ -221,6 +221,14 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Problems & Solutions in Elementary Physics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/solution/NQBH_elementary_physics_grade_9_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/solution/NQBH_elementary_physics_grade_9_solution.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
+  + [*Electricity -- Điện Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/NQBH_electricity.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/NQBH_electricity.tex)]. Apr 2023--now. Status: `unfinished ...`.
+
+  + [*Electromagnetism -- Điện Từ Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electromagnetism/NQBH_electromagnetism.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electromagnetism/NQBH_electromagnetism.tex)]. Apr 2023--now. Status: `unfinished ...`.
+
+  + [*Optics -- Quang Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/optics/NQBH_optics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/optics/NQBH_optics.tex)]. Apr 2023--now. Status: `unfinished ...`.
+
+  + [*Energy Conservation & Transformation -- Sự Bảo Toàn & Chuyển Hóa Năng Lượng*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/energy_conservation_transformation/NQBH_energy_conservation_transformation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/energy_conservation_transformation/NQBH_energy_conservation_transformation.tex)]. Apr 2023--now. Status: `unfinished ...`.
+
 **Elementary Physics for Grade 10 -- Vật Lý Sơ Cấp Lớp 10.**
 
 - [*Some Topics in Elementary Physics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/NQBH_elementary_physics_grade_10.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/NQBH_elementary_physics_grade_10.tex)]. Aug 2022--now. Status: `just initialize, unfinished ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/problem/NQBH_elementary_physics_grade_10_problem.pdf)].
