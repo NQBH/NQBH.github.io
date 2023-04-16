@@ -288,8 +288,6 @@ I will hold offline/on-site & online classes to teach elementary mathematics, el
 
 [[A list of books planned to buy/download](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.tex)].
 
-Author: Nguyễn Quản Bá Hồng.
-
 * [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics/NQBH_some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics/NQBH_some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics.tex)]. Mar 2022--now. Status: `still in writing ...`.
 
 * [*Elementary Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.tex)]. Jul 2022--now. Status: `still in writing ...`.
