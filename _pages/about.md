@@ -125,9 +125,13 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Problems & Solutions in Elementary Chemistry/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/solution/NQBH_elementary_chemistry_grade_8_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/solution/NQBH_elementary_chemistry_grade_8_solution.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
+  + [*Chemical Reaction -- Phản Ứng Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/chemical_reaction/NQBH_chemical_reaction.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/chemical_reaction/NQBH_chemical_reaction.tex)]. Mar 2023--now. Status: `unfinished ...`.
+
   + [*Oxygen, Air -- Oxi $\rm O_2$, Không Khí*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/oxygen/NQBH_oxygen.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/oxygen/NQBH_oxygen.tex)]. Feb 2023--now. Status: `unfinished ...`.
 
   + [*Hydrogen, Water -- Hiđro $\rm H_2$, Nước $\rm H_2O$*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/hydrogen/NQBH_hydrogen_water.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/hydrogen/NQBH_hydrogen_water.tex)]. Mar 2023--now. Status: `unfinished ...`.
+
+  + [*Acid, Base, pH, Oxide, Salt -- Muối*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/acid_base_pH_oxide_salt/NQBH_acid_base_pH_oxide_salt.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/acid_base_pH_oxide_salt/NQBH_acid_base_pH_oxide_salt.tex)]. Apr  2023--now. Status: `unfinished ...`.
 
 **Elementary Chemistry for Grade 9 -- Hóa Học Sơ Cấp Lớp 9.**
 
