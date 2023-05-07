@@ -448,7 +448,15 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
     + [*Problem: Trigonometry -- Bài Tập: Lượng Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.tex)]. May 2023--now. Status: `unfinished ...`.
 
-    + [*Solution: Trigonemtry -- Lời Giải: Lượng Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+    + [*Solution: Trigonometry -- Lời Giải: Lượng Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+
+  + [*Circle -- Đường Tròn*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/NQBH_circle.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/NQBH_circle.tex)]. May 2023--now. Status: `unfinished ...`.
+
+    + *Cheatsheet: Circle -- Bảng Tóm Tắt Công Thức Đường Tròn*.
+
+    + [*Problem: Circle -- Bài Tập: Đường Tròn*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/problem/NQBH_circle_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/problem/NQBH_circle_problem.tex)]. May 2023--now. Status: `unfinished ...`.
+
+    + [*Solution: Circle -- Lời Giải: Đường Tròn*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/solution/NQBH_circle_solution.pdf). [[TeX]https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/solution/NQBH_circle_solution.tex]. May 2023--now. Status: `unfinished ...`.
 
 - [*Diophantine Equation*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.tex)]. Nov 27--now. Status: `unfinished ...`.
 
