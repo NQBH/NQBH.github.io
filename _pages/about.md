@@ -60,15 +60,15 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * [***Series: A Personal Journey to Realms of Knowledge: Wonderland or The Promised Neverland?***](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/NQBH_series_a_personal_journey_to_realms_of_knowledge.pdf). Mar 2022--now. Status: `still in writing, not uploaded yet, still in secret ...`. Note: `NQBH's map of all other files` -- `The Head of The Snake`.
 
-  + [*Series: A Personal Journey to Realms of Knowledge: The Wonderland or The Promised Neverland/Preface*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/preface/NQBH_series_a_personal_journey_to_realms_of_knowledge_preface.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/preface/NQBH_series_a_personal_journey_to_realms_of_knowledge_preface.tex)]. Jun 2022--now. Status: `still in writing ...`.
+  + [*Series: A Personal Journey to Realms of Knowledge: The Wonderland or The Promised Neverland/Preface*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/preface/NQBH_series_a_personal_journey_to_realms_of_knowledge_preface.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/preface/NQBH_series_a_personal_journey_to_realms_of_knowledge_preface.tex)]. Jun 2022--now. Status: `unfinished`.
 
-  + [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.tex)]. Jun 2022--now. Status: `still in writing ...`.
+  + [*Giver vs. Taker vs. Matcher*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/giver_vs_taker_vs_matcher/NQBH_giver_vs_taker_vs_matcher.tex)]. Jun 2022--now. Status: `unfinished`.
 
-  + *Simplicity*. Jun 2022--now. Status: `still in writing ...`.
+  + *Simplicity*. Jun 2022--now. Status: `unfinished`.
 
-  + [*Minimalism*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/minimalism/NQBH_minimalism.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/minimalism/NQBH_minimalism.tex)]. Jun 2022--now. Status: `still in writing ...`.
+  + [*Minimalism*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/minimalism/NQBH_minimalism.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/minimalism/NQBH_minimalism.tex)]. Jun 2022--now. Status: `unfinished`.
 
-  + [*Series: A Personal Journey to Realms of Knowledge: Wonderland or The Promised Neverland?/Miscellaneous*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/miscellaneous/NQBH_series_a_personal_journey_to_realms_of_knowledge_miscellaneous.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/miscellaneous/NQBH_series_a_personal_journey_to_realms_of_knowledge_miscellaneous.tex)]. Jul 2022--now. Status: `still in writing ...`.
+  + [*Series: A Personal Journey to Realms of Knowledge: Wonderland or The Promised Neverland?/Miscellaneous*](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/miscellaneous/NQBH_series_a_personal_journey_to_realms_of_knowledge_miscellaneous.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/series_a_personal_journey_to_realms_of_knowledge/miscellaneous/NQBH_series_a_personal_journey_to_realms_of_knowledge_miscellaneous.tex)]. Jul 2022--now. Status: `unfinished`.
 
 ------
 
@@ -77,11 +77,13 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 [Resource](https://github.com/NQBH/hobby/tree/master/language/english/resource).
 
-* [*Problems in English*](https://github.com/NQBH/hobby/blob/master/language/english/problem/NQBH_english_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/language/english/problem/NQBH_english_problem.tex)]. Oct 2022--now. Status: `still in writing ...`.
+* [*Problems in English*](https://github.com/NQBH/hobby/blob/master/language/english/problem/NQBH_english_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/language/english/problem/NQBH_english_problem.tex)]. Oct 2022--now. Status: `unfinished`.
 
-* [*Sentence Transformation*](https://github.com/NQBH/hobby/blob/master/language/english/sentence_transformation/NQBH_sentence_transformation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/language/english/sentence_transformation/NQBH_sentence_transformation.tex)]. Oct 2022--now. Status: `still in writing ...`.
+* [*Sentence Transformation*](https://github.com/NQBH/hobby/blob/master/language/english/sentence_transformation/NQBH_sentence_transformation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/language/english/sentence_transformation/NQBH_sentence_transformation.tex)]. Oct 2022--now. Status: `unfinished`.
 
 * [*A Personal Journey to Writing*](https://github.com/NQBH/hobby/blob/master/writing/NQBH_a_personal_journey_to_writing.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/writing/NQBH_a_personal_journey_to_writing.tex)]. Mar 2022--now. Status: `unfinished ...`.
+
+------
 
 [Science](https://en.wikipedia.org/wiki/Science)
 ======
@@ -110,6 +112,8 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 ------
 
 ### Chemistry -- Hóa Học
+
+------
 
 #### Elementary Chemistry -- Hóa Học Sơ Cấp
 
@@ -197,6 +201,8 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 ### Physics
 
+------
+
 #### Elementary Physics -- Vật Lý Sơ Cấp
 
 * *Some Topics in Elementary Physics*. 2022--now. Status: `not initialized yet`.
@@ -243,7 +249,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Problems & Solutions in Elementary Physics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/solution/NQBH_elementary_physics_grade_10_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/solution/NQBH_elementary_physics_grade_10_solution.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
-  + [*Dynamics*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/dynamics/NQBH_dynamics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/dynamics/NQBH_dynamics.tex)]. Nov 24--now. Status: `still in writing ...`.
+  + [*Dynamics*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/dynamics/NQBH_dynamics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/dynamics/NQBH_dynamics.tex)]. Nov 24--now. Status: `unfinished`.
 
 **Elementary Physics for Grade 11 -- Vật Lý Sơ Cấp Lớp 11.**
 
@@ -272,13 +278,19 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * [*Quotes from the Books*](https://github.com/NQBH/hobby/blob/master/quotes_from_the_books/NQBH_quotes_from_the_books.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/quotes_from_the_books/NQBH_quotes_from_the_books.tex)]. Aug 2022--now. Status: `just initialize, unfinished ...`.
 
+------
+
 ### Philosophy
 
-* [*A Personal Journey to Philosophy*](https://github.com/NQBH/hobby/blob/master/philosophy/NQBH_a_personal_journey_to_philosophy.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/philosophy/NQBH_a_personal_journey_to_philosophy.tex)]. Mar 2022--now. Status: `still in writing ...`.
+* [*A Personal Journey to Philosophy*](https://github.com/NQBH/hobby/blob/master/philosophy/NQBH_a_personal_journey_to_philosophy.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/philosophy/NQBH_a_personal_journey_to_philosophy.tex)]. Mar 2022--now. Status: `unfinished`.
+
+------
 
 ### Psychology
 
-* [*A Personal Journey to Psychology: The Way I Perceive*](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.tex)]. Mar 2022--now. Status: `still in writing ...`.
+* [*A Personal Journey to Psychology: The Way I Perceive*](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/NQBH_a_personal_journey_to_psychology.tex)]. Mar 2022--now. Status: `unfinished`.
+
+------
 
 [Formal Science](https://en.wikipedia.org/wiki/Formal_science)
 ------
@@ -286,9 +298,15 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 ### Data Science
 A survey will be inserted here.
 
+------
+
 ### Logic
 
+------
+
 ### [Mathematics](https://en.wikipedia.org/wiki/Mathematics)
+
+------
 
 #### Advanced Mathematics -- Toán Cao Cấp
 
@@ -312,14 +330,18 @@ A survey will be inserted here.
 
   + Michael Hintermüller, Hong Quan Ba Nguyen. *Optimal Shape Design of Air Ducts in Combustion Engines: Design a General Shape Optimization Framework*. [[Abstract](https://github.com/NQBH/hobby/blob/master/ROMSOC/talk/ROMSOC_ESR_seminar/abstract/NQBH_abstract.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/ROMSOC/talk/ROMSOC_ESR_seminar/abstract/NQBH_abstract.pdf)]. Apr 10, 2021.
 
-* [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.tex)]. Jun 2022--now. Status: `still in writing ...`.
+* [*Some Topics in Numerical Analysis*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/numerical_analysis/NQBH_numerical_analysis.tex)]. Jun 2022--now. Status: `unfinished`.
 
-* [*Turbulence*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/turbulence/NQBH_turbulence.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/turbulence/NQBH_turbulence.tex)]. Jul 2022--now. Status: `still in writing ...`.
+* [*Turbulence*](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/turbulence/NQBH_turbulence.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/advanced_mathematics/turbulence/NQBH_turbulence.tex)]. Jul 2022--now. Status: `unfinished`.
+
+------
 
 ##### Surveys
-* [*A Survey on Navier--Stokes Equations*](https://github.com/NQBH/hobby/blob/master/survey/NSEs/NQBH_survey_NSEs.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/survey/NSEs/NQBH_survey_NSEs.tex)]. Mar 2022--now. Status: `still in writing ...`.
+* [*A Survey on Navier--Stokes Equations*](https://github.com/NQBH/hobby/blob/master/survey/NSEs/NQBH_survey_NSEs.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/survey/NSEs/NQBH_survey_NSEs.tex)]. Mar 2022--now. Status: `unfinished`.
 
-* [*A Survey on Deep Learning*](https://github.com/NQBH/hobby/blob/master/survey/deep_learning/NQBH_deep_learning.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/survey/deep_learning/NQBH_deep_learning.tex)]. Mar 2022--now. Status: `still in writing ...`.
+* [*A Survey on Deep Learning*](https://github.com/NQBH/hobby/blob/master/survey/deep_learning/NQBH_deep_learning.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/survey/deep_learning/NQBH_deep_learning.tex)]. Mar 2022--now. Status: `unfinished`.
+
+------
 
 #### Elementary Mathematics -- Toán Sơ Cấp
 I will organize offline/on-site & online classes to teach elementary mathematics, elementary physics, elementary chemistry, & basic programming (Pascal, Python, C/C++). Contact my email to join. I will add you to some Facebook groups in order to upload materials & discuss easier.
@@ -328,15 +350,15 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
 [[A list of books planned to buy/download](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/book/NQBH_book.tex)].
 
-* [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics/NQBH_some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics/NQBH_some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics.tex)]. Mar 2022--now. Status: `still in writing ...`.
+* [*Some Topics in Elementary Mathematics: Problems, Theories, Applications, & Bridges to Advanced Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics/NQBH_some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics/NQBH_some_topics_in_elementary_mathematics_problems_theories_applications_bridges_to_advanced_mathematics.tex)]. Mar 2022--now. Status: `unfinished`.
 
-* [*Elementary Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.tex)]. Jul 2022--now. Status: `still in writing ...`.
+* [*Elementary Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/NQBH_elementary_mathematics.tex)]. Jul 2022--now. Status: `unfinished`.
 
-- [*Elementary Mathematics/Principles*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.tex)]. Mar 2022--now. Status: `still in writing ...`.
+- [*Elementary Mathematics/Principles*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/principle/NQBH_elementary_mathematics_principle.tex)]. Mar 2022--now. Status: `unfinished`.
 
 **Elementary Mathematics for Grade 6 -- Toán Sơ Cấp Lớp 6.**
 
-- [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.tex)]. Mar 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_6/resource). Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_6/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/problem/NQBH_elementary_mathematics_grade_6_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/NQBH_elementary_mathematics_grade_6.tex)]. Mar 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_6/resource). Status: `unfinished`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_6/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/problem/NQBH_elementary_mathematics_grade_6_problem.pdf)].
 
   + [*Cheatsheet for Elementary Mathematics/Grade 6*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/cheatsheet/NQBH_elementary_mathematics_grade_6_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/cheatsheet/NQBH_elementary_mathematics_grade_6_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -346,19 +368,19 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
   + [*Natural -- Số Tự Nhiên $\mathbb{N}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/NQBH_natural.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/NQBH_natural.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
-  + [*Divisor & Multiplier -- Ước & Bội*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.tex)]. Nov 22, 2022--now. Status: `still in writing ...`.
+  + [*Divisor & Multiplier -- Ước & Bội*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.tex)]. Nov 22, 2022--now. Status: `unfinished`.
 
-  + [*Integer -- Số Nguyên $\mathbb{Z}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.tex)]. Dec 12, 2022--now. Status: `still in writing ...`.
+  + [*Integer -- Số Nguyên $\mathbb{Z}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.tex)]. Dec 12, 2022--now. Status: `unfinished`.
 
-  + [*Fraction -- Phân Số*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/fraction/NQBH_fraction.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/fraction/NQBH_fraction.tex)]. Dec 21, 2022--now. Status: `still in writing ...`.
+  + [*Fraction -- Phân Số*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/fraction/NQBH_fraction.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/fraction/NQBH_fraction.tex)]. Dec 21, 2022--now. Status: `unfinished`.
 
-  + [*Visual Geometry*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/visual_geometry/NQBH_elementary_mathematics_grade_6_visual_geometry.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/visual_geometry/NQBH_elementary_mathematics_grade_6_visual_geometry.tex)]. Nov 26, 2022--now. Status: `still in writing ...`.
+  + [*Visual Geometry*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/visual_geometry/NQBH_elementary_mathematics_grade_6_visual_geometry.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/visual_geometry/NQBH_elementary_mathematics_grade_6_visual_geometry.tex)]. Nov 26, 2022--now. Status: `unfinished`.
 
-  + [*Probability & Statistics -- Xác Suất & Thống kê*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/probability_statistics/NQBH_probability_statistics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/probability_statistics/NQBH_probability_statistics.tex)]. Jan 3, 2023--now. Status: `still in writing ...`.
+  + [*Probability & Statistics -- Xác Suất & Thống kê*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/probability_statistics/NQBH_probability_statistics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/probability_statistics/NQBH_probability_statistics.tex)]. Jan 3, 2023--now. Status: `unfinished`.
 
 **Elementary Mathematics for Grade 7 -- Toán Sơ Cấp Lớp 7.**
 
-- [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.tex)]/ Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_7/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/problem/NQBH_elementary_mathematics_grade_7_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/NQBH_elementary_mathematics_grade_7.tex)]/ Aug 2022--now. Status: `unfinished`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_7/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/problem/NQBH_elementary_mathematics_grade_7_problem.pdf)].
 
   + [*Cheatsheet for Elementary Mathematics/Grade 7*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/cheatsheet/NQBH_elementary_mathematics_grade_7_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_7/cheatsheet/NQBH_elementary_mathematics_grade_7_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -376,7 +398,7 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
 **Elementary Mathematics for Grade 8 -- Toán Sơ Cấp Lớp 8.**
 
-- [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.tex)]. Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/problem/NQBH_elementary_mathematics_grade_8_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/NQBH_elementary_mathematics_grade_8.tex)]. Aug 2022--now. Status: `unfinished`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/problem/NQBH_elementary_mathematics_grade_8_problem.pdf)].
 
   + [*Cheatsheet for Elementary Mathematics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/cheatsheet/NQBH_elementary_mathematics_grade_8_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_8/cheatsheet/NQBH_elementary_mathematics_grade_8_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -398,7 +420,7 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
 **Elementary Mathematics for Grade 9 -- Toán Sơ Cấp Lớp 9.**
 
-- [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Aug 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.tex)]. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/problem/NQBH_elementary_mathematics_grade_9_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.pdf). Aug 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/NQBH_elementary_mathematics_grade_9.tex)]. Status: `unfinished`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/problem/NQBH_elementary_mathematics_grade_9_problem.pdf)].
 
   + [*Cheatsheet for Elementary Mathematics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/cheatsheet/NQBH_elementary_mathematics_grade_9_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/cheatsheet/NQBH_elementary_mathematics_grade_9_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -432,7 +454,7 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
 **Elementary Mathematics for Grade 10 -- Toán Sơ Cấp Lớp 10.**
 
-- [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Aug 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.tex)]. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/problem/NQBH_elementary_mathematics_grade_10_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.pdf). Aug 2022--now. [Resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/NQBH_elementary_mathematics_grade_10.tex)]. Status: `unfinished`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/problem/NQBH_elementary_mathematics_grade_10_problem.pdf)].
 
   + [*Cheatsheet for Elementary Mathematics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/cheatsheet/NQBH_elementary_mathematics_grade_10_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_10/cheatsheet/NQBH_elementary_mathematics_grade_10_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -442,7 +464,7 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
 **Elementary Mathematics for Grade 11 -- Toán Sơ Cấp Lớp 11.**
 
-- [*Some Topics in Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.tex)]. Aug 2022--now. Status: `still in writing ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/problem/NQBH_elementary_mathematics_grade_11_problem.pdf)].
+- [*Some Topics in Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/NQBH_elementary_mathematics_grade_11.tex)]. Aug 2022--now. Status: `unfinished`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/problem/NQBH_elementary_mathematics_grade_11_problem.pdf)].
 
   + [*Cheatsheet for Elementary Mathematics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/cheatsheet/NQBH_elementary_mathematics_grade_11_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_11/cheatsheet/NQBH_elementary_mathematics_grade_11_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -464,7 +486,7 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
   + [*Problems & Solutions in Elementary Mathematics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/solution/NQBH_elementary_mathematics_grade_12_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/solution/NQBH_elementary_mathematics_grade_12_solution.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
-  + [*Exponentiation & Logarithm -- Hàm Số Lũy Thừa, Hàm Số Mũ, & Hàm Số Logarithm*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/exponentiation_logarithm/NQBH_exponentiation_logarithm.pdf). [[TeX](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_12/exponentiation_logarithm)]. Nov 23--now. Status: `still in writing ...`.
+  + [*Exponentiation & Logarithm -- Hàm Số Lũy Thừa, Hàm Số Mũ, & Hàm Số Logarithm*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/exponentiation_logarithm/NQBH_exponentiation_logarithm.pdf). [[TeX](https://github.com/NQBH/hobby/tree/master/elementary_mathematics/grade_12/exponentiation_logarithm)]. Nov 23--now. Status: `unfinished`.
 
   + [*Antiderivative & Integration -- Nguyên Hàm & Tích Phân*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/integration/NQBH_integration.pdf). [[TeX]](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_12/integration/NQBH_integration.tex). Feb 2023--now. Status: `unfinished ...`.
 
@@ -478,16 +500,27 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
 - Nguyễn Văn Quí, Nguyễn Quản Bá Hồng. [vi] [*1 Cách Đổi Biến & Ứng Dụng Trong Chứng Minh Bất Đẳng Thức*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/inequality/a_substitution_in_proving_inequality/NQBH_a_substitution_in_proving_inequality.pdf); [en] *A Substitution & Its Application in Proving Inequalities*. Aug 20, 2013. Status: `finished`. Đây là bản mở rộng không bị cắt của bài viết cùng tên nằm trong Kỷ Yếu Gặp Gỡ Toán Học 2013. Cả 2 files đó có lỗi sai trong phần kết luận khi nào đẳng thức xảy ra nên đang được viết lại, với nhiều bổ sung & mở rộng.
 
-- [*Substitution & Change of Variables in Elementary Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/substitution_change_of_variables/NQBH_elementary_mathematics_substitution_change_of_variables.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/substitution_change_of_variables/NQBH_elementary_mathematics_substitution_change_of_variables.tex)]. Aug 2022--now. Status: `still in writing ...`.
+- [*Substitution & Change of Variables in Elementary Mathematics*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/substitution_change_of_variables/NQBH_elementary_mathematics_substitution_change_of_variables.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/substitution_change_of_variables/NQBH_elementary_mathematics_substitution_change_of_variables.tex)]. Aug 2022--now. Status: `unfinished`.
 
-- [*Functional Equation*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/functional_equation/NQBH_functional_equation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/functional_equation/NQBH_functional_equation.tex)]. Dec 18, 2022--now. Status: `still in writing ...`.
+- [*Functional Equation*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/functional_equation/NQBH_functional_equation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/functional_equation/NQBH_functional_equation.tex)]. Dec 18, 2022--now. Status: `unfinished`.
+
+------
+
+#### Calculator Olympid -- Giải Toán Trên Máy Tính Cầm Tay
+* [*Olympiad Calculator in Secondary School -- Giải Toán Trên Máy Tính Cầm Tay Cấp Trung Học Cơ Sở*](https://github.com/NQBH/hobby/blob/master/calculator/NQBH_olympiad_calculator_secondary_school.pdf). [[Tex](https://github.com/NQBH/hobby/blob/master/calculator/NQBH_olympiad_calculator_secondary_school.tex)]. Apr 2023--now. Status: `unfinished`.
+
+------
 
 ### Statistics
 A survey will be inserted here.
 
+------
+
 ### Computer Science
 
-* [*Computer Science*](https://github.com/NQBH/hobby/blob/master/computer_science/NQBH_computer_science.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/computer_science/NQBH_computer_science.tex)]. Jul 2022--now. Status: `still in writing ...`.
+* [*Computer Science*](https://github.com/NQBH/hobby/blob/master/computer_science/NQBH_computer_science.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/computer_science/NQBH_computer_science.tex)]. Jul 2022--now. Status: `unfinished`.
+
+------
 
 #### Elementary Computer Science (Programming-focused)
 
@@ -499,7 +532,9 @@ A survey will be inserted here.
 
 * [*Python*](https://github.com/NQBH/hobby/blob/master/programming/Python/NQBH_Python.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/programming/Python/NQBH_Python.tex)]. Sep 2022--now. Status: `unfinished ...`.
 
-* [*Problems in Elementary Computer Science*](https://github.com/NQBH/hobby/blob/master/elementary_computer_science/problem/NQBH_elementary_computer_science_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_computer_science/problem/NQBH_elementary_computer_science_problem.tex)]. Nov 24--now. Status: `still in writing ...`.
+* [*Problems in Elementary Computer Science*](https://github.com/NQBH/hobby/blob/master/elementary_computer_science/problem/NQBH_elementary_computer_science_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_computer_science/problem/NQBH_elementary_computer_science_problem.tex)]. Nov 24--now. Status: `unfinished`.
+
+------
 
 #### Linux
 
@@ -508,6 +543,8 @@ I am using Ubuntu 22.10 Kinetic Kudu Pro.
 * [*Linux*](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/Linux/NQBH_Linux.tex)]. Mar 2022--now. Status: `unfinished ...`.
 
 * [*Software*](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/software/NQBH_software.tex)]. May 2022--now. Status: `unfinished ...`.  [[note](https://github.com/NQBH/hobby/blob/master/software/NQBH_note)].
+
+------
 
 Science/Miscellaneous
 ------
@@ -526,9 +563,9 @@ Science/Miscellaneous
 
 Miscellaneous
 ======
-* *How to build NQBH's GitHub Page, i.e., [nqbh.github.io](https://nqbh.github.io/)?* A detailed construction (with bugs) can be viewed at [[NQBH's GitHub Page](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.tex)]. Status: `still in writing ...`. [[Markdown file for this page](https://github.com/NQBH/NQBH.github.io/blob/master/_pages/about.md)].
+* *How to build NQBH's GitHub Page, i.e., [nqbh.github.io](https://nqbh.github.io/)?* A detailed construction (with bugs) can be viewed at [[NQBH's GitHub Page](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/NQBH_GitHub_page/NQBH_GitHub_page.tex)]. Status: `unfinished`. [[Markdown file for this page](https://github.com/NQBH/NQBH.github.io/blob/master/_pages/about.md)].
 
-* I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion generator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/blob/master/anime_manga_movie_music_quote/NQBH_anime_manga_movie_music_quote.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/anime_manga_movie_music_quote/NQBH_anime_manga_movie_music_quote.tex)]. Status: `still in writing ...`.
+* I love *animes, manhwas, movies, musics, quotes*, etc. -- literally anything which can be considered as an emotion generator. Here is my favorite watching & reading list: [NQBH's collection of anime, movie, music, quotes, etc.](https://github.com/NQBH/hobby/blob/master/anime_manga_movie_music_quote/NQBH_anime_manga_movie_music_quote.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/anime_manga_movie_music_quote/NQBH_anime_manga_movie_music_quote.tex)]. Status: `unfinished`.
 
 * I used to love to draw. Here are some drawings in 2014 -- when I was 18 years old:
 
