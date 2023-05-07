@@ -408,17 +408,25 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
   + [*Square Root & Cube Root -- Căn Bậc 2 $\sqrt{f(x)}$ & Căn Bậc 3 $\sqrt[3]{f(x)}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/NQBH_square_root_cube_root.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/NQBH_square_root_cube_root.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
-    * [*Cheatsheet: Square-, Cube-, & nth Roots -- Bài Tập: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*].
+    + [*Cheatsheet: Square-, Cube-, & $n$th Roots -- Bảng Tóm Tắt Công Thức: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*].
 
-    * [*Problem: Square-, Cube-, & nth Roots -- Bài Tập: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/problem/NQBH_square_root_cube_root_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/problem/NQBH_square_root_cube_root_problem.tex)]. May 2023--now. Status: `unfinished ...`.
+    + [*Problem: Square-, Cube-, & $n$th Roots -- Bài Tập: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/problem/NQBH_square_root_cube_root_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/problem/NQBH_square_root_cube_root_problem.tex)]. May 2023--now. Status: `unfinished ...`.
 
-    * [*Solution: Square-, Cube-, & nth Roots -- Bài Tập: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/solution/NQBH_square_root_cube_root_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/solution/NQBH_square_root_cube_root_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+    + [*Solution: Square-, Cube-, & $n$th Roots -- Bài Tập: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/solution/NQBH_square_root_cube_root_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/solution/NQBH_square_root_cube_root_solution.tex)]. May 2023--now. Status: `unfinished ...`.
 
   + [*1st-Order Function -- Hàm Số bậc Nhất $y = ax + b$, $a\ne0$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/1st_order_function/NQBH_1st_order_function.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/1st_order_function/NQBH_1st_order_function.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
   + [*1st-Order 2-Unknown System of Equations -- Hệ Phương Trình Bậc Nhất 2 Ẩn*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/1st_order_2_unknown_system_of_equations/NQBH_1st_order_2_unknown_system_of_equations.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/1st_order_2_unknown_system_of_equations/NQBH_1st_order_2_unknown_system_of_equations.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
   + [*2nd-Order 1-Unknown Equation -- Phương Trình Bậc 2 1 Ẩn $y = ax^2 + bx + c$, $a\ne0$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/2nd_order_1_unknown_equation/NQBH_2nd_order_1_unknown_equation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/2nd_order_1_unknown_equation/NQBH_2nd_order_1_unknown_equation.tex)]. Apr 2023--now. Status: `unfinished ...`.
+
+  + [*Trigonometry -- Lượng Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/NQBH_trigonometry.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/NQBH_trigonometry.tex)]. May 2023--now. Status: `unfinished ...`.
+
+    + *Cheatsheet: Trigonometry -- Bảng Tóm Tắt Công Thức Lượng Giác*.
+
+    + [*Problem: Trigonometry -- Bài Tập: Lượng Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.tex)]. May 2023--now. Status: `unfinished ...`.
+
+    + [*Solution: Trigonemtry -- Lời Giải: Lượng Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.tex)]. May 2023--now. Status: `unfinished ...`.
 
 - [*Diophantine Equation*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.tex)]. Nov 27--now. Status: `unfinished ...`.
 
