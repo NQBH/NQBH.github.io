@@ -149,6 +149,10 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Inorganic Compound -- Hợp Chất Vô Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/NQBH_inorganic_compound.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/NQBH_inorganic_compound.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
+    + [*Problem: Inorganic Compound -- Bài Tập: Hợp Chất Vô Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/problem/NQBH_inorganic_compound_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/problem/NQBH_inorganic_compound_problem.tex)]. Apr 2023--now. Status: `unfinished ...`.
+
+    + [*Solution: Inorganic Compound -- Lời Giải: Hợp Chất Vô Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+
   + [*Metal -- Kim Loại*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/metal/NQBH_metal.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/metal/NQBH_metal.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
   + [*Nonmetal -- Phi Kim*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/nonmetal/NQBH_nonmetal.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/nonmetal/NQBH_nonmetal.tex)]. Apr 2023--now. Status: `unfinished ...`.
