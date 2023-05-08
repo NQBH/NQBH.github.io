@@ -245,6 +245,12 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Electricity -- Điện Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/NQBH_electricity.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/NQBH_electricity.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
+    + *Cheatsheet: Electricity -- Bảng Tóm Tắt Công Thức: Điện Học*.
+
+    + [*Problem: Electricity -- Bài Tập: Điện Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/problem/NQBH_electricity_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/problem/NQBH_electricity_problem.tex)]. Apr 2023--now. Status: `unfinished ...`.
+
+    + [*Solution: Electricity -- Lời Giải: Điện Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/solution/NQBH_electricity_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/solution/NQBH_electricity_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+
   + [*Electromagnetism -- Điện Từ Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electromagnetism/NQBH_electromagnetism.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electromagnetism/NQBH_electromagnetism.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
   + [*Optics -- Quang Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/optics/NQBH_optics.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/optics/NQBH_optics.tex)]. Apr 2023--now. Status: `unfinished ...`.
