@@ -89,7 +89,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 ======
 > "[Modern science](https://en.wikipedia.org/wiki/History_of_science#Modern_science) is commonly divided into 3 major [branches](https://en.wikipedia.org/wiki/Branches_of_science): [natural science](https://en.wikipedia.org/wiki/Natural_science), [social science](https://en.wikipedia.org/wiki/Social_science), & [formal science](https://en.wikipedia.org/wiki/Formal_science)." -- [Wikipedia/science/branches of science](https://en.wikipedia.org/wiki/Science#Branches_of_science)
 
-* [*Science*](https://github.com/NQBH/hobby/blob/master/science/NQBH_science.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/science/NQBH_science.tex)]. Mar 2022--now. Status: `just initialize, unfinished ...`.
+* [*Science*](https://github.com/NQBH/hobby/blob/master/science/NQBH_science.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/science/NQBH_science.tex)]. Mar 2022--now. Status: `unfinished`..
 
 [[NQBH's favorite/target journals](https://github.com/NQBH/hobby/blob/master/journal/journal.pdf)]. [[TeX](https://github.com/NQBH/hobby/blob/master/journal/journal.tex)].
 
@@ -101,7 +101,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 ### Elementary Natural Science -- Khoa Học Tự Nhiên Sơ Cấp
 
-* [*Some Topics in Elementary Natural Science/Grades 6 & 7*](https://github.com/NQBH/hobby/blob/master/natural_science/grade_6_7/NQBH_elementary_natural_science_grade_6_7.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/natural_science/grade_6_7/NQBH_elementary_natural_science_grade_6_7.tex)]. Oct 2022--now. Status: `just initialize, unfinished ...`.
+* [*Some Topics in Elementary Natural Science/Grades 6 & 7*](https://github.com/NQBH/hobby/blob/master/natural_science/grade_6_7/NQBH_elementary_natural_science_grade_6_7.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/natural_science/grade_6_7/NQBH_elementary_natural_science_grade_6_7.tex)]. Oct 2022--now. Status: `unfinished`..
 
   + [*Cheatsheet for Elementary Natural Science/Grades 6 & 7*](https://github.com/NQBH/hobby/blob/master/elementary_natural_science/grade_6_7/cheatsheet/NQBH_elementary_natural_science_grade_6_7_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_natural_science/grade_6_7/cheatsheet/NQBH_elementary_natural_science_grade_6_7_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -119,9 +119,17 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * *Some Topics in Elementary Chemistry*. 2022--now. Status: `not initialized yet`.
 
+**Elementary Chemistry for Grade 8 -- Hóa Học Sơ Cấp Lớp 7.**
+
+  + [*Atom, Chemical Element, & Chemical Compound -- Nguyên Tử, Nguyên Tố Hóa Học, & Hợp Chất Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/NQBH_atom_chemical_element_chemical_compound.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/NQBH_atom_chemical_element_chemical_compound.tex)]. Apr 2023--now. Status: `unfinished ...`.
+
+    + [*Problem: Atom, Chemical Element, & Chemical Compound -- Bài Tập: Nguyên Tử, Nguyên Tố Hóa Học, & Hợp Chất Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/problem/NQBH_atom_chemical_element_chemical_compound_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/problem/NQBH_atom_chemical_element_chemical_compound_problem.tex)]. May 2023--now. Status: `unfinished ...`.
+
+    + [*Solution: Atom, Chemical Element, & Chemical Compound -- Lời Giải: Nguyên Tử, Nguyên Tố Hóa Học, & Hợp Chất Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/solution/NQBH_atom_chemical_element_chemical_compound_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/solution/NQBH_atom_chemical_element_chemical_compound_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+
 **Elementary Chemistry for Grade 8 -- Hóa Học Sơ Cấp Lớp 8.**
 
-- [*Some Topics in Elementary Chemistry/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.tex)]. Aug 2022--now. Status: `just initialize, unfinished ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_problem.pdf)]. [[cheatsheet](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_cheatsheet.pdf)].
+- [*Some Topics in Elementary Chemistry/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/NQBH_elementary_chemistry_grade_8.tex)]. Aug 2022--now. Status: `unfinished`.. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_problem.pdf)]. [[cheatsheet](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/problem/NQBH_elementary_chemistry_grade_8_cheatsheet.pdf)].
 
   + [*Cheatsheet for Elementary Chemistry/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/cheatsheet/NQBH_elementary_chemistry_grade_8_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/cheatsheet/NQBH_elementary_chemistry_grade_8_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -139,7 +147,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 **Elementary Chemistry for Grade 9 -- Hóa Học Sơ Cấp Lớp 9.**
 
-- [*Some Topics in Elementary Chemistry/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.tex)]. Aug 2022--now. Status: `just initialize, unfinished ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/problem/NQBH_elementary_chemistry_grade_9_problem.pdf)].
+- [*Some Topics in Elementary Chemistry/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.tex)]. Aug 2022--now. Status: `unfinished`.. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/problem/NQBH_elementary_chemistry_grade_9_problem.pdf)].
 
   + [*Cheatsheet for Elementary Chemistry/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/cheatsheet/NQBH_elementary_chemistry_grade_9_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/cheatsheet/NQBH_elementary_chemistry_grade_9_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -161,7 +169,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 **Elementary Chemistry for Grade 10 -- Hóa Học Sơ Cấp Lớp 10.**
 
-- [*Some Topics in Elementary Chemistry/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/NQBH_elementary_chemistry_grade_10.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/NQBH_elementary_chemistry_grade_10.tex)]. Aug 2022--now. Status: `just initialize, unfinished ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/problem/NQBH_elementary_chemistry_grade_10_problem.pdf)].
+- [*Some Topics in Elementary Chemistry/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/NQBH_elementary_chemistry_grade_10.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/NQBH_elementary_chemistry_grade_10.tex)]. Aug 2022--now. Status: `unfinished`.. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/problem/NQBH_elementary_chemistry_grade_10_problem.pdf)].
 
   + [*Cheatsheet for Elementary Chemistry/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/cheatsheet/NQBH_elementary_chemistry_grade_10_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/cheatsheet/NQBH_elementary_chemistry_grade_10_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -171,7 +179,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 **Elementary Chemistry for Grade 11 -- Hóa Học Sơ Cấp Lớp 11.**
 
-- [*Some Topics in Elementary Chemistry/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/NQBH_elementary_chemistry_grade_11.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/NQBH_elementary_chemistry_grade_11.tex)]. Aug 2022--now. Status: `just initialize, unfinished ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/problem/NQBH_elementary_chemistry_grade_11_problem.pdf)].
+- [*Some Topics in Elementary Chemistry/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/NQBH_elementary_chemistry_grade_11.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/NQBH_elementary_chemistry_grade_11.tex)]. Aug 2022--now. Status: `unfinished`.. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/problem/NQBH_elementary_chemistry_grade_11_problem.pdf)].
 
   + [*Cheatsheet for Elementary Chemistry/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/cheatsheet/NQBH_elementary_chemistry_grade_11_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_11/cheatsheet/NQBH_elementary_chemistry_grade_11_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -215,7 +223,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 **Elementary Physics for Grade 8 -- Vật Lý Sơ Cấp Lớp 8.**
 
-- [*Some Topics in Elementary Physics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/NQBH_elementary_physics_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/NQBH_elementary_physics_grade_8.tex)]. Aug 2022--now. Status: `just initialize, unfinished ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/problem/NQBH_elementary_physics_grade_8_problem.pdf)].
+- [*Some Topics in Elementary Physics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/NQBH_elementary_physics_grade_8.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/NQBH_elementary_physics_grade_8.tex)]. Aug 2022--now. Status: `unfinished`.. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_8/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/problem/NQBH_elementary_physics_grade_8_problem.pdf)].
 
   + [*Cheatsheet for Elementary Physics/Grade 8*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/cheatsheet/NQBH_elementary_physics_grade_8_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_8/cheatsheet/NQBH_elementary_physics_grade_8_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -227,7 +235,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 **Elementary Physics for Grade 9 -- Vật Lý Sơ Cấp Lớp 9.**
 
-- [*Some Topics in Elementary Physics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/NQBH_elementary_physics_grade_9.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/NQBH_elementary_physics_grade_9.tex)]. Aug 2022--now. Status: `just initialize, unfinished ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/problem/NQBH_elementary_physics_grade_9_problem.pdf)].
+- [*Some Topics in Elementary Physics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/NQBH_elementary_physics_grade_9.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/NQBH_elementary_physics_grade_9.tex)]. Aug 2022--now. Status: `unfinished`.. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/problem/NQBH_elementary_physics_grade_9_problem.pdf)].
 
   + [*Cheatsheet for Elementary Physics/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/cheatsheet/NQBH_elementary_physics_grade_9_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/cheatsheet/NQBH_elementary_physics_grade_9_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -245,7 +253,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 **Elementary Physics for Grade 10 -- Vật Lý Sơ Cấp Lớp 10.**
 
-- [*Some Topics in Elementary Physics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/NQBH_elementary_physics_grade_10.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/NQBH_elementary_physics_grade_10.tex)]. Aug 2022--now. Status: `just initialize, unfinished ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/problem/NQBH_elementary_physics_grade_10_problem.pdf)].
+- [*Some Topics in Elementary Physics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/NQBH_elementary_physics_grade_10.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/NQBH_elementary_physics_grade_10.tex)]. Aug 2022--now. Status: `unfinished`.. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/problem/NQBH_elementary_physics_grade_10_problem.pdf)].
 
   + [*Cheatsheet for Elementary Physics/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/cheatsheet/NQBH_elementary_physics_grade_10_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_10/cheatsheet/NQBH_elementary_physics_grade_10_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -257,7 +265,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 **Elementary Physics for Grade 11 -- Vật Lý Sơ Cấp Lớp 11.**
 
-- [*Some Topics in Elementary Physics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/NQBH_elementary_physics_grade_11.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/NQBH_elementary_physics_grade_11.tex)]. Aug 2022--now. Status: `just initialize, unfinished ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/problem/NQBH_elementary_physics_grade_11_problem.pdf)].
+- [*Some Topics in Elementary Physics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/NQBH_elementary_physics_grade_11.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/NQBH_elementary_physics_grade_11.tex)]. Aug 2022--now. Status: `unfinished`.. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_11/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/problem/NQBH_elementary_physics_grade_11_problem.pdf)].
 
   + [*Cheatsheet for Elementary Physics/Grade 11*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/cheatsheet/NQBH_elementary_physics_grade_11_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_11/cheatsheet/NQBH_elementary_physics_grade_11_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -267,7 +275,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 **Elementary Physics for Grade 12 -- Vật Lý Sơ Cấp Lớp 12.**
 
-- [*Some Topics in Elementary Physics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_12/NQBH_elementary_physics_grade_12.pdf). Aug 2022--now. Status: `just initialize, unfinished ...`. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_12/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_12/problem/NQBH_elementary_physics_grade_12_problem.pdf)].
+- [*Some Topics in Elementary Physics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_12/NQBH_elementary_physics_grade_12.pdf). Aug 2022--now. Status: `unfinished`.. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_physics/grade_12/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_12/problem/NQBH_elementary_physics_grade_12_problem.pdf)].
 
   + [*Cheatsheet for Elementary Physics/Grade 12*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_12/cheatsheet/NQBH_elementary_physics_grade_12_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_12/cheatsheet/NQBH_elementary_physics_grade_12_cheatsheet.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
@@ -280,7 +288,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 [Social Science](https://en.wikipedia.org/wiki/Social_science)
 ------
 
-* [*Quotes from the Books*](https://github.com/NQBH/hobby/blob/master/quotes_from_the_books/NQBH_quotes_from_the_books.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/quotes_from_the_books/NQBH_quotes_from_the_books.tex)]. Aug 2022--now. Status: `just initialize, unfinished ...`.
+* [*Quotes from the Books*](https://github.com/NQBH/hobby/blob/master/quotes_from_the_books/NQBH_quotes_from_the_books.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/quotes_from_the_books/NQBH_quotes_from_the_books.tex)]. Aug 2022--now. Status: `unfinished`..
 
 ------
 
