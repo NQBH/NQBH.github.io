@@ -145,6 +145,10 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Acid, Base, pH, Oxide, Salt -- Muối*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/acid_base_pH_oxide_salt/NQBH_acid_base_pH_oxide_salt.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/acid_base_pH_oxide_salt/NQBH_acid_base_pH_oxide_salt.tex)]. Apr  2023--now. Status: `unfinished ...`.
 
+    + [*Problem: Inorganic Compound -- Bài Tập: Hợp Chất Vô Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/problem/NQBH_inorganic_compound_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/problem/NQBH_inorganic_compound_problem.tex)]. Apr 2023--now. Status: `unfinished ...`.
+
+    + [*Solution: Inorganic Compound -- Lời Giải: Hợp Chất Vô Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+
 **Elementary Chemistry for Grade 9 -- Hóa Học Sơ Cấp Lớp 9.**
 
 - [*Some Topics in Elementary Chemistry/Grade 9*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/NQBH_elementary_chemistry_grade_9.tex)]. Aug 2022--now. Status: `unfinished`.. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_9/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/problem/NQBH_elementary_chemistry_grade_9_problem.pdf)].
