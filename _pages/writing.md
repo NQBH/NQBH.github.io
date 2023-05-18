@@ -32,7 +32,7 @@ Education
 
 [en] I have been teaching some very-very basic classes in Elementary Mathematics, Elementary Physics, Elementary Chemistry, & Programming from Aug 2022, alongside my own research.
 
-[vi] Bắt đầu từ cuối tháng 7, đầu tháng 8 năm 2022, tôi có mở 1 số lớp học thêm về Toán/Lý/Hóa Sơ Cấp, & Lập Trình cho học sinh ở quê mình. Thành thật mà nói, dẫu quay lại chốn này sau bao nhiêu năm, cảnh quang thay đổi, nhưng có những thứ muôn đời khó mà thay đổi, ẩn sâu hơn, khó nhìn thấy hơn, mà chắc có lẽ phải đi thật xa để trở về mới có thể nhìn ra nó rõ nét như vậy: đó là mặt bằng ý thức & dân trí cực thấp của dân quê, tính luôn cả học sinh & 1 vài giáo viên. Tôi không có ý định chà đạp, bôi nhọ, chỉ có điều cái thứ mà tôi cảm nhận khi còn học cấp 2 đến giờ vẫn thế, không hề thay đổi.
+[vi] Bắt đầu từ cuối tháng 7, đầu tháng 8 năm 2022, tôi có mở 1 số lớp học thêm về Toán/Lý/Hóa Sơ Cấp, & Lập Trình cho học sinh ở quê mình. Thành thật mà nói, dẫu quay lại chốn này sau bao nhiêu năm, cảnh quang thay đổi, nhưng có những thứ muôn đời khó mà thay đổi, ẩn sâu hơn, khó nhìn thấy hơn, mà chắc có lẽ phải đi thật xa để trở về mới có thể nhìn ra nó rõ nét như vậy: đó là mặt bằng ý thức & dân trí cực thấp của dân quê, tính luôn cả học sinh & 1 vài giáo viên xấu tính. Tôi không có ý định chà đạp, bôi nhọ, chỉ có điều cái thứ mà tôi cảm nhận khi còn học cấp 2 đến giờ vẫn thế, không hề thay đổi.
 
 **How can you teach a lazy uneducated student? Girl or boy worse?**
 
@@ -50,7 +50,7 @@ Some quotes from the opening of Yôkoso jitsuryoku shijô shugi no kyôshitsu e 
 
 > `[en]` "What is evil? -- Whatever springs from weakness." `[de]` "Was ist schlecht? -- Alles, was aus der Schwäche stammt." -- Friedrich Wilhelm Nietzsche, *Der Antichrist*
 
-> `[en]` "It takes a great talent & skill to conceal one's talent & skill." `[fr]` "C'est une grande habileté que de savoir cacher son habileté." [en] "We should not be upset that others hide the truth from us, when we hide it so often from ourselves." `[fr]` "Il ne faut pas s'offenser que les autres nous cachent la vérité, puisque nous nous la cachons si souvent à nous--mêmes." -- La Rochefoucauld, *Réflexions ou sentences et maximes morales $\star$ Reflections; or Sentences & Moral Maxims*
+> `[en]` "It takes a great talent & skill to conceal one's talent & skill." `[fr]` "C'est une grande habileté que de savoir cacher son habileté." `[en]` "We should not be upset that others hide the truth from us, when we hide it so often from ourselves." `[fr]` "Il ne faut pas s'offenser que les autres nous cachent la vérité, puisque nous nous la cachons si souvent à nous--mêmes." -- La Rochefoucauld, *Réflexions ou sentences et maximes morales $\star$ Reflections; or Sentences & Moral Maxims*
 
 > "Man is an animal that makes bargains; no other animal does this -- no dog exchanges bones with another." -- Adam Smith, *An Inquiry into the Nature & Causes of the Wealth of Nations*
 
