@@ -534,6 +534,12 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
 - [*Functional Equation*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/functional_equation/NQBH_functional_equation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/functional_equation/NQBH_functional_equation.tex)]. Dec 18, 2022--now. Status: `unfinished`.
 
+- [*Elementary Inequality -- Bất Đẳng Thức Sơ Cấp*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/inequality/NQBH_inequality.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/inequality/NQBH_inequality.tex)]. May 2023--now. Status: `unfinished`.
+  
+  + [*Problems in Elementary Inequality -- Bài Tập: Bất Đẳng Thức Sơ Cấp*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/inequality/problem/NQBH_elementary_inequality_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/inequality/problem/NQBH_elementary_inequality_problem.tex)]. May 2023--now. Status: `unfinished`.
+
+  + [*Problems & Proofs in Elementary Inequality -- Bài Tập Bất Đẳng Thức Sơ Cấp & Chứng Minh*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/inequality/solution/NQBH_elementary_inequality_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/inequality/solution/NQBH_elementary_inequality_solution.tex)]. May 2023--now. Status: `unfinished`.
+
 ------
 
 #### Calculator Olympid -- Giải Toán Trên Máy Tính Cầm Tay
