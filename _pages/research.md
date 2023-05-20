@@ -28,7 +28,7 @@ PMEs: $\partial_tu - \Delta u^m + u^{-\beta}\chi_{\{ u>0 \}} = 0$ in $(0,\infty)
 
 ### Finite Volume Methods (FVMs)
 
-* Nguyen Quan Ba Hong's Master Thesis. *Staggered & Well-Balanced Discretization of Shallow Water Equations*.. [[pdf](https://github.com/NQBH/miscellaneous/blob/master/master_of_science/master_thesis/NQBH_master_thesis.pdf)]. [[slide](https://github.com/NQBH/miscellaneous/blob/master/master_of_science/master_thesis/NQBH_master_thesis_slide.pdf)]. UR1. Jun 2019.
+* Nguyen Quan Ba Hong's Master Thesis. *Staggered & Well-Balanced Discretization of Shallow Water Equations*. [[pdf](https://github.com/NQBH/miscellaneous/blob/master/master_of_science/master_thesis/NQBH_master_thesis.pdf)]. [[slide](https://github.com/NQBH/miscellaneous/blob/master/master_of_science/master_thesis/NQBH_master_thesis_slide.pdf)]. UR1. Jun 2019.
 
 ------
 
