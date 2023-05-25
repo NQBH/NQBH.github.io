@@ -20,6 +20,9 @@ main:
 
   - title: "Research"
     url: /research/
+
+  - title: "STEM & Beyond"
+    url: /SETM_beyond/
     
   - title: "CV"
     url: /cv/
