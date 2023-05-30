@@ -452,7 +452,7 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
   + [*Square Root & Cube Root -- Căn Bậc 2 $\sqrt{f(x)}$ & Căn Bậc 3 $\sqrt[3]{f(x)}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/NQBH_square_root_cube_root.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/NQBH_square_root_cube_root.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
-    + [*Cheatsheet: Square-, Cube-, & $n$th Roots -- Bảng Tóm Tắt Công Thức: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*].
+    + [*Cheatsheet: Square-, Cube-, & $n$th Roots -- Bảng Tóm Tắt Công Thức: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/cheatsheet/NQBH_square_root_cube_root_cheatsheet.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/cheatsheet/NQBH_square_root_cube_root_cheatsheet.tex)]. May 2023--now. Status: `unfinished ...`.
 
     + [*Problem: Square-, Cube-, & $n$th Roots -- Bài Tập: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/problem/NQBH_square_root_cube_root_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/problem/NQBH_square_root_cube_root_problem.tex)]. May 2023--now. Status: `unfinished ...`.
 
