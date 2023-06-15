@@ -125,7 +125,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
     + [*Problem: Atom, Chemical Element, & Chemical Compound -- Bài Tập: Nguyên Tử, Nguyên Tố Hóa Học, & Hợp Chất Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/problem/NQBH_atom_chemical_element_chemical_compound_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/problem/NQBH_atom_chemical_element_chemical_compound_problem.tex)]. May 2023--now. Status: `unfinished ...`.
 
-    + [*Solution: Atom, Chemical Element, & Chemical Compound -- Lời Giải: Nguyên Tử, Nguyên Tố Hóa Học, & Hợp Chất Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/solution/NQBH_atom_chemical_element_chemical_compound_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/solution/NQBH_atom_chemical_element_chemical_compound_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+    + [*Problem & Solution: Atom, Chemical Element, & Chemical Compound -- Bài Tập & Lời Giải: Nguyên Tử, Nguyên Tố Hóa Học, & Hợp Chất Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/solution/NQBH_atom_chemical_element_chemical_compound_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/solution/NQBH_atom_chemical_element_chemical_compound_solution.tex)]. May 2023--now. Status: `unfinished ...`.
 
 **Elementary Chemistry for Grade 8 -- Hóa Học Sơ Cấp Lớp 8.**
 
@@ -147,7 +147,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
     + [*Problem: Inorganic Compound -- Bài Tập: Hợp Chất Vô Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/problem/NQBH_inorganic_compound_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/problem/NQBH_inorganic_compound_problem.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
-    + [*Solution: Inorganic Compound -- Lời Giải: Hợp Chất Vô Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+    + [*Problem & Solution: Inorganic Compound -- Bài Tập & Lời Giải: Hợp Chất Vô Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.tex)]. May 2023--now. Status: `unfinished ...`.
   + [*Concentration -- Nồng Độ Dung Dịch*].
 
     + [*Problem: Concentration -- Bài Tập Nồng Độ Dung Dịch*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/concentration/problem/NQBH_concentration_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/concentration/problem/NQBH_concentration_problem.tex)]. Jun 2023--now. Status: `unfinished ...`.
@@ -166,7 +166,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
     + [*Problem: Inorganic Compound -- Bài Tập: Hợp Chất Vô Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/problem/NQBH_inorganic_compound_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/problem/NQBH_inorganic_compound_problem.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
-    + [*Solution: Inorganic Compound -- Lời Giải: Hợp Chất Vô Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+    + [*Problem & Solution: Inorganic Compound -- Bài Tập & Lời Giải: Hợp Chất Vô Cơ*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/inorganic_compound/solution/NQBH_inorganic_compound_solution.tex)]. May 2023--now. Status: `unfinished ...`.
 
   + [*Metal -- Kim Loại*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/metal/NQBH_metal.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/metal/NQBH_metal.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
@@ -260,7 +260,7 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
     + [*Problem: Electricity -- Bài Tập: Điện Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/problem/NQBH_electricity_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/problem/NQBH_electricity_problem.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
-    + [*Solution: Electricity -- Lời Giải: Điện Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/solution/NQBH_electricity_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/solution/NQBH_electricity_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+    + [*Problem & Solution: Electricity -- Bài Tập & Lời Giải: Điện Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/solution/NQBH_electricity_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electricity/solution/NQBH_electricity_solution.tex)]. May 2023--now. Status: `unfinished ...`.
 
   + [*Electromagnetism -- Điện Từ Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electromagnetism/NQBH_electromagnetism.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/grade_9/electromagnetism/NQBH_electromagnetism.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
@@ -463,7 +463,7 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
     + [*Problem: Square-, Cube-, & $n$th Roots -- Bài Tập: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/problem/NQBH_square_root_cube_root_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/problem/NQBH_square_root_cube_root_problem.tex)]. May 2023--now. Status: `unfinished ...`.
 
-    + [*Solution: Square-, Cube-, & $n$th Roots -- Bài Tập: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/solution/NQBH_square_root_cube_root_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/solution/NQBH_square_root_cube_root_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+    + [*Problem & Solution: Square-, Cube-, & $n$th Roots -- Bài Tập: Căn Bậc 2, Căn Bậc 3, & Căn Bậc $n$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/solution/NQBH_square_root_cube_root_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/square_root_cube_root/solution/NQBH_square_root_cube_root_solution.tex)]. May 2023--now. Status: `unfinished ...`.
 
   + [*1st-Order Function -- Hàm Số bậc Nhất $y = ax + b$, $a\ne0$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/1st_order_function/NQBH_1st_order_function.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/1st_order_function/NQBH_1st_order_function.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
@@ -477,7 +477,7 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
     + [*Problem: Trigonometry -- Bài Tập: Lượng Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.tex)]. May 2023--now. Status: `unfinished ...`.
 
-    + [*Solution: Trigonometry -- Lời Giải: Lượng Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.tex)]. May 2023--now. Status: `unfinished ...`.
+    + [*Problem & Solution: Trigonometry -- Bài Tập & Lời Giải: Lượng Giác*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.tex)]. May 2023--now. Status: `unfinished ...`.
 
   + [*Circle -- Đường Tròn*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/NQBH_circle.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/NQBH_circle.tex)]. May 2023--now. Status: `unfinished ...`.
 
@@ -485,7 +485,7 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
     + [*Problem: Circle -- Bài Tập: Đường Tròn*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/problem/NQBH_circle_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/problem/NQBH_circle_problem.tex)]. May 2023--now. Status: `unfinished ...`.
 
-    + [*Solution: Circle -- Lời Giải: Đường Tròn*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/solution/NQBH_circle_solution.pdf). [[TeX]https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/solution/NQBH_circle_solution.tex]. May 2023--now. Status: `unfinished ...`.
+    + [*Problem & Solution: Circle -- Bài Tập & Lời Giải: Đường Tròn*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/solution/NQBH_circle_solution.pdf). [[TeX]https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_9/circle/solution/NQBH_circle_solution.tex]. May 2023--now. Status: `unfinished ...`.
 
 - [*Diophantine Equation*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/Diophantine_equation/NQBH_Diophantine_equation.tex)]. Nov 27--now. Status: `unfinished ...`.
 
