@@ -167,6 +167,8 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Metal -- Kim Loại*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/metal/NQBH_metal.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/metal/NQBH_metal.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
+    + [*Problem: Metal -- Bài Tập: Kim Loại*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/metal/problem/NQBH_metal_problem.pdf). Jun 2023--now. Status: `unfinished ...`.
+
   + [*Nonmetal -- Phi Kim*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/nonmetal/NQBH_nonmetal.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/nonmetal/NQBH_nonmetal.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
   + [*Hydrocarbon & Polyme*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/hydrocarbon_polyme/NQBH_hydrocarbon_polyme.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/hydrocarbon_polyme/NQBH_hydrocarbon_polyme.tex)]. Apr 2023--now. Status: `unfinished ...`.
