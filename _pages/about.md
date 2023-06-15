@@ -176,6 +176,8 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Hydrocarbon & Polyme*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/hydrocarbon_polyme/NQBH_hydrocarbon_polyme.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/hydrocarbon_polyme/NQBH_hydrocarbon_polyme.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
+    + [*Problem: Hydrocarbon & Polyme -- Bài Tập: Hydrocarbon & Polyme*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/hydrocarbon_polyme/problem/NQBH_hydrocarbon_polyme_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_9/hydrocarbon_polyme/problem/NQBH_hydrocarbon_polyme_problem.tex)]. Jun 2023--now. Status: `unfinished ...`.
+
 **Elementary Chemistry for Grade 10 -- Hóa Học Sơ Cấp Lớp 10.**
 
 - [*Some Topics in Elementary Chemistry/Grade 10*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/NQBH_elementary_chemistry_grade_10.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/NQBH_elementary_chemistry_grade_10.tex)]. Aug 2022--now. Status: `unfinished`.. [[resource](https://github.com/NQBH/hobby/tree/master/elementary_chemistry/grade_10/resource)]. [[problem](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_10/problem/NQBH_elementary_chemistry_grade_10_problem.pdf)].
