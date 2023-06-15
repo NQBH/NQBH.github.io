@@ -119,7 +119,9 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
 * *Some Topics in Elementary Chemistry*. 2022--now. Status: `not initialized yet`.
 
-**Elementary Chemistry for Grade 8 -- Hóa Học Sơ Cấp Lớp 7.**
+**Elementary Chemistry for Grade 6 -- Hóa Học Sơ Cấp Lớp 6.**
+
+**Elementary Chemistry for Grade 7 -- Hóa Học Sơ Cấp Lớp 7.**
 
   + [*Atom, Chemical Element, & Chemical Compound -- Nguyên Tử, Nguyên Tố Hóa Học, & Hợp Chất Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/NQBH_atom_chemical_element_chemical_compound.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_7/atom_chemical_element_chemical_compound/NQBH_atom_chemical_element_chemical_compound.tex)]. Apr 2023--now. Status: `unfinished ...`.
 
@@ -229,6 +231,10 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 #### Elementary Physics -- Vật Lý Sơ Cấp
 
 * *Some Topics in Elementary Physics*. 2022--now. Status: `not initialized yet`.
+
+**Elementary Physics for Grade 6 -- Vật Lý Sơ Cấp Lớp 6.**
+
+**Elementary Physics for Grade 7 -- Vật Lý Sơ Cấp Lớp 7.**
 
 - [*Mechanical Movement -- Chuyển Động Cơ Học*](https://github.com/NQBH/hobby/blob/master/elementary_physics/mechanical_movement/NQBH_mechanical_movement.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_physics/mechanical_movement/NQBH_mechanical_movement.tex)]. Dec 9, 2022--now. Status: `unfinished ...`.
 
