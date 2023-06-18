@@ -141,6 +141,10 @@ I list my blog posts *chronologically*. Bloggers usually use *reverse chronologi
 
   + [*Chemical Reaction -- Phản Ứng Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/chemical_reaction/NQBH_chemical_reaction.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/chemical_reaction/NQBH_chemical_reaction.tex)]. Mar 2023--now. Status: `unfinished ...`.
 
+    + [*Problem: Atom, Chemical Element, & Chemical Compound -- Bài Tập: Nguyên Tử, Nguyên Tố Hóa Học, & Hợp Chất Hóa Học*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/chemical_reaction/problem/NQBH_chemical_reaction_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/chemical_reaction/problem/NQBH_chemical_reaction_problem.tex)].  Jul 2023--now. Status: `unfinished ...`.
+
+    + [*Problem & Solution: Atom, Chemical Element, & Chemical Compound -- Bài Tập & Lời Giải: Nguyên Tử, Nguyên Tố Hóa Học, & Hợp Chất Hóa Học*]
+
   + [*Oxygen, Air -- Oxi $\rm O_2$, Không Khí*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/oxygen/NQBH_oxygen.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/oxygen/NQBH_oxygen.tex)]. Feb 2023--now. Status: `unfinished ...`.
 
   + [*Hydrogen, Water -- Hiđro $\rm H_2$, Nước $\rm H_2O$*](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/hydrogen/NQBH_hydrogen_water.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_chemistry/grade_8/hydrogen/NQBH_hydrogen_water.tex)]. Mar 2023--now. Status: `unfinished ...`.
