@@ -56,17 +56,26 @@ Some quotes from the opening of Yôkoso jitsuryoku shijô shugi no kyôshitsu e 
 
 > `[en]` "Hell is other people." `[fr]` "l'enfer, c'est les autres." -- Jean-Paul Sartre, *Huis Clos $\star$ No Exit*
 
+- Alfred Adler. [*The Science of Living*](https://github.com/NQBH/hobby/blob/master/psychology/Adler2013/NQBH_Adler2013.pdf)
+. [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Adler2013/NQBH_Adler2013.tex)]. Status: `finished`.
+
+- Elaine N. Aron. [*The Highly Sensitive Person (HSP): How to Thrive When the World Overwhelms You*](https://github.com/NQBH/hobby/blob/master/psychology/Aron2013/NQBH_Aron2013.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Aron2013/NQBH_Aron2013.tex)]. Status: `still in reading by typing ...`.
+
 - Susan Cain. [*Quiet: The Power of Introverts in a World That Can't Stop Talking*](https://github.com/NQBH/hobby/blob/master/psychology/Cain2013/NQBH_Cain2013.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Cain2013/NQBH_Cain2013.tex)]. Status: `still in reading by typing ...`.
+
+- Mihaly Csikszentmihalyi. [*Flow: The Psychology of Optimal Experience*](https://github.com/NQBH/hobby/blob/master/psychology/Csikszentmihalyi_flow/NQBH_Csikszentmihalyi_flow.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Csikszentmihalyi_flow/NQBH_Csikszentmihalyi_flow.tex)]. Status: `collected quotes ...`.
 
 - Viktor Emil Frankl. [*Man's Search for Meaning*](https://github.com/NQBH/hobby/blob/master/psychology/Frankl2017/NQBH_Frankl2017.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Frankl2017/NQBH_Frankl2017.tex)]. Status: `still in reading by typing ...`.
 
 - Brian R. Little. [*Who Are You, Really? The Surprising Puzzle of Personality*](https://github.com/NQBH/hobby/blob/master/psychology/Little2017/NQBH_Little2017.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Little2017/NQBH_Little2017.tex)]. Status: `still in reading by typing ...`.
 
-- Jackson MacKenzie. [*Psychopath Free: Recovering From Emotionally Abusive Relationships with Narcissists, Sociopaths, & Other Toxic People*](https://github.com/NQBH/hobby/blob/master/psychology/MacKenzie2015/NQBH_MacKenzie2015.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/MacKenzie2015/NQBH_MacKenzie2015.tex)]. Status: `still in reading by typing ...`.
+- Jackson MacKenzie. [*Psychopath Free: Recovering From Emotionally Abusive Relationships with Narcissists, Sociopaths, & Other Toxic People*](https://github.com/NQBH/hobby/blob/master/psychology/MacKenzie2015/NQBH_MacKenzie2015.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/MacKenzie2015/NQBH_MacKenzie2015.tex)]. Status: `finished`.
 
 - Debbie Mirza. [*The Covert Passive Aggressive Narcissist*](https://github.com/NQBH/hobby/blob/master/psychology/Mirza2017/NQBH_Mirza2017.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Mirza2017/NQBH_Mirza2017.tex)]. Status: `still in reading by typing ...`.
 
 - George Simon, Jr. [*In Sheep's Clothing: Understanding & Dealing with Manipulative People*](https://github.com/NQBH/hobby/blob/master/psychology/Simon2010/NQBH_Simon2010.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Simon2010/NQBH_Simon2010.tex)]. Status: `still in reading by typing ...`.
+
+- George Simon, Jr. [*Character Disturbance: The Phenomenon of Our Age*](https://github.com/NQBH/hobby/blob/master/psychology/Simon2011/NQBH_Simon2011.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Simon2011/NQBH_Simon2011.tex)]. Status: `finished`.
 
 + I think the only way to see through a thick mask of a person is to pretend that you are a loser to him/her to make him/her assume that he/she can do anything to you to satisfy his/her ego. The mask will be melt down instantly.
 
