@@ -59,7 +59,7 @@ Some quotes from the opening of Yôkoso jitsuryoku shijô shugi no kyôshitsu e 
 - Alfred Adler. [*The Science of Living*](https://github.com/NQBH/hobby/blob/master/psychology/Adler2013/NQBH_Adler2013.pdf)
 . [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Adler2013/NQBH_Adler2013.tex)]. Status: `finished`.
 
-- Elaine N. Aron. [*The Highly Sensitive Person (HSP): How to Thrive When the World Overwhelms You*](https://github.com/NQBH/hobby/blob/master/psychology/Aron2013/NQBH_Aron2013.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Aron2013/NQBH_Aron2013.tex)]. Status: `still in reading by typing ...`.
+- Elaine N. Aron. [*The Highly Sensitive Person (HSP): How to Thrive When the World Overwhelms You*](https://github.com/NQBH/hobby/blob/master/psychology/Aron2013/NQBH_Aron2013.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Aron2013/NQBH_Aron2013.tex)]. Status: `finished`.
 
 - Susan Cain. [*Quiet: The Power of Introverts in a World That Can't Stop Talking*](https://github.com/NQBH/hobby/blob/master/psychology/Cain2013/NQBH_Cain2013.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Cain2013/NQBH_Cain2013.tex)]. Status: `still in reading by typing ...`.
 
