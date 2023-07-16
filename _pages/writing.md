@@ -71,7 +71,7 @@ Some quotes from the opening of Yôkoso jitsuryoku shijô shugi no kyôshitsu e 
 
 - Jackson MacKenzie. [*Psychopath Free: Recovering From Emotionally Abusive Relationships with Narcissists, Sociopaths, & Other Toxic People*](https://github.com/NQBH/hobby/blob/master/psychology/MacKenzie2015/NQBH_MacKenzie2015.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/MacKenzie2015/NQBH_MacKenzie2015.tex)]. Status: `finished`.
 
-- Debbie Mirza. [*The Covert Passive Aggressive Narcissist*](https://github.com/NQBH/hobby/blob/master/psychology/Mirza2017/NQBH_Mirza2017.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Mirza2017/NQBH_Mirza2017.tex)]. Status: `still in reading by typing ...`.
+- Debbie Mirza. [*The Covert Passive Aggressive Narcissist*](https://github.com/NQBH/hobby/blob/master/psychology/Mirza2017/NQBH_Mirza2017.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Mirza2017/NQBH_Mirza2017.tex)]. Status: `finished`.
 
 - George Simon, Jr. [*In Sheep's Clothing: Understanding & Dealing with Manipulative People*](https://github.com/NQBH/hobby/blob/master/psychology/Simon2010/NQBH_Simon2010.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/psychology/Simon2010/NQBH_Simon2010.tex)]. Status: `still in reading by typing ...`.
 
