@@ -407,6 +407,14 @@ I will organize offline/on-site & online classes to teach elementary mathematics
 
   + [*Natural -- Số Tự Nhiên $\mathbb{N}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/NQBH_natural.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/NQBH_natural.tex)]. Oct 2022--now. Status: `unfinished ...`.
 
+    - [*Problem: Set -- Bài Tập: Tập Hợp*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/set/problem/NQBH_set_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/set/problem/NQBH_set_problem.tex)]. Jun 2023--now. Status: `finished ...`.
+
+    - [*Problem & Solution: Set -- Bài Tập & Lời Giải: Tập Hợp*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/set/solution/NQBH_set_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/set/solution/NQBH_set_solution.tex)]. Jun 2023--now. Status: `finished ...`.
+
+    - [*Problem: Calculus on Set $\mathbb{N}$ of Naturals -- Bài Tập: Các Phép Tính Trên Tập Hợp Các Số Tự Nhiên*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/natural_calculus/problem/NQBH_natural_calculus_problem.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/natural_calculus/problem/NQBH_natural_calculus_problem.tex)]. Jun 2023--now. Status: `unfinished ...`.
+
+    - [*Problem & Solution: Calculus on Set $\mathbb{N}$ of Naturals -- Bài Tập & Lời Giải: Các Phép Tính Trên Tập Hợp Các Số Tự Nhiên*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/natural_calculus/solution/NQBH_natural_calculus_solution.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/natural/natural_calculus/solution/NQBH_natural_calculus_solution.tex)]. Jun 2023--now. Status: `unfinished ...`.
+
   + [*Divisor & Multiplier -- Ước & Bội*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/divisor_multiplier/NQBH_divisor_multiplier.tex)]. Nov 22, 2022--now. Status: `unfinished`.
 
   + [*Integer -- Số Nguyên $\mathbb{Z}$*](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/elementary_mathematics/grade_6/integer/NQBH_integer.tex)]. Dec 12, 2022--now. Status: `unfinished`.
