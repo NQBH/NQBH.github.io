@@ -79,6 +79,11 @@ Some quotes from the opening of Yôkoso jitsuryoku shijô shugi no kyôshitsu e 
 
 + I think the only way to see through a thick mask of a person is to pretend that you are a loser to him/her to make him/her assume that he/she can do anything to you to satisfy his/her ego. The mask will be melt down instantly.
 
+Writing
+======
+
+- Stephen King. [*On Writing: A Memoir of the Craft*](https://github.com/NQBH/hobby/blob/master/writing/King2000/NQBH_King2000.pdf). [[TeX](https://github.com/NQBH/hobby/blob/master/writing/King2000/NQBH_King2000.tex)]. Status: `finished`.
+
 ------
 
 Reading
