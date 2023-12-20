@@ -25,6 +25,14 @@ Some Topics in Elementary STEM & Beyond
 
 ## Grade 7
 
+- [Problem: Rational -- Bài Tập: Số Hữu Tỷ $\mathbb{Q}$](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/rational/problem/NQBH_rational_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/rational/problem/NQBH_rational_problem.tex)].
+
+- [Problem: Real -- Bài Tập: Số Thực $\mathbb{R}$](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/real/problem/NQBH_real_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/real/problem/NQBH_real_problem.tex)].
+
+- [Problem: Angle & Line -- Bài Tập: Góc & Đường Thẳng](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_line/problem/NQBH_angle_line_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_line/problem/NQBH_angle_line_problem.tex)].
+
+- [Problem: Congruent Triangles -- Bài Tập: Tam Giác Bằng Nhau $\Delta = \Delta'$](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/congruent_triangle/problem/NQBH_congruent_triangle_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/congruent_triangle/problem/NQBH_congruent_triangle_problem.tex)].
+
 ## Grade 8
 
 ## Grade 9
