@@ -59,7 +59,13 @@ Some Topics in Elementary STEM & Beyond
 
 ## Grade 11
 
+- [Problem: Trigonometric Equation -- Bài Tập: Phương Trình Lượng Giác](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/problem/NQBH_trigonometric_equation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/problem/NQBH_trigonometric_equation_problem.tex)].
+
+- [Problem: Limit -- Bài Tập: Giới Hạn $\lim$](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/limit/problem/NQBH_limit_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/limit/problem/NQBH_limit_problem.tex)].
+
 ## Grade 12
+
+- [Problem: Application of Derivative to Survey & Draw Graph of Functions -- Bài Tập: Ứng Dụng Đạo Hàm Để Khảo Sát & Vẽ Đồ Thị Hàm Số](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.tex)].
 
 # Elementary Physics
 
