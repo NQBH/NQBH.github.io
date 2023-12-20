@@ -73,7 +73,11 @@ Some Topics in Elementary STEM & Beyond
 
 ## Grade 7
 
+- [Problem: Mechanical Motion -- Bài Tập: Chuyển Động Cơ](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_7/mechanical_motion/problem/NQBH_mechanical_motion_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_7/mechanical_motion/problem/NQBH_mechanical_motion_problem.tex)].
+
 ## Grade 8
+
+- [Problem: Pressure -- Bài Tập: Áp Suất](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_8/pressure/problem/NQBH_pressure_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_8/pressure/problem/NQBH_pressure_problem.tex)].
 
 ## Grade 9
 
