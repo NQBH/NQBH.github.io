@@ -13,7 +13,7 @@ Some Topics in Elementary STEM & Beyond
 
 ## Grade 6
 
-- [Cheatsheet](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/cheatsheet/NQBH_elementary_mathematics_grade_6_cheatsheet.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/cheatsheet/NQBH_elementary_mathematics_grade_6_cheatsheet.tex)].
+- [Cheatsheet: Elementary Mathematics Grade 6](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/cheatsheet/NQBH_elementary_mathematics_grade_6_cheatsheet.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/cheatsheet/NQBH_elementary_mathematics_grade_6_cheatsheet.tex)].
 
 - [Problem: Natural -- Bài Tập: Số Tự Nhiên $\mathbb{N}$](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/natural/problem/NQBH_natural_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/natural/problem/NQBH_natural_problem.tex)].
 
@@ -25,6 +25,8 @@ Some Topics in Elementary STEM & Beyond
 
 ## Grade 7
 
+- [Cheatsheet: Elementary Mathematics Grade 7]
+
 - [Problem: Rational -- Bài Tập: Số Hữu Tỷ $\mathbb{Q}$](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/rational/problem/NQBH_rational_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/rational/problem/NQBH_rational_problem.tex)].
 
 - [Problem: Real -- Bài Tập: Số Thực $\mathbb{R}$](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/real/problem/NQBH_real_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/real/problem/NQBH_real_problem.tex)].
@@ -35,6 +37,8 @@ Some Topics in Elementary STEM & Beyond
 
 ## Grade 8
 
+- [Cheatsheet: Elementary Mathematics Grade 8]
+
 - [Problem: 1st-Order Function -- Bài Tập: Hàm Số Bậc Nhất $y = ax + b,a\ne0$](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/problem/NQBH_1st_order_function_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/problem/NQBH_1st_order_function_problem.tex)].
 
 - [Problem: Algebraic & Rational Fractions -- Bài Tập: Phân Thức Đại Số & Phân Thức Đại Số Hữu Tỷ](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/algebraic_rational_fractions/problem/NQBH_algebraic_rational_fractions_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/algebraic_rational_fractions/problem/NQBH_algebraic_rational_fractions_problem.tex)].
@@ -43,7 +47,7 @@ Some Topics in Elementary STEM & Beyond
 
 ## Grade 9
 
-- [Cheatsheet Elementary Mathematics Grade 9](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cheatsheet/NQBH_cheatsheet_mathematics_grade_9.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cheatsheet/NQBH_cheatsheet_mathematics_grade_9.tex)].
+- [Cheatsheet: Elementary Mathematics Grade 9](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cheatsheet/NQBH_cheatsheet_mathematics_grade_9.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cheatsheet/NQBH_cheatsheet_mathematics_grade_9.tex)].
 
 - [Problem: Root -- Bài Tập: Căn Thức $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/problem/NQBH_root_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/problem/NQBH_root_problem.tex)].
 
@@ -59,7 +63,11 @@ Some Topics in Elementary STEM & Beyond
 
 ## Grade 10
 
+- [Cheatsheet: Elementary Mathematics Grade 10]
+
 ## Grade 11
+
+- [Cheatsheet: Elementary Mathematics Grade 11]
 
 - [Problem: Trigonometric Equation -- Bài Tập: Phương Trình Lượng Giác](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/problem/NQBH_trigonometric_equation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/problem/NQBH_trigonometric_equation_problem.tex)].
 
@@ -67,45 +75,81 @@ Some Topics in Elementary STEM & Beyond
 
 ## Grade 12
 
+- [Cheatsheet: Elementary Mathematics Grade 12]
+
 - [Problem: Application of Derivative to Survey & Draw Graph of Functions -- Bài Tập: Ứng Dụng Đạo Hàm Để Khảo Sát & Vẽ Đồ Thị Hàm Số](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.tex)].
 
 # Elementary Physics
 
 ## Grade 6
 
+- [Cheatsheet: Elementary Physics Grade 6]
+
 ## Grade 7
+
+- [Cheatsheet: Elementary Physics Grade 7]
 
 - [Problem: Mechanical Motion -- Bài Tập: Chuyển Động Cơ](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_7/mechanical_motion/problem/NQBH_mechanical_motion_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_7/mechanical_motion/problem/NQBH_mechanical_motion_problem.tex)].
 
 ## Grade 8
 
+- [Cheatsheet: Elementary Physics Grade 8]
+
 - [Problem: Pressure -- Bài Tập: Áp Suất](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_8/pressure/problem/NQBH_pressure_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_8/pressure/problem/NQBH_pressure_problem.tex)].
 
 ## Grade 9
 
+- [Cheatsheet: Elementary Physics Grade 9]
+
 ## Grade 10
+
+- [Cheatsheet: Elementary Physics Grade 10]
 
 ## Grade 11
 
+- [Cheatsheet: Elementary Physics Grade 11]
+
 ## Grade 12
+
+- [Cheatsheet: Elementary Physics Grade 12]
 
 # Elementary Chemistry
 
 ## Grade 6
 
+- [Cheatsheet: Elementary Chemistry Grade 6]
+
 ## Grade 7
+
+- [Cheatsheet: Elementary Chemistry Grade 7]
 
 ## Grade 8
 
+- [Cheatsheet: Elementary Chemistry Grade 8]
+
 ## Grade 9
+
+- [Cheatsheet: Elementary Chemistry Grade 9]
 
 ## Grade 10
 
+- [Cheatsheet: Elementary Chemistry Grade 10]
+
 ## Grade 11
+
+- [Cheatsheet: Elementary Chemistry Grade 11]
 
 ## Grade 12
 
+- [Cheatsheet: Elementary Chemistry Grade 6]12
+
+------
+
 # Elementary Computer Science
+
+- [Problems: Elementary Computer Science -- Bài Tập: Tin Học Sơ Cấp](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_computer_science/problem/NQBH_elementary_computer_science_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_computer_science/problem/NQBH_elementary_computer_science_problem.tex)].
+
+- [Problems & Solutions: Elementary Computer Science -- Bài Tập & Lời Giải: Tin Học Sơ Cấp](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_computer_science/solution/NQBH_elementary_computer_science_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_computer_science/solution/NQBH_elementary_computer_science_solution.tex)].
 
 ------
 
@@ -113,3 +157,5 @@ Some Topics in Advanced STEM & Beyond
 ======
 
 ------
+
+- Shape Optimization
