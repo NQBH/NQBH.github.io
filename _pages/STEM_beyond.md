@@ -141,7 +141,7 @@ Some Topics in Elementary STEM & Beyond
 
 ## Grade 12
 
-- [Cheatsheet: Elementary Chemistry Grade 6]12
+- [Cheatsheet: Elementary Chemistry Grade 12]
 
 ------
 
