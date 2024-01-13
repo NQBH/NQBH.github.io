@@ -73,6 +73,8 @@ Some Topics in Elementary STEM & Beyond
 
 - [Problem: Limit -- Bài Tập: Giới Hạn $\lim$](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/limit/problem/NQBH_limit_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/limit/problem/NQBH_limit_problem.tex)].
 
+- [Problem: Exponentiation & Logarithm -- Bài Tập: Hàm Số Mũ & Hàm Số Logarith](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/problem/NQBH_exponentiation_logarithm_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/problem/NQBH_exponentiation_logarithm_problem.tex)].
+
 ## Grade 12
 
 - [Cheatsheet: Elementary Mathematics Grade 12]
