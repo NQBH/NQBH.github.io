@@ -21,7 +21,11 @@ Some Topics in Elementary STEM & Beyond
 
 - [Problem: Fraction & Decimal -- Bài Tập: Phân Số & Số Thập Phân](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/problem/NQBH_fraction_decimal_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/problem/NQBH_fraction_decimal_problem.tex)].
 
+- [Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/problem/NQBH_probability_statistics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/problem/NQBH_probability_statistics_problem.tex)].
+
 - [Problem: Visual Geometry -- Bài Tập: Hình Học Trực Quan](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/problem/NQBH_visual_geometry_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/problem/NQBH_visual_geometry_problem.tex)].
+
+- [Problem: 2D/Plane Geometry -- Bài Tập: Hình Học Phẳng](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/plane_geometry/problem/NQBH_plane_geometry_grade_6.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/plane_geometry/problem/NQBH_plane_geometry_grade_6.tex)].
 
 ## Grade 7
 
