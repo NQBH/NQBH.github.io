@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Elementary STEM & Beyond"
-    url: /elementary_STEM_beyond/
+  - title: "Elementary STEM"
+    url: /elementary_STEM/
 
-  - title: "Advanced STEM & Beyond"
-    url: /advanced_STEM_beyond/
+  - title: "Advanced STEM"
+    url: /advanced_STEM/
