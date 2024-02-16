@@ -4,7 +4,6 @@ title: "STEM & Beyond"
 text-align: justify
 toc: true
 ---
-{% include toc %}
 
 Some Topics in Elementary STEM & Beyond
 ======
