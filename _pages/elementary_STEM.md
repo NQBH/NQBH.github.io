@@ -64,6 +64,8 @@ Some Topics in Elementary STEM & Beyond
 
 - [Problem: Cylinder, Cone, Sphere -- Bài Tập: Hình Trụ, Hình Nón, Hình Cầu](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cylinder_cone_sphere/problem/NQBH_cylinder_cone_sphere_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cylinder_cone_sphere/problem/NQBH_cylinder_cone_sphere_problem.tex)].
 
+- [Problem: Equation & Inequation -- Bài Tập: Phương Trình & Bất Phương Trình](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.tex)].
+
 ## Grade 10
 
 - [Cheatsheet: Elementary Mathematics Grade 10]
@@ -83,6 +85,8 @@ Some Topics in Elementary STEM & Beyond
 - [Cheatsheet: Elementary Mathematics Grade 12]
 
 - [Problem: Application of Derivative to Survey & Draw Graph of Functions -- Bài Tập: Ứng Dụng Đạo Hàm Để Khảo Sát & Vẽ Đồ Thị Hàm Số](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.tex)].
+
+- [Problem: Antiderivative & Integral -- Bài Tập: Nguyên Hàm & Tích Phân](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/integral/problem/NQBH_integral_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/integral/problem/NQBH_integral_problem.tex)].
 
 # Elementary Physics
 
