@@ -8,6 +8,8 @@ toc: true
 Some Topics in Elementary STEM & Beyond
 ======
 
+- [*Dạy Trẻ Vùng Quê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_STEM_beyond/NQBH_elementary_STEM_beyond.pdf). `...`
+
 # Elementary Mathematics
 
 ## Grade 6
