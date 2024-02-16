@@ -1,6 +1,6 @@
 ---
-permalink: /STEM_beyond/
-title: "STEM & Beyond"
+permalink: /elementary_STEM/
+title: "Elementary STEM"
 text-align: justify
 toc: true
 ---
