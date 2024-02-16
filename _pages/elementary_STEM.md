@@ -161,12 +161,3 @@ Some Topics in Elementary STEM & Beyond
 	+ [Informatics Olympiad Secondary School](https://github.com/NQBH/elementary_STEM_beyond/tree/main/elementary_computer_science/VTT_THCS).
 
 	+ [Informatics Olympiad High School].
-
-------
-
-Some Topics in Advanced STEM & Beyond
-======
-
-------
-
-- Shape Optimization
