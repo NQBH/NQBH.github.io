@@ -162,7 +162,7 @@ Some Topics in Elementary STEM & Beyond
 
 - [Problems & Solutions: Elementary Computer Science -- Bài Tập & Lời Giải: Tin Học Sơ Cấp](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_computer_science/solution/NQBH_elementary_computer_science_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_computer_science/solution/NQBH_elementary_computer_science_solution.tex)].
 	
-	+ [C++ programs](https://github.com/NQBH/elementary_STEM_beyond/tree/main/elementary_computer_science/Cpp). [Python programs](https://github.com/NQBH/elementary_STEM_beyond/tree/main/elementary_computer_science/Python).
+	+ [C++ programs](https://github.com/NQBH/elementary_STEM_beyond/tree/main/elementary_computer_science/Cpp). [Python programs](https://github.com/NQBH/elementary_STEM_beyond/tree/main/elementary_computer_science/Python). [Pascal programs](https://github.com/NQBH/elementary_STEM_beyond/tree/main/elementary_computer_science/Pascal). [C# programs](https://github.com/NQBH/elementary_STEM_beyond/tree/main/elementary_computer_science/C%23).
 
 	+ [Informatics Olympiad Secondary School](https://github.com/NQBH/elementary_STEM_beyond/tree/main/elementary_computer_science/VTT_THCS).
 
