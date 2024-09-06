@@ -10,6 +10,7 @@ Some Topics in Elementary STEM & Beyond
 
 - [*Dạy Trẻ Vùng Quê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_STEM_beyond/NQBH_elementary_STEM_beyond.pdf). `...`
 
+This writing is shared with advanced STEM & beyond.
 - [*Some Thoughts on Learning, Teaching, & Research -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). `...`
 
 # Elementary Mathematics
