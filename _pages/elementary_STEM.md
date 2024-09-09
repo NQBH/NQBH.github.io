@@ -170,3 +170,13 @@ This writing is shared with advanced STEM & beyond.
 	+ [Informatics Olympiad Secondary School](https://github.com/NQBH/elementary_STEM_beyond/tree/main/elementary_computer_science/VTT_THCS).
 
 	+ [Informatics Olympiad High School].
+
+------
+
+# Donation
+
+Nếu thấy (các) tài liệu có ích hoặc bài viết hay nên thấy thích, cứ mạnh dạn chuyển khoản cho mình: Mình chắc chắn sẽ không ngại. Ghi chú chuyển khoản nếu muốn.
+
+> Chủ Tài Khoản: Nguyễn Quản Bá Hồng.
+> Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB).
+> Số Tài Khoản: 1510717. Chi Nhánh: ACB-CN Bến Tre.
