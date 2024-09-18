@@ -12,9 +12,8 @@ Some Topics in Elementary STEM & Beyond
 
 This writing is shared with advanced STEM & beyond.
 - [*Some Thoughts on Learning, Teaching, & Research -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). `...`
-<blockquote>
-	<font size="-1"><i>This note consists of some pieces of my writing, which are able to be shared and I am willing to share, in order to sharpen my flow of thoughts, to balance my scientific work via various aesthetic forms, & to track psychologically and mentally my transitions from boyhood to manhood if there is any.</i></font>
-</blockquote>
+
+> This note consists of some pieces of my writing, which are able to be shared and I am willing to share, in order to sharpen my flows of thoughts, to balance my scientific work via various aesthetic forms, & to track psychologically and mentally my transitions from boyhood to manhood if there is any.
 
 # Elementary Mathematics
 
