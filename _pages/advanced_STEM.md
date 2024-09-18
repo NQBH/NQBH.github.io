@@ -27,7 +27,7 @@ This writing is shared with elementary STEM & beyond.
 ------
 
 # Publications
-There are some peer-reviewed publications I wrote or joined to write but decided to remove my name to avoid any conflict & for the good so I do not mention them here.
+There are some peer-reviewed publications I wrote or joined to write but decided to remove my name to avoid any conflict & for the good so I do not & will not mention them here.
 
 - Nguyen Anh Dao, Jesus Ildefonso Díaz, Quan Ba Hong Nguyen. *Pointwise gradient estimates in multi-dimensional slow diffusion equations with a singular quenching term*. Advanced Nonlinear Studies. 2020. DOI: 10.1515/ans-2020-2076.
 	+ PDE: Possibly degenerate reaction-diffusion multi-dimensional problem: $\partial_tu - \Delta u^m + u^{-\beta}\chi_{\{u > 0\}} = 0$ in $Q_\infty\coloneqq(0,\infty)\times\Omega$, $u^m = 0$ on $\Sigma_\infty\coloneqq(0,\infty)\times\Gamma$, $u(0,{\bf x}) = u_0({\bf x})$ in $\Omega$.
