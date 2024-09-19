@@ -26,21 +26,21 @@ This writing is shared with elementary STEM & beyond.
 ------
 
 # Publications
-There are some peer-reviewed publications I wrote or joined to write but decided to remove my name to avoid any conflict & for the good so I do not & will not mention them here.
+There are some peer-reviewed publications I wrote or joined to write but decided to remove my publication name in those to avoid any conflict & for the good, thus I do not & will not mention them here.
 
 - Nguyen Anh Dao, Jesus Ildefonso Díaz, Quan Ba Hong Nguyen. *Pointwise gradient estimates in multi-dimensional slow diffusion equations with a singular quenching term*. Advanced Nonlinear Studies. 2020. DOI: [`10.1515/ans-2020-2076`](https://www.degruyter.com/document/doi/10.1515/ans-2020-2076/html). [`pdf`](https://github.com/NQBH/reference/blob/master/Dao_Diaz_Nguyen2020.pdf)
 	+ PDE: Possibly degenerate reaction-diffusion multi-dimensional problem: $\partial_tu - \Delta u^m + u^{-\beta}\chi_{\lbrace u > 0\rbrace} = 0$ in $Q_\infty:=(0,\infty)\times\Omega$, $u^m = 0$ on $\Sigma_\infty:=(0,\infty)\times\Gamma$, $u(0,{\bf x}) = u_0({\bf x})$ in $\Omega$.
 
 ------
 
-# Donations
+# Payment & Donation -- Thanh Toán & Quyên Góp
 
 Nếu thấy (các) tài liệu có ích hoặc (các) bài viết hay nên thấy thích, cứ mạnh dạn chuyển khoản cho mình: Mình chắc chắn sẽ không ngại. Ghi chú chuyển khoản nếu muốn.
 
 **Warning**: *Say no & never to living kidney donations*.
 
-Chủ Tài Khoản: `Nguyễn Quản Bá Hồng`.
-
-Bank: `Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB)`.
-
-Số Tài Khoản: `1510717`. Chi Nhánh: `ACB-CN Bến Tre`.
+## Bank Transfer Information -- Thông Tin Chuyển Khoản
+> Chủ Tài Khoản: `Nguyễn Quản Bá Hồng`.
+>> Bank: `Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB)`.
+>> Số Tài Khoản: `1510717`.
+>> Chi Nhánh: `ACB-CN Bến Tre`.
