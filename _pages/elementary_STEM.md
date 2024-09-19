@@ -182,7 +182,7 @@ Nếu thấy (các) tài liệu có ích hoặc (các) bài viết hay nên th�
 **Warning**: *Say no & never to living kidney donations*.
 
 ## Bank Transfer Information -- Thông Tin Chuyển Khoản
-> Chủ Tài Khoản: `Nguyễn Quản Bá Hồng`.
->> Bank: `Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB)`.
->> Số Tài Khoản: `1510717`.
->> Chi Nhánh: `ACB-CN Bến Tre`.
+> *Chủ Tài Khoản*: `Nguyễn Quản Bá Hồng`.  
+> *Bank*: `Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB)`.  
+> *Số Tài Khoản*: `1510717`.  
+> *Chi Nhánh*: `ACB-CN Bến Tre`.
