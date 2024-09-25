@@ -11,7 +11,7 @@ Some Topics in Advanced STEM & Beyond
 This writing is shared with elementary STEM & beyond.
 - [*Some Thoughts on Learning, Teaching, & Research -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). `...`
 
-> This note consists of some pieces of my writing, which are able to be shared and I am willing to share, in order to sharpen my flows of thoughts, to balance my scientific work via various aesthetic forms, & to track psychologically and mentally my transitions from boyhood to manhood if there is any. 
+> This short novel consists of some pieces of my writing, which are able to be shared & I am willing to share, in order to sharpen my flows of thoughts, to balance my scientific work via various aesthetic forms, & to track psychologically & mentally my transitions from boyhood to manhood if there is any.  
 >   
 > Tiểu thuyết ngắn này bao gồm 1 số bài viết của tôi, những bài có thể chia sẻ được & tôi tự nguyện chia sẻ chúng, để mài bén các dòng suy nghĩ của tôi hơn, để cân bằng với các công việc nghiên cứu khoa học thông qua muôn vàn các hình thái nghệ thuật, & để đánh dấu các bước chuyển mình về mặt tâm lý & trí tuệ của tôi từ 1 cậu nhóc trở thành 1 người đàn ông trưởng thành nếu có bất cứ sự thay đổi nào xảy ra.
 
