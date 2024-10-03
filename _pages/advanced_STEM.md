@@ -4,6 +4,7 @@ title: "Advanced STEM"
 text-align: justify
 toc: true
 ---
+{% include toc %}
 
 Some Topics in Advanced STEM & Beyond
 ======

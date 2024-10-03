@@ -11,6 +11,7 @@ redirect_from:
 text-align: justify
 toc: true
 ---
+{% include toc %}
 
 ------
 
