@@ -31,7 +31,7 @@ This writing is shared with elementary STEM & beyond.
 ## Personal Expository Notes
 
 - [*Linear Algebra -- Đại Số Tuyến Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/linear_algebra/NQBH_linear_algebra.pdf). `...`
-- [*Mathematical Analysis -- Giải Tích Toán Học*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). `...`
+- [*Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). `...`
 
 ------
 
