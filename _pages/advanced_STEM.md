@@ -27,9 +27,10 @@ This writing is shared with elementary STEM & beyond.
 
 ------
 
-## Personal Notes, Expository
+## Personal Expository Notes
 
 - [*Linear Algebra -- Đại Số Tuyến Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/linear_algebra/NQBH_linear_algebra.pdf). `...`
+- [*Mathematical Analysis -- Giải Tích Toán Học*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). `...`
 
 ------
 
