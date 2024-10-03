@@ -19,11 +19,17 @@ This writing is shared with elementary STEM & beyond.
 
 # Advanced Mathematics
 
-**Topics.**
+## Research Interests
 
 - *Partial Differential Equations*: Porous Medium equations (PMEs), Navier--Stokes equations (NSEs).
 - *Fluid mechanics*: Turbulence models $k$-$\epsilon$, $k$-$\omega$.
 - *Mathematical Otimization*: Shape Optimization, Optimal Control, Topology Optimization (maybe?).
+
+------
+
+## Personal Notes, Expository
+
+- [*Linear Algebra -- Đại Số Tuyến Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/linear_algebra/NQBH_linear_algebra.pdf). `...`
 
 ------
 
