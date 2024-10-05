@@ -78,6 +78,10 @@ This writing is shared with advanced STEM & beyond.
 
 - [Cheatsheet: Elementary Mathematics Grade 10]
 
+- [*Problem: Proposition & Set -- Bài Tập: Mệnh Đề & Tập Hợp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/proposition_set/problem/NQBH_proposition_set_problem.pdf).
+
+	+ [*Problem & Solution: Proposition & Set -- Bài Tập & Lời Giải: Mệnh Đề & Tập Hợp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/proposition_set/solution/NQBH_proposition_set_solution.pdf).
+
 - [*Problem: Vector -- Bài Tập: Vector*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/vector/problem/NQBH_vector_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/vector/problem/NQBH_vector_problem.tex)].
 
 	+ [*Problem & Solution: Vector -- Bài Tập & Lời Giải: Vector*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/vector/solution/NQBH_vector_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/vector/solution/NQBH_vector_solution.tex)].
