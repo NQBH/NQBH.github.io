@@ -327,15 +327,97 @@ This writing is shared with advanced STEM & beyond.
 
 - [*Cheatsheet: Elementary Chemistry Grade 10*]
 
+- [*Problem: Atom Structure -- Bài Tập: Cấu Tạo Nguyên Tử*]
+
+	+ [*Problem & Solution: Atom Structure -- Bài Tập & Lời Giải: Cấu Tạo Nguyên Tử*]
+
+- [*Problem: Periodic Table -- Bài Tập: Bảng Tuần Hoàn Các Nguyên Tố Hóa Học*]
+
+	+ [*Problem & Solution: Periodic Table -- Bài Tập & Lời Giải: Bảng Tuần Hoàn Các Nguyên Tố Hóa Học*]
+
+- [*Problem: Chemical Bond -- Bài Tập: Liên Kết Hóa Học*]
+
+	+ [*Problem & Solution: Chemical Bond -- Bài Tập & Lời Giải: Liên Kết Hóa Học*]
+
+- [*Problem: Oxidation-Reduction Reaction -- Bài Tập: Phản Ứng Oxi Hóa Khử*]
+
+	+ [*Problem & Solution: -- Bài Tập & Lời Giải: Phản Ứng Oxi Hóa Khử*]
+
+- [*Problem: Chemical Energy -- Bài Tập: Năng Lượng Hóa Học*]
+
+	+ [*Problem & Solution: Chemical Energy -- Bài Tập & Lời Giải: Năng Lượng Hóa Học*]
+
+- [*Problem: Chemical Reaction Speed -- Bài Tập: Tốc Độ Phản Ứng Hóa Học*]
+
+	+ [*Problem & Solution: Chemical Reaction Speed -- Bài Tập & Lời Giải: Tốc Độ Phản Ứng Hóa Học*]
+
+- [*Problem: Halogen Group -- Bài Tập: Nguyên Tố Nhóm VIIA (Nhóm Halogen)*]
+
+	+ [*Problem & Solution: Halogen Group -- Bài Tập & Lời Giải: Nguyên Tố Nhóm VIIA (Nhóm Halogen)*]
+
 ## Grade 11
 
 - [*Cheatsheet: Elementary Chemistry Grade 11*]
+
+- [*Problem: Chemical Balance -- Bài Tập: Cân Bằng Hóa Học*]
+
+	+ [*Problem & Solution: Chemical Balance -- Bài Tập & Lời Giải: Cân Bằng Hóa Học*]
+
+- [*Problem: Nitrogen & Sulfur -- Bài Tập: Nitrogen & Sulfur*]
+
+	+ [*Problem & Solution: Nitrogen & Sulfur -- Bài Tập & Lời Giải: Nitrogen & Sulfur*]
+
+- [*Problem: Organic Chemistry -- Bài Tập: Đại Cương Hóa Học Hữu Cơ*]
+
+	+ [*Problem & Solution: Organic Chemistry -- Bài Tập & Lời Giải: Đại Cương Hóa Học Hữu Cơ*]
+
+- [*Problem: Hydrocarbon -- Bài Tập: Hydrocarbon*]
+
+	+ [*Problem & Solution: Hydrocarbon -- Bài Tập & Lời Giải: Hydrocarbon*]
+
+- [*Problem: Halogen - Alcohol - Phenol Derivative -- Bài Tập: Dẫn Xuất Halogen - Alcohol - Phenol*]
+
+	+ [*Problem & Solution: Halogen - Alcohol - Phenol Derivative -- Bài Tập & Lời Giải: Dẫn Xuất Halogen - Alcohol - Phenol*]
+
+- [*Problem: Carbonyl (Aldehyde-Ketone) Compound. Carboxylic Acid -- Bài Tập: Hợp Chất Carbonyl (Aldehyde-Ketone) Compound. Carboxylic Acid*]
+
+	+ [*Problem & Solution: Carbonyl (Aldehyde-Ketone) Compound. Carboxylic Acid -- Bài Tập & Lời Giải: Hợp Chất Carbonyl (Aldehyde-Ketone) Compound. Carboxylic Acid*]
 
 ## Grade 12
 
 - [*Cheatsheet: Elementary Chemistry Grade 12*]
 
-------
+- [*Problem: Ester-Lipid -- Bài Tập: Ester-Lipid*]
+
+	+ [*Problem & Solution: Ester-Lipid -- Bài Tập & Lời Giải: Ester-Lipid*]
+
+- [*Problem: Carbohydrate -- Bài Tập: Carbohydrate*]
+
+	+ [*Problem & Solution: Carbohydrate -- Bài Tập & Lời Giải: Carbohydrate*]
+
+- [*Problem: Nitrogen Compound -- Bài Tập: Hợp Chất Chứa Nitrogen*]
+
+	+ [*Problem & Solution: Nitrogen Compound -- Bài Tập & Lời Giải: Hợp Chất Chứa Nitrogen*]
+
+- [*Problem: Polymer -- Bài Tập: Polymer*]
+
+	+ [*Problem & Solution: Polymer -- Bài Tập & Lời Giải: Polymer*]
+
+- [*Problem: Electric Battery & Electrolysis -- Bài Tập: Pin Điện & Điện Phân*]
+
+	+ [*Problem & Solution: Electric Battery & Electrolysis -- Bài Tập & Lời Giải: Pin Điện & Điện Phân*]
+
+- [*Problem: Metal -- Bài Tập: Đại Cương Về Kim Loại*]
+
+	+ [*Problem & Solution: Metal -- Bài Tập & Lời Giải: Đại Cương Về Kim Loại*]
+
+- [*Problem: Group IA & IIA -- Bài Tập: Nguyên Tố Nhóm IA & Nhóm IIA*]
+
+	+ [*Problem & Solution: Group IA & IIA -- Bài Tập & Lời Giải: Nguyên Tố Nhóm IA & Nhóm IIA*]
+
+- [*Problem: -- Bài Tập: Sơ Lược Về Kim Loại Chuyển Tiếp Dãy Thứ Nhất & Phức Chất*]
+
+	+ [*Problem & Solution: -- Bài Tập & Lời Giải: Sơ Lược Về Kim Loại Chuyển Tiếp Dãy Thứ Nhất & Phức Chất*]
 
 # Elementary Computer Science
 
