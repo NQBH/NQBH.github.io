@@ -74,6 +74,8 @@ This writing is shared with advanced STEM & beyond.
 
 - [Problem: Equation & Inequation -- Bài Tập: Phương Trình & Bất Phương Trình](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.tex)].
 
+------
+
 ## Grade 10
 
 - [*Cheatsheet: Elementary Mathematics Grade 10*].
@@ -114,6 +116,8 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem & Solution: 2D Method of Cartesian Coordinates -- Bài Tập & Lời Giải: Phương Pháp Tọa Độ Cartesian Trong Mặt Phẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/solution/NQBH_2D_method_coordinate_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/solution/NQBH_2D_method_coordinate_solution.tex)].
 
+**Chuyên Đề Học Tập**
+
 - [*Problem: Mathematical Induction & Newton Binomial -- Bài Tập: Phương Pháp Quy Nạp Toán Học & Nhị Thức Newton*]
 
 	+ [*Problem & Solution: Mathematical Induction & Newton Binomial -- Bài Tập & Lời Giải: Phương Pháp Quy Nạp Toán Học & Nhị Thức Newton*]
@@ -121,6 +125,7 @@ This writing is shared with advanced STEM & beyond.
 - [*Problem: 3 Conics -- Bài Tập: 3 Đường Conic*]
 
 	+ [*Problem & Solution: 3 Conics -- Bài Tập & Lời Giải: 3 Đường Conic*]
+------
 
 ## Grade 11
 
@@ -161,6 +166,7 @@ This writing is shared with advanced STEM & beyond.
 - [*Problem: Perpendicular Relation in 3D Space. Orthographic Projection -- Bài Tập: Quan Hệ Vuông Góc Trong Không Gian 3D. Phép Chiếu Vuông Góc*]
 
 	+ [*Problem & Solution: Perpendicular Relation in 3D Space. Orthographic Projection -- Bài Tập & Lời Giải: Quan Hệ Vuông Góc Trong Không Gian 3D. Phép Chiếu Vuông Góc*]
+**Chuyên Đề Học Tập**
 
 - [*Problem: Geometrical Transformation -- Bài Tập: Phép Biến Hình Phẳng*]
 
@@ -173,6 +179,7 @@ This writing is shared with advanced STEM & beyond.
 - [*Problem: Technical Drawing -- Bài Tập: Vẽ Kỹ Thuật*]
 
 	+ [*Problem & Solution: Technical Drawing -- Bài Tập & Lời Giải: Vẽ Kỹ Thuật*]
+------
 
 ## Grade 12
 
@@ -182,9 +189,44 @@ This writing is shared with advanced STEM & beyond.
 
 - [Problem: Application of Derivative to Survey & Draw Graph of Functions -- Bài Tập: Ứng Dụng Đạo Hàm Để Khảo Sát & Vẽ Đồ Thị Hàm Số](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.tex)].
 
-- [Problem: Antiderivative & Integral -- Bài Tập: Nguyên Hàm & Tích Phân](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/integral/problem/NQBH_integral_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/integral/problem/NQBH_integral_problem.tex)].
+	+ [*Problem & Solution: Application of Derivative to Survey & Draw Graph of Functions -- Bài Tập & Lời Giải: Ứng Dụng Đạo Hàm Để Khảo Sát & Vẽ Đồ Thị Hàm Số*]
+
+- [*Problem: 3D Coordinate Vector -- Bài Tập: Tọa Độ Của Vector Trong Không Gian*]
+	
+	+ [*Problem & Solution: 3D Coordinate Vector -- Bài Tập & Lời Giải: Tọa Độ Của Vector Trong Không Gian*]
+
+- [*Problem: Statistical Sample -- Bài Tập: Các Số Đặc Trưng Đo Mức Độ Phân Tán Cho Mẫu Số Liệu Ghép Nhóm*]
+
+	+ [*Problem & Solution: Statistical Sample -- Bài Tập & Lời Giải: Các Số Đặc Trưng Đo Mức Độ Phân Tán Cho Mẫu Số Liệu Ghép Nhóm*]
 
 **2nd Semester**
+
+- [*Problem: Antiderivative & Integral -- Bài Tập: Nguyên Hàm & Tích Phân*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/integral/problem/NQBH_integral_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/integral/problem/NQBH_integral_problem.tex)].
+
+	+ [*Problem & Solution: Antiderivative & Integral -- Bài Tập & Lời Giải: Nguyên Hàm & Tích Phân*]
+
+- [*Problem: Plane, Line, Sphere Equations in 3D Space -- Bài Tập: Phương Trình Mặt Phẳng, Đường Thẳng, Mặt Cầu Trong Không Gian*]
+
+	+ [*Problem & Solution: Plane, Line, Sphere Equations in 3D Space -- Bài Tập & Lời Giải: Phương Trình Mặt Phẳng, Đường Thẳng, Mặt Cầu Trong Không Gian*]
+
+- [*Problem: Conditional Probability -- Bài Tập: Xác Suất Có Điều Kiện*]
+
+	+ [*Problem & Solution: Conditional Probability -- Bài Tập & Lời Giải: Xác Suất Có Điều Kiện*]
+
+**Chuyên Đề Học Tập**
+
+- [*Problem: Discrete Random Variable & Its Characteristics -- Bài Tập: Biến Ngẫu Nhiên Rời Rạc. Các Số Đặc Trưng Của Biến Ngẫu Nhiên Rời Rạc*]
+
+	+ [*Problem & Solution: Discrete Random Variable & Its Characteristics -- Bài Tập & Lời Giải: Biến Ngẫu Nhiên Rời Rạc. Các Số Đặc Trưng Của Biến Ngẫu Nhiên Rời Rạc*]
+
+- [*Problem: Mathematical Optimization -- Bài Tập: Ứng Dụng Toán Học Để Giải Quyết 1 Số Bài Toán Tối Ưu*]
+
+	+ [*Problem & Solution: Mathematical Optimization -- Bài Tập & Lời Giải: Ứng Dụng Toán Học Để Giải Quyết 1 Số Bài Toán Tối Ưu*]
+
+- [*Problem: Applications in Mathematical Finance -- Bài Tập: Ứng Dụng Toán Học Trong 1 Số Vấn Đề Liên Quan Đến Tài Chính*]
+
+	+ [*Problem & Solution: Applications in Mathematical Finance -- Bài Tập & Lời Giải: Ứng Dụng Toán Học Trong 1 Số Vấn Đề Liên Quan Đến Tài Chính*]
+------
 
 # Elementary Physics
 
