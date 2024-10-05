@@ -78,6 +78,10 @@ This writing is shared with advanced STEM & beyond.
 
 - [Cheatsheet: Elementary Mathematics Grade 10]
 
+- [*Problem: 2D Method of Cartesian Coordinates -- Bài Tập: Phương Pháp Tọa Độ Cartesian Trong Mặt Phẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/problem/NQBH_2D_method_coordinate_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/problem/NQBH_2D_method_coordinate_problem.tex)].
+
+	+ [*Problem & Solution: 2D Method of Cartesian Coordinates -- Bài Tập & Lời Giải: Phương Pháp Tọa Độ Cartesian Trong Mặt Phẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/solution/NQBH_2D_method_coordinate_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/solution/NQBH_2D_method_coordinate_solution.tex)].
+
 ## Grade 11
 
 - [Cheatsheet: Elementary Mathematics Grade 11]
