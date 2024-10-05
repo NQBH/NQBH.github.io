@@ -74,8 +74,6 @@ This writing is shared with advanced STEM & beyond.
 
 - [Problem: Equation & Inequation -- Bài Tập: Phương Trình & Bất Phương Trình](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.tex)].
 
-------
-
 ## Grade 10
 
 - [*Cheatsheet: Elementary Mathematics Grade 10*].
@@ -125,7 +123,6 @@ This writing is shared with advanced STEM & beyond.
 - [*Problem: 3 Conics -- Bài Tập: 3 Đường Conic*]
 
 	+ [*Problem & Solution: 3 Conics -- Bài Tập & Lời Giải: 3 Đường Conic*]
-------
 
 ## Grade 11
 
@@ -254,13 +251,59 @@ This writing is shared with advanced STEM & beyond.
 
 - [*Cheatsheet: Elementary Physics Grade 10*]
 
+- [*Problem: Motion -- Bài Tập: Chuyển Động*]
+
+	+ [*Problem & Solution: Motion -- Bài Tập & Lời Giải: Chuyển Động*]
+
+- [*Problem: Force & Motion -- Bài Tập: Lực & Chuyển Động*]
+
+	+ [*Problem & Solution: Force & Motion -- Bài Tập & Lời Giải: Lực & Chuyển Động*]
+
+- [*Problem: Energy -- Bài Tập: Năng Lượng*]
+
+	+ [*Problem & Solution: Energy -- Bài Tập & Lời Giải: Năng Lượng*]
+
+- [*Problem: Circular Motion & Deformation -- Bài Tập: Chuyển Động Tròn & Biến Dạng*]
+
+	+ [*Problem & Solution: Circular Motion & Deformation -- Bài Tập & Lời Giải: Chuyển Động Tròn & Biến Dạng*]
+
 ## Grade 11
 
 - [*Cheatsheet: Elementary Physics Grade 11*]
 
+- [*Problem: Oscillation -- Bài Tập: Dao Động*]
+
+	+ [*Problem & Solution: Oscillation -- Bài Tập & Lời Giải: Dao Động*]
+
+- [*Problem: Wave -- Bài Tập: Sóng*]
+
+	+ [*Problem & Solution: Wave -- Bài Tập & Lời Giải: Sóng*]
+
+- [*Problem: Electric Field -- Bài Tập: Trường Điện*]
+
+	+ [*Problem & Solution: Electric Field -- Bài Tập & Lời Giải: Trường Điện*]
+
+- [*Problem: Electricity -- Bài Tập: Dòng Điện, Mạch Điện*]
+
+	+ [*Problem & Solution: Electricity -- Bài Tập & Lời Giải: Dòng Điện, Mạch Điện*]
+
 ## Grade 12
 
 - [*Cheatsheet: Elementary Physics Grade 12*]
+
+- [*Problem: Thermodynamics -- Bài Tập: Vật Lý Nhiệt*]
+
+	+ [*Problem & Solution: Thermodynamics -- Bài Tập & Lời Giải: Vật Lý Nhiệt*]
+
+- [*Problem: Ideal Gas -- Bài Tập: Khí Lý Tưởng*]
+
+	+ [*Problem & Solution: Ideal Gas -- Bài Tập & Lời Giải: Khí Lý Tưởng*]
+
+- [*Problem: Magnetic Field -- Bài Tập: Từ Trường*]
+
+	+ [*Problem & Solution: Magnetic Field -- Bài Tập & Lời Giải: Từ Trường*]
+
+- [*Problem: Nuclear Physics -- Bài Tập: Vật Lý Hạt Nhân*]
 
 # Elementary Chemistry
 
