@@ -76,21 +76,51 @@ This writing is shared with advanced STEM & beyond.
 
 ## Grade 10
 
-- [Cheatsheet: Elementary Mathematics Grade 10]
+- [Cheatsheet: Elementary Mathematics Grade 10].
+
+**1st Semester**
 
 - [*Problem: Proposition & Set -- Bài Tập: Mệnh Đề & Tập Hợp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/proposition_set/problem/NQBH_proposition_set_problem.pdf).
 
 	+ [*Problem & Solution: Proposition & Set -- Bài Tập & Lời Giải: Mệnh Đề & Tập Hợp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/proposition_set/solution/NQBH_proposition_set_solution.pdf).
 
+- [*Problem: Inequation & Linear System of Inequations -- Bài Tập: Bất Phương Trình & Hệ Bất Phương Trình*]
+
+	+ [*Problem & Solution: Inequation & Linear System of Inequations -- Bài Tập & Lời Giải: Bất Phương Trình & Hệ Bất Phương Trình*]
+
+- [*Problem: Function & Graph -- Bài Tập: Hàm Số & Đồ Thị*]
+
+	+ [*Problem & Solution: Function & Graph -- Bài Tập & Lời Giải: Hàm Số & Đồ Thị*]
+
+- [*Problem: Trigonometrical Identities in Triangles -- Bài Tập: Hệ Thức Lượng Trong Tam Giác*]
+
+	+ [*Problem & Solution: Trigonometrical Identities in Triangles -- Bài Tập & Lời Giải: Hệ Thức Lượng Trong Tam Giác*]
+
 - [*Problem: Vector -- Bài Tập: Vector*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/vector/problem/NQBH_vector_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/vector/problem/NQBH_vector_problem.tex)].
 
 	+ [*Problem & Solution: Vector -- Bài Tập & Lời Giải: Vector*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/vector/solution/NQBH_vector_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/vector/solution/NQBH_vector_solution.tex)].
+
+**2nd Semester**
+
+- [*Problem: Combinatorics -- Bài Tập: Đại Số Tổ Hợp*]
+
+	+ [*Problem & Solution: Combinatorics -- Bài Tập & Lời Giải: Đại Số Tổ Hợp*]
+
+- [*Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê*]
+
+	+ [*Problem & Solution: Probability & Statistics -- Bài Tập & Lời Giải: Xác Suất & Thống Kê*]
 
 - [*Problem: 2D Method of Cartesian Coordinates -- Bài Tập: Phương Pháp Tọa Độ Cartesian Trong Mặt Phẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/problem/NQBH_2D_method_coordinate_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/problem/NQBH_2D_method_coordinate_problem.tex)].
 
 	+ [*Problem & Solution: 2D Method of Cartesian Coordinates -- Bài Tập & Lời Giải: Phương Pháp Tọa Độ Cartesian Trong Mặt Phẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/solution/NQBH_2D_method_coordinate_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/solution/NQBH_2D_method_coordinate_solution.tex)].
 
+- [*Problem: Mathematical Induction & Newton Binomial -- Bài Tập: Phương Pháp Quy Nạp Toán Học & Nhị Thức Newton*]
 
+	+ [*Problem & Solution: Mathematical Induction & Newton Binomial -- Bài Tập & Lời Giải: Phương Pháp Quy Nạp Toán Học & Nhị Thức Newton*]
+
+- [*Problem: 3 Conics -- Bài Tập: 3 Đường Conic*]
+
+	+ [*Problem & Solution: 3 Conics -- Bài Tập & Lời Giải: 3 Đường Conic*]
 
 ## Grade 11
 
