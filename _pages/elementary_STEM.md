@@ -251,9 +251,9 @@ This writing is shared with advanced STEM & beyond.
 
 - [*Cheatsheet: Elementary Physics Grade 10*]
 
-- [*Problem: Motion -- Bài Tập: Chuyển Động*]
+- [*Problem: Kinematic -- Bài Tập: (Chuyển) Động Học*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/kinematic/problem/NQBH_kinematic_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/kinematic/problem/NQBH_kinematic_problem.tex)].
 
-	+ [*Problem & Solution: Motion -- Bài Tập & Lời Giải: Chuyển Động*]
+	+ [*Problem & Solution: Kinematic -- Bài Tập & Lời Giải: (Chuyển) Động Học*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/kinematic/solution/NQBH_kinematic_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/kinematic/solution/NQBH_kinematic_solution.tex)].
 
 - [*Problem: Force & Motion -- Bài Tập: Lực & Chuyển Động*]
 
