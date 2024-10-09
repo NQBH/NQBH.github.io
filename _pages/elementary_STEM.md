@@ -272,9 +272,13 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem \& Solution: Momentum -- Bài Tập \& Lời Giải: Động Lượng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/solution/NQBH_momentum_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/solution/NQBH_momentum_solution.tex)].
 
-- [*Problem: Circular Motion & Deformation -- Bài Tập: Chuyển Động Tròn & Biến Dạng*]
+- [*Problem: Circular Motion -- Bài Tập: Chuyển Động Tròn & Biến Dạng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/circular_motion/problem/NQBH_circular_motion_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/circular_motion/problem/NQBH_circular_motion_problem.tex)].
 
-	+ [*Problem & Solution: Circular Motion & Deformation -- Bài Tập & Lời Giải: Chuyển Động Tròn & Biến Dạng*]
+	+ [*Problem & Solution: Circular Motion -- Bài Tập & Lời Giải: Biến Dạng Của Vật Rắn. Áp Suất Của Chất Lỏng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/circular_motion/solution/NQBH_circular_motion_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/circular_motion/solution/NQBH_circular_motion_solution.tex)].
+
+- [*Problem: Deformation of Solids. Pressure of Fluids -- Bài Tập: Biến Dạng Của Vật Rắn. Áp Suất Của Chất Lỏng*]
+
+	+ [*Problem & Solution: Deformation of Solids. Pressure of Fluids -- Bài Tập & Lời Giải: Biến Dạng Của Vật Rắn. Áp Suất Của Chất Lỏng*]
 
 ## Grade 11
 
