@@ -22,6 +22,8 @@ This writing is shared with advanced STEM & beyond.
 
 - [*Cheatsheet: Elementary Mathematics Grade 6*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/cheatsheet/NQBH_elementary_mathematics_grade_6_cheatsheet.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/cheatsheet/NQBH_elementary_mathematics_grade_6_cheatsheet.tex)].
 
+**1st Semester**
+
 - [*Problem: Natural $\mathbb{N}$ -- Bài Tập: Số Tự Nhiên $\mathbb{N}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/natural/problem/NQBH_natural_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/natural/problem/NQBH_natural_problem.tex)].
 
 	+ [*Problem & Solution: Natural $\mathbb{N}$ -- Bài Tập & Lời Giải: Số Tự Nhiên $\mathbb{N}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/natural/solution/NQBH_natural_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/natural/solution/NQBH_natural_solution.tex)].
@@ -33,6 +35,8 @@ This writing is shared with advanced STEM & beyond.
 - [*Problem: Fraction & Decimal $\mathbb{Q}$ -- Bài Tập: Phân Số & Số Thập Phân $\mathbb{Q}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/problem/NQBH_fraction_decimal_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/problem/NQBH_fraction_decimal_problem.tex)].
 
 	+ [*Problem & Solution: Fraction & Decimal $\mathbb{Q}$ -- Bài Tập & Lời Giải: Phân Số & Số Thập Phân $\mathbb{Q}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/solution/NQBH_fraction_decimal_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/solution/NQBH_fraction_decimal_solution.tex)].
+
+**2nd Semester**
 
 - [*Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/problem/NQBH_probability_statistics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/problem/NQBH_probability_statistics_problem.tex)].
 
@@ -50,6 +54,8 @@ This writing is shared with advanced STEM & beyond.
 
 - [*Cheatsheet: Elementary Mathematics Grade 7*]
 
+**1st Semester**
+
 - [*Problem: Rational $\mathbb{Q}$ -- Bài Tập: Số Hữu Tỷ $\mathbb{Q}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/rational/problem/NQBH_rational_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/rational/problem/NQBH_rational_problem.tex)].
 
 	+ [*Problem & Solution: Rational $\mathbb{Q}$ -- Bài Tập & Lời Giải: Số Hữu Tỷ $\mathbb{Q}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/rational/solution/NQBH_rational_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/rational/solution/NQBH_rational_solution.tex)].
@@ -62,6 +68,8 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem & Solution: Angle & Line -- Bài Tập & Lời Giải: Góc & Đường Thẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_line/solution/NQBH_angle_line_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_line/solution/NQBH_angle_line_solution.tex)].
 
+**1st Semester**
+
 - [*Problem: Congruent Triangles -- Bài Tập: Tam Giác Bằng Nhau $\Delta = \Delta'$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/congruent_triangle/problem/NQBH_congruent_triangle_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/congruent_triangle/problem/NQBH_congruent_triangle_problem.tex)].
 
 	+ [*Problem & Solution: Congruent Triangles -- Bài Tập & Lời Giải: Tam Giác Bằng Nhau $\Delta = \Delta'$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/congruent_triangle/solution/NQBH_congruent_triangle_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/congruent_triangle/solution/NQBH_congruent_triangle_solution.tex)].
@@ -69,6 +77,8 @@ This writing is shared with advanced STEM & beyond.
 ## Grade 8
 
 - [*Cheatsheet: Elementary Mathematics Grade 8*]
+
+**1st Semester**
 
 - [*Problem: 1st-Order Function -- Bài Tập: Hàm Số Bậc Nhất $y = ax + b,a\ne0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/problem/NQBH_1st_order_function_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/problem/NQBH_1st_order_function_problem.tex)].
 
@@ -82,21 +92,25 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem & Solution: Multivariate Polynomial $\mathbb{R}[{\bf x}]$ -- Bài Tập & Lời Giải: Đa Thức Nhiều Biến $\mathbb{R}[{\bf x}]$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/multivariate_polynomial/solution/NQBH_multivariate_polynomial_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/multivariate_polynomial/solution/NQBH_multivariate_polynomial_solution.tex)].
 
+**2nd Semester**
+
 ## Grade 9
 
 - [*Cheatsheet: Elementary Mathematics Grade 9*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cheatsheet/NQBH_cheatsheet_mathematics_grade_9.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cheatsheet/NQBH_cheatsheet_mathematics_grade_9.tex)].
 
-- [*Problem: Root $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$ -- Bài Tập: Căn Thức $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/problem/NQBH_root_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/problem/NQBH_root_problem.tex)].
-
-	+ [*Problem & Solution: Root $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$ -- Bài Tập & Lời Giải: Căn Thức $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/solution/NQBH_root_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/solution/NQBH_root_solution.tex)].
-
-- [*Problem: 2nd-Order Function. Quadratic Equation. Bài Tập: Hàm Số Bậc 2 $y = ax^2,a\ne0$. Phương Trình Bậc 2 1 Ẩn $ax^2 + bx + c = 0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/problem/NQBH_2nd_order_function_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/problem/NQBH_2nd_order_function_problem.tex)].
-
-	+ [*Problem & Solution: 2nd-Order Function. Quadratic Equation. Bài Tập & Lời Giải: Hàm Số Bậc 2 $y = ax^2,a\ne0$. Phương Trình Bậc 2 1 Ẩn $ax^2 + bx + c = 0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/solution/NQBH_2nd_order_function_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/solution/NQBH_2nd_order_function_solution.tex)].
+**1st Semester**
 
 - [*Problem: System of 1st-Order Equations $A{\bf x} = B$ -- Bài Tập: Hệ Phương Trình Bậc Nhất $A{\bf x} = B$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/system_1st_order_equations/problem/NQBH_system_1st_order_equations_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/system_1st_order_equations/problem/NQBH_system_1st_order_equations_problem.tex)].
 
 	+ [*Problem & Solution: System of 1st-Order Equations $A{\bf x} = B$ -- Bài Tập & Lời Giải: Hệ Phương Trình Bậc Nhất $A{\bf x} = B$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/system_1st_order_equations/solution/NQBH_system_1st_order_equations_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/system_1st_order_equations/solution/NQBH_system_1st_order_equations_solution.tex)].
+
+- [*Problem: Inequality. 1st-Order 1-Unknown Inequation -- Bài Tập: Bất Đẳng Thức. Bất Phương Trình Bậc Nhất 1 Ẩn*]
+
+	+ [*Problem & Solution: Inequality. 1st-Order 1-Unknown Inequation -- Bài Tập & Lời Giải: Bất Đẳng Thức. Bất Phương Trình Bậc Nhất 1 Ẩn*]
+
+- [*Problem: Root $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$ -- Bài Tập: Căn Thức $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/problem/NQBH_root_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/problem/NQBH_root_problem.tex)].
+
+	+ [*Problem & Solution: Root $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$ -- Bài Tập & Lời Giải: Căn Thức $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/solution/NQBH_root_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/solution/NQBH_root_solution.tex)].
 
 - [*Problem: Trigonometry in Triangles -- Bài Tập: Hệ Thức Lượng Trong Tam Giác*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.tex)].
 
@@ -106,14 +120,21 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem & Solution: Circle -- Bài Tập & Lời Giải: Đường Tròn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/circle/solution/NQBH_circle_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/circle/solution/NQBH_circle_solution.tex)].
 
+**2nd Semester**
+
+- [*Problem: 2nd-Order Function. Quadratic Equation. Bài Tập: Hàm Số Bậc 2 $y = ax^2,a\ne0$. Phương Trình Bậc 2 1 Ẩn $ax^2 + bx + c = 0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/problem/NQBH_2nd_order_function_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/problem/NQBH_2nd_order_function_problem.tex)].
+
+	+ [*Problem & Solution: 2nd-Order Function. Quadratic Equation. Bài Tập & Lời Giải: Hàm Số Bậc 2 $y = ax^2,a\ne0$. Phương Trình Bậc 2 1 Ẩn $ax^2 + bx + c = 0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/solution/NQBH_2nd_order_function_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/solution/NQBH_2nd_order_function_solution.tex)].
+
 - [*Problem: Cylinder, Cone, Sphere -- Bài Tập: Hình Trụ, Hình Nón, Hình Cầu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cylinder_cone_sphere/problem/NQBH_cylinder_cone_sphere_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cylinder_cone_sphere/problem/NQBH_cylinder_cone_sphere_problem.tex)].
 
 	+ [*Problem & Solution: Cylinder, Cone, Sphere -- Bài Tập & Lời Giải: Hình Trụ, Hình Nón, Hình Cầu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cylinder_cone_sphere/solution/NQBH_cylinder_cone_sphere_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cylinder_cone_sphere/solution/NQBH_cylinder_cone_sphere_solution.tex)].
 
+## Secondary School -- Trung Học Cơ Sở
+
 - [*Problem: Equation & Inequation -- Bài Tập: Phương Trình & Bất Phương Trình*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.tex)].
 
 	+ [*Problem & Solution: Equation & Inequation -- Bài Tập & Lời Giải: Phương Trình & Bất Phương Trình*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/solution/NQBH_equation_inequation_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/solution/NQBH_equation_inequation_solution.tex)].
-
 
 ## Grade 10
 
@@ -218,7 +239,6 @@ This writing is shared with advanced STEM & beyond.
 - [*Problem: Technical Drawing -- Bài Tập: Vẽ Kỹ Thuật*]
 
 	+ [*Problem & Solution: Technical Drawing -- Bài Tập & Lời Giải: Vẽ Kỹ Thuật*]
-------
 
 ## Grade 12
 
@@ -265,7 +285,8 @@ This writing is shared with advanced STEM & beyond.
 - [*Problem: Applications in Mathematical Finance -- Bài Tập: Ứng Dụng Toán Học Trong 1 Số Vấn Đề Liên Quan Đến Tài Chính*]
 
 	+ [*Problem & Solution: Applications in Mathematical Finance -- Bài Tập & Lời Giải: Ứng Dụng Toán Học Trong 1 Số Vấn Đề Liên Quan Đến Tài Chính*]
-------
+
+## High School -- Trung Học Phổ Thông
 
 # Elementary Physics
 
