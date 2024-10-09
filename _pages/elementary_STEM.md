@@ -210,7 +210,7 @@ This writing is shared with advanced STEM & beyond.
 
 - [*Problem: Exponentiation & Logarithm -- Bài Tập: Hàm Số Mũ & Hàm Số Logarith*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/problem/NQBH_exponentiation_logarithm_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/problem/NQBH_exponentiation_logarithm_problem.tex)].
 
-	+ [*Problem & Solution: Exponentiation & Logarithm -- Bài Tập & Lời Giải: Hàm Số Mũ & Hàm Số Logarith*].(https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/probability_statistics/solution/NQBH_probability_statistics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/probability_statistics/solution/NQBH_probability_statistics_solution.tex)].
+	+ [*Problem & Solution: Exponentiation & Logarithm -- Bài Tập & Lời Giải: Hàm Số Mũ & Hàm Số Logarith*].(https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/problem/NQBH_exponentiation_logarithm_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/solution/NQBH_exponentiation_logarithm_solution.tex)].
 
 - [*Problem: Derivative -- Bài Tập: Đạo Hàm*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/derivative/problem/NQBH_derivative_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/derivative/problem/NQBH_derivative_problem.tex)].
 
