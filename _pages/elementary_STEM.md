@@ -130,12 +130,6 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem & Solution: Cylinder, Cone, Sphere -- Bài Tập & Lời Giải: Hình Trụ, Hình Nón, Hình Cầu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cylinder_cone_sphere/solution/NQBH_cylinder_cone_sphere_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cylinder_cone_sphere/solution/NQBH_cylinder_cone_sphere_solution.tex)].
 
-## Secondary School -- Trung Học Cơ Sở
-
-- [*Problem: Equation & Inequation -- Bài Tập: Phương Trình & Bất Phương Trình*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.tex)].
-
-	+ [*Problem & Solution: Equation & Inequation -- Bài Tập & Lời Giải: Phương Trình & Bất Phương Trình*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/solution/NQBH_equation_inequation_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/solution/NQBH_equation_inequation_solution.tex)].
-
 ## Grade 10
 
 - [*Cheatsheet: Elementary Mathematics Grade 10*].
@@ -246,47 +240,55 @@ This writing is shared with advanced STEM & beyond.
 
 **1st Semester**
 
-- [Problem: Application of Derivative to Survey & Draw Graph of Functions -- Bài Tập: Ứng Dụng Đạo Hàm Để Khảo Sát & Vẽ Đồ Thị Hàm Số](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.tex)].
+- [*Problem: Application of Derivative to Survey & Draw Graph of Functions -- Bài Tập: Ứng Dụng Đạo Hàm Để Khảo Sát & Vẽ Đồ Thị Hàm Số*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/problem/NQBH_derivative_application_problem.tex)].
 
-	+ [*Problem & Solution: Application of Derivative to Survey & Draw Graph of Functions -- Bài Tập & Lời Giải: Ứng Dụng Đạo Hàm Để Khảo Sát & Vẽ Đồ Thị Hàm Số*]
+	+ [*Problem & Solution: Application of Derivative to Survey & Draw Graph of Functions -- Bài Tập & Lời Giải: Ứng Dụng Đạo Hàm Để Khảo Sát & Vẽ Đồ Thị Hàm Số*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/solution/NQBH_derivative_application_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/derivative_application/solution/NQBH_derivative_application_solution.tex)].
 
-- [*Problem: 3D Coordinate Vector -- Bài Tập: Tọa Độ Của Vector Trong Không Gian*]
+- [*Problem: Coordinates of Vectors in 3D Space -- Bài Tập: Tọa Độ Của Vector Trong Không Gian*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/3D_vector/problem/NQBH_3D_vector_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/3D_vector/problem/NQBH_3D_vector_problem.tex)].
 	
-	+ [*Problem & Solution: 3D Coordinate Vector -- Bài Tập & Lời Giải: Tọa Độ Của Vector Trong Không Gian*]
+	+ [*Problem & Solution: Coordinates of Vectors in 3D Space -- Bài Tập & Lời Giải: Tọa Độ Của Vector Trong Không Gian*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/3D_vector/solution/NQBH_3D_vector_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/3D_vector/solution/NQBH_3D_vector_solution.tex)].
 
-- [*Problem: Statistical Sample -- Bài Tập: Các Số Đặc Trưng Đo Mức Độ Phân Tán Cho Mẫu Số Liệu Ghép Nhóm*]
+- [*Problem: Statistical Sample -- Bài Tập: Các Số Đặc Trưng Đo Mức Độ Phân Tán Cho Mẫu Số Liệu Ghép Nhóm*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/statistical_sample/problem/NQBH_probability_statistics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/statistical_sample/problem/NQBH_probability_statistics_problem.tex)].
 
-	+ [*Problem & Solution: Statistical Sample -- Bài Tập & Lời Giải: Các Số Đặc Trưng Đo Mức Độ Phân Tán Cho Mẫu Số Liệu Ghép Nhóm*]
+	+ [*Problem & Solution: Statistical Sample -- Bài Tập & Lời Giải: Các Số Đặc Trưng Đo Mức Độ Phân Tán Cho Mẫu Số Liệu Ghép Nhóm*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/statistical_sample/solution/NQBH_probability_statistics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/statistical_sample/solution/NQBH_probability_statistics_solution.tex)].
 
 **2nd Semester**
 
 - [*Problem: Antiderivative & Integral -- Bài Tập: Nguyên Hàm & Tích Phân*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/integral/problem/NQBH_integral_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/integral/problem/NQBH_integral_problem.tex)].
 
-	+ [*Problem & Solution: Antiderivative & Integral -- Bài Tập & Lời Giải: Nguyên Hàm & Tích Phân*]
+	+ [*Problem & Solution: Antiderivative & Integral -- Bài Tập & Lời Giải: Nguyên Hàm & Tích Phân*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/integral/solution/NQBH_integral_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/integral/solution/NQBH_integral_solution.tex)].
 
-- [*Problem: Plane, Line, Sphere Equations in 3D Space -- Bài Tập: Phương Trình Mặt Phẳng, Đường Thẳng, Mặt Cầu Trong Không Gian*]
+- [*Problem: Plane, Line, Sphere Equations in 3D Space -- Bài Tập: Phương Trình Mặt Phẳng, Đường Thẳng, Mặt Cầu Trong Không Gian*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/3D_plane_line_sphere_equation/problem/NQBH_3D_plane_line_sphere_equation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/3D_plane_line_sphere_equation/problem/NQBH_3D_plane_line_sphere_equation_problem.tex)].
 
-	+ [*Problem & Solution: Plane, Line, Sphere Equations in 3D Space -- Bài Tập & Lời Giải: Phương Trình Mặt Phẳng, Đường Thẳng, Mặt Cầu Trong Không Gian*]
+	+ [*Problem & Solution: Plane, Line, Sphere Equations in 3D Space -- Bài Tập & Lời Giải: Phương Trình Mặt Phẳng, Đường Thẳng, Mặt Cầu Trong Không Gian*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/3D_plane_line_sphere_equation/solution/NQBH_3D_plane_line_sphere_equation_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/3D_plane_line_sphere_equation/solution/NQBH_3D_plane_line_sphere_equation_solution.tex)].
 
-- [*Problem: Conditional Probability -- Bài Tập: Xác Suất Có Điều Kiện*]
+- [*Problem: Conditional Probability -- Bài Tập: Xác Suất Có Điều Kiện*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/conditional_probability/problem/NQBH_conditional_probability_problem). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/conditional_probability/problem/NQBH_conditional_probability_problem.tex)].
 
-	+ [*Problem & Solution: Conditional Probability -- Bài Tập & Lời Giải: Xác Suất Có Điều Kiện*]
+	+ [*Problem & Solution: Conditional Probability -- Bài Tập & Lời Giải: Xác Suất Có Điều Kiện*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/conditional_probability/solution/NQBH_conditional_probability_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/conditional_probability/solution/NQBH_conditional_probability_solution.tex)].
 
 **Chuyên Đề Học Tập**
 
-- [*Problem: Discrete Random Variable & Its Characteristics -- Bài Tập: Biến Ngẫu Nhiên Rời Rạc. Các Số Đặc Trưng Của Biến Ngẫu Nhiên Rời Rạc*]
+- [*Problem: Discrete Random Variable & Its Characteristics -- Bài Tập: Biến Ngẫu Nhiên Rời Rạc. Các Số Đặc Trưng Của Biến Ngẫu Nhiên Rời Rạc*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/discrete_random_variable/problem/NQBH_discrete_random_variable_problem). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/discrete_random_variable/problem/NQBH_discrete_random_variable_problem.tex)].
 
-	+ [*Problem & Solution: Discrete Random Variable & Its Characteristics -- Bài Tập & Lời Giải: Biến Ngẫu Nhiên Rời Rạc. Các Số Đặc Trưng Của Biến Ngẫu Nhiên Rời Rạc*]
+	+ [*Problem & Solution: Discrete Random Variable & Its Characteristics -- Bài Tập & Lời Giải: Biến Ngẫu Nhiên Rời Rạc. Các Số Đặc Trưng Của Biến Ngẫu Nhiên Rời Rạc*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/discrete_random_variable/solution/NQBH_discrete_random_variable_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/discrete_random_variable/solution/NQBH_discrete_random_variable_solution.tex)].
 
-- [*Problem: Mathematical Optimization -- Bài Tập: Ứng Dụng Toán Học Để Giải Quyết 1 Số Bài Toán Tối Ưu*]
+- [*Problem: Mathematical Optimization -- Bài Tập: Ứng Dụng Toán Học Để Giải Quyết 1 Số Bài Toán Tối Ưu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/optimization/problem/NQBH_optimization_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/optimization/problem/NQBH_optimization_problem.tex)].
 
-	+ [*Problem & Solution: Mathematical Optimization -- Bài Tập & Lời Giải: Ứng Dụng Toán Học Để Giải Quyết 1 Số Bài Toán Tối Ưu*]
+	+ [*Problem & Solution: Mathematical Optimization -- Bài Tập & Lời Giải: Ứng Dụng Toán Học Để Giải Quyết 1 Số Bài Toán Tối Ưu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/optimization/solution/NQBH_optimization_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/optimization/solution/NQBH_optimization_solution.tex)].
 
-- [*Problem: Applications in Mathematical Finance -- Bài Tập: Ứng Dụng Toán Học Trong 1 Số Vấn Đề Liên Quan Đến Tài Chính*]
+- [*Problem: Applications in Mathematical Finance -- Bài Tập: Ứng Dụng Toán Học Trong 1 Số Vấn Đề Liên Quan Đến Tài Chính*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/finance/problem/NQBH_finance_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/finance/problem/NQBH_finance_problem.tex)].
 
-	+ [*Problem & Solution: Applications in Mathematical Finance -- Bài Tập & Lời Giải: Ứng Dụng Toán Học Trong 1 Số Vấn Đề Liên Quan Đến Tài Chính*]
+	+ [*Problem & Solution: Applications in Mathematical Finance -- Bài Tập & Lời Giải: Ứng Dụng Toán Học Trong 1 Số Vấn Đề Liên Quan Đến Tài Chính*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/finance/solution/NQBH_finance_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_12/finance/solution/NQBH_finance_solution.tex)].
 
 ## High School -- Trung Học Phổ Thông
+
+- [*Some Classes of Solvable Polynomial Equations via Quadratic & Cubic Equations -- Một Số Lớp Phương Trình Bậc Cao Giải Được Nhờ Phương Trình Bậc 2 & Phương Trình Bậc 3*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/solvable_equation/NQBH_some_solvable_polynomials.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/solvable_equation/NQBH_some_solvable_polynomials.tex)].
+
+- [*Short VMO 2017 Training Course at Bến Tre High School for Gifted Students*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/CBT_VMO_training/NQBH_CBT_VMO_2017_training.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/CBT_VMO_training/NQBH_CBT_VMO_2017_training.tex)].
+
+- [*Problem: Equation & Inequation -- Bài Tập: Phương Trình & Bất Phương Trình*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/problem/NQBH_equation_inequation_problem.tex)].
+
+	+ [*Problem & Solution: Equation & Inequation -- Bài Tập & Lời Giải: Phương Trình & Bất Phương Trình*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/solution/NQBH_equation_inequation_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/solution/NQBH_equation_inequation_solution.tex)].
 
 # Elementary Physics
 
