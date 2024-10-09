@@ -122,9 +122,21 @@ This writing is shared with advanced STEM & beyond.
 
 **2nd Semester**
 
+- [*Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/probability_statistics/problem/NQBH_probability_statistics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/probability_statistics/problem/NQBH_probability_statistics_problem.tex)].
+
+	+ [*Problem & Solution: Probability & Statistics -- Bài Tập & Lời Giải: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/probability_statistics/solution/NQBH_probability_statistics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/probability_statistics/solution/NQBH_probability_statistics_solution.tex)].
+
 - [*Problem: 2nd-Order Function. Quadratic Equation. Bài Tập: Hàm Số Bậc 2 $y = ax^2,a\ne0$. Phương Trình Bậc 2 1 Ẩn $ax^2 + bx + c = 0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/problem/NQBH_2nd_order_function_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/problem/NQBH_2nd_order_function_problem.tex)].
 
 	+ [*Problem & Solution: 2nd-Order Function. Quadratic Equation. Bài Tập & Lời Giải: Hàm Số Bậc 2 $y = ax^2,a\ne0$. Phương Trình Bậc 2 1 Ẩn $ax^2 + bx + c = 0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/solution/NQBH_2nd_order_function_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/2nd_order_function/solution/NQBH_2nd_order_function_solution.tex)].
+
+- [*Problem: Circumcircle & Incircle -- Bài Tập: Đường Tròn Ngoại Tiếp & Đường Tròn Nội Tiếp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/circumcircle_incircle/problem/NQBH_circumcircle_incircle_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/circumcircle_incircle/problem/NQBH_circumcircle_incircle_problem.tex)].
+
+	+ [*Problem & Solution: Circumcircle & Incircle -- Bài Tập & Lời Giải: Đường Tròn Ngoại Tiếp & Đường Tròn Nội Tiếp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/circumcircle_incircle/solution/NQBH_circumcircle_incircle_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/circumcircle_incircle/solution/NQBH_circumcircle_incircle_solution.tex)].
+
+- [*Problem: Regular Polygons -- Bài Tập: Đa Giác Đều*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/regular_polygon/problem/NQBH_regular_polygon_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/regular_polygon/problem/NQBH_regular_polygon_problem.tex)].
+
+	+ [*Problem & Solution: Regular Polygons -- Bài Tập & Lời Giải: Đa Giác Đều*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/regular_polygon/solution/NQBH_regular_polygon_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/regular_polygon/solution/NQBH_regular_polygon_solution.tex)].
 
 - [*Problem: Cylinder, Cone, Sphere -- Bài Tập: Hình Trụ, Hình Nón, Hình Cầu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cylinder_cone_sphere/problem/NQBH_cylinder_cone_sphere_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/cylinder_cone_sphere/problem/NQBH_cylinder_cone_sphere_problem.tex)].
 
