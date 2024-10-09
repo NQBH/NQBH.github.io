@@ -186,53 +186,53 @@ This writing is shared with advanced STEM & beyond.
 
 **1st Semester**
 
-- [*Problem: Trigonometric Functions & Trigonometric Equation -- Bài Tập: Hàm Số Lượng Giác & Phương Trình Lượng Giác*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/problem/NQBH_trigonometric_equation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/problem/NQBH_trigonometric_equation_problem.tex)].
+- [*Problem: Trigonometric Functions & Trigonometric Equations -- Bài Tập: Hàm Số Lượng Giác & Phương Trình Lượng Giác*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/problem/NQBH_trigonometric_equation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/problem/NQBH_trigonometric_equation_problem.tex)].
 
-	+ [*Problem & Solution: Trigonometric Functions & Trigonometric Equation -- Bài Tập & Lời Giải: Hàm Số Lượng Giác & Phương Trình Lượng Giác*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/problem/NQBH_trigonometric_equation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/problem/NQBH_trigonometric_equation_problem.tex)].
+	+ [*Problem & Solution: Trigonometric Functions & Trigonometric Equations -- Bài Tập & Lời Giải: Hàm Số Lượng Giác & Phương Trình Lượng Giác*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/solution/NQBH_trigonometric_equation_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/trigonometric_equation/solution/NQBH_trigonometric_equation_solution.tex)].
 
-- [*Problem: Arithmetic & Geometric Progressions -- Bài Tập: Cấp Số Cộng & Cấp Số Nhân*]
+- [*Problem: Arithmetic & Geometric Progressions -- Bài Tập: Cấp Số Cộng & Cấp Số Nhân*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/progression/problem/NQBH_progression_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/progression/problem/NQBH_progression_problem.tex)].
 
-	+ [*Problem & Solution: Arithmetic & Geometric Progressions -- Bài Tập & Lời Giải: Cấp Số Cộng & Cấp Số Nhân*]
+	+ [*Problem & Solution: Arithmetic & Geometric Progressions -- Bài Tập & Lời Giải: Cấp Số Cộng & Cấp Số Nhân*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/progression/solution/NQBH_progression_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/progression/solution/NQBH_progression_solution.tex)].
 
 - [*Problem: Limit $\lim$ & Continuous Function -- Bài Tập: Giới Hạn $\lim$ & Hàm Số Liên Tục*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/limit/problem/NQBH_limit_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/limit/problem/NQBH_limit_problem.tex)].
 
-	+ [*Problem & Solution: Limit $\lim$ & Continuous Function -- Bài Tập & Lời Giải: Giới Hạn $\lim$ & Hàm Số Liên Tục*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/limit/problem/NQBH_limit_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/limit/problem/NQBH_limit_problem.tex)].
+	+ [*Problem & Solution: Limit $\lim$ & Continuous Function -- Bài Tập & Lời Giải: Giới Hạn $\lim$ & Hàm Số Liên Tục*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/limit/solution/NQBH_limit_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/limit/solution/NQBH_limit_solution.tex)].
 
-- [*Problem: Line & Plane in 3D Space. Parallel Relation -- Bài Tập: Đường Thẳng & Mặt Phẳng Trong Không Gian. Quan Hệ Song Song*]
+- [*Problem: Line & Plane in 3D Space. Parallel Relation -- Bài Tập: Đường Thẳng & Mặt Phẳng Trong Không Gian. Quan Hệ Song Song*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/parallel/problem/NQBH_parallel_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/parallel/problem/NQBH_parallel_problem.tex)].
 
-	+ [*Problem & Solution: Line & Plane in 3D Space. Parallel Relation -- Bài Tập & Lời Giải: Đường Thẳng & Mặt Phẳng Trong Không Gian. Quan Hệ Song Song*]
+	+ [*Problem & Solution: Line & Plane in 3D Space. Parallel Relation -- Bài Tập & Lời Giải: Đường Thẳng & Mặt Phẳng Trong Không Gian. Quan Hệ Song Song*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/parallel/solution/NQBH_parallel_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/parallel/solution/NQBH_parallel_solution.tex)].
 
 **2nd Semester**
 
-- [*Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê*]
+- [*Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/probability_statistics/problem/NQBH_probability_statistics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/probability_statistics/problem/NQBH_probability_statistics_problem.tex)].
 
 	+ [*Problem & Solution: Probability & Statistics -- Bài Tập & Lời Giải: Xác Suất & Thống Kê*]
 
 - [*Problem: Exponentiation & Logarithm -- Bài Tập: Hàm Số Mũ & Hàm Số Logarith*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/problem/NQBH_exponentiation_logarithm_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/problem/NQBH_exponentiation_logarithm_problem.tex)].
 
-	+ [*Problem & Solution: Exponentiation & Logarithm -- Bài Tập & Lời Giải: Hàm Số Mũ & Hàm Số Logarith*].
+	+ [*Problem & Solution: Exponentiation & Logarithm -- Bài Tập & Lời Giải: Hàm Số Mũ & Hàm Số Logarith*].(https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/probability_statistics/solution/NQBH_probability_statistics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/probability_statistics/solution/NQBH_probability_statistics_solution.tex)].
 
-- [*Problem: Derivative -- Bài Tập: Đạo Hàm*]
+- [*Problem: Derivative -- Bài Tập: Đạo Hàm*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/derivative/problem/NQBH_derivative_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/derivative/problem/NQBH_derivative_problem.tex)].
 
-	+ [*Problem & Solution: Derivative -- Bài Tập & Lời Giải: Đạo Hàm*]
+	+ [*Problem & Solution: Derivative -- Bài Tập & Lời Giải: Đạo Hàm*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/derivative/solution/NQBH_derivative_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/derivative/solution/NQBH_derivative_solution.tex)].
 
-- [*Problem: Perpendicular Relation in 3D Space. Orthographic Projection -- Bài Tập: Quan Hệ Vuông Góc Trong Không Gian 3D. Phép Chiếu Vuông Góc*]
+- [*Problem: Perpendicular Relation in 3D Space. Orthographic Projection -- Bài Tập: Quan Hệ Vuông Góc Trong Không Gian 3D. Phép Chiếu Vuông Góc*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/orthogonality/problem/NQBH_orthogonality_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/orthogonality/problem/NQBH_orthogonality_problem.tex)].
 
-	+ [*Problem & Solution: Perpendicular Relation in 3D Space. Orthographic Projection -- Bài Tập & Lời Giải: Quan Hệ Vuông Góc Trong Không Gian 3D. Phép Chiếu Vuông Góc*]
+	+ [*Problem & Solution: Perpendicular Relation in 3D Space. Orthographic Projection -- Bài Tập & Lời Giải: Quan Hệ Vuông Góc Trong Không Gian 3D. Phép Chiếu Vuông Góc*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/orthogonality/solution/NQBH_orthogonality_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/orthogonality/solution/NQBH_orthogonality_solution.tex)].
 
 **Chuyên Đề Học Tập**
 
-- [*Problem: Geometrical Transformation -- Bài Tập: Phép Biến Hình Phẳng*]
+- [*Problem: Geometrical Transformation -- Bài Tập: Phép Biến Hình Phẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/geometrical_transformation/problem/NQBH_geometrical_transformation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/geometrical_transformation/problem/NQBH_geometrical_transformation_problem.tex)].
 
-	+ [*Problem & Solution: Geometrical Transformation -- Bài Tập & Lời Giải: Phép Biến Hình Phẳng*]
+	+ [*Problem & Solution: Geometrical Transformation -- Bài Tập & Lời Giải: Phép Biến Hình Phẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/geometrical_transformation/solution/NQBH_geometrical_transformation_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/geometrical_transformation/solution/NQBH_geometrical_transformation_solution.tex)].
 
-- [*Problem: Graph Theory -- Bài Tập: Lý Thuyết Đồ Thị*]
+- [*Problem: Graph Theory -- Bài Tập: Lý Thuyết Đồ Thị*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/graph_theory/problem/NQBH_graph_theory_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/graph_theory/problem/NQBH_graph_theory_problem.tex)].
 
-	+ [*Problem & Solution: Graph Theory -- Bài Tập & Lời Giải: Lý Thuyết Đồ Thị*]
+	+ [*Problem & Solution: Graph Theory -- Bài Tập & Lời Giải: Lý Thuyết Đồ Thị*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/graph_theory/solution/NQBH_graph_theory_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/graph_theory/solution/NQBH_graph_theory_solution.tex)].
 
-- [*Problem: Technical Drawing -- Bài Tập: Vẽ Kỹ Thuật*]
+- [*Problem: Technical Drawing -- Bài Tập: Vẽ Kỹ Thuật*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/technical_drawing/problem/NQBH_technical_drawing_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/technical_drawing/problem/NQBH_technical_drawing_problem.tex)].
 
-	+ [*Problem & Solution: Technical Drawing -- Bài Tập & Lời Giải: Vẽ Kỹ Thuật*]
+	+ [*Problem & Solution: Technical Drawing -- Bài Tập & Lời Giải: Vẽ Kỹ Thuật*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/technical_drawing/solution/NQBH_technical_drawing_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/technical_drawing/solution/NQBH_technical_drawing_solution.tex)].
 
 ## Grade 12
 
