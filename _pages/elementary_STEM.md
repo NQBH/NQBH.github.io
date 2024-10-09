@@ -163,6 +163,7 @@ This writing is shared with advanced STEM & beyond.
 - [*Problem: Perpendicular Relation in 3D Space. Orthographic Projection -- Bài Tập: Quan Hệ Vuông Góc Trong Không Gian 3D. Phép Chiếu Vuông Góc*]
 
 	+ [*Problem & Solution: Perpendicular Relation in 3D Space. Orthographic Projection -- Bài Tập & Lời Giải: Quan Hệ Vuông Góc Trong Không Gian 3D. Phép Chiếu Vuông Góc*]
+
 **Chuyên Đề Học Tập**
 
 - [*Problem: Geometrical Transformation -- Bài Tập: Phép Biến Hình Phẳng*]
@@ -254,6 +255,10 @@ This writing is shared with advanced STEM & beyond.
 - [*Problem: Kinematic -- Bài Tập: (Chuyển) Động Học*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/kinematic/problem/NQBH_kinematic_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/kinematic/problem/NQBH_kinematic_problem.tex)].
 
 	+ [*Problem & Solution: Kinematic -- Bài Tập & Lời Giải: (Chuyển) Động Học*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/kinematic/solution/NQBH_kinematic_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/kinematic/solution/NQBH_kinematic_solution.tex)].
+
+- [*Problem: Dynamics -- Bài Tập: Động Lực Học*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/dynamics/problem/NQBH_dynamics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/dynamics/problem/NQBH_dynamics_problem.tex)] (cf. motivation to study -- động lực để học)
+
+	+ [*Problem \& Solution: Dynamics -- Bài Tập \& Lời Giải: Động Lực Học*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/dynamics/solution/NQBH_dynamics_solution.pdf).
 
 - [*Problem: Force & Motion -- Bài Tập: Lực & Chuyển Động*]
 
