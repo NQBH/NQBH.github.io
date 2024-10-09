@@ -140,17 +140,17 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem & Solution: Proposition & Set -- Bài Tập & Lời Giải: Mệnh Đề & Tập Hợp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/proposition_set/solution/NQBH_proposition_set_solution.pdf).
 
-- [*Problem: Inequation & Linear System of Inequations -- Bài Tập: Bất Phương Trình & Hệ Bất Phương Trình*]
+- [*Problem: Inequation & Linear System of Inequations -- Bài Tập: Bất Phương Trình & Hệ Bất Phương Trình*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/linear_system_inequations/problem/NQBH_linear_system_inequations_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/linear_system_inequations/problem/NQBH_linear_system_inequations_problem.tex)].
 
-	+ [*Problem & Solution: Inequation & Linear System of Inequations -- Bài Tập & Lời Giải: Bất Phương Trình & Hệ Bất Phương Trình*]
+	+ [*Problem & Solution: Inequation & Linear System of Inequations -- Bài Tập & Lời Giải: Bất Phương Trình & Hệ Bất Phương Trình*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/linear_system_inequations/solution/NQBH_linear_system_inequations_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/linear_system_inequations/solution/NQBH_linear_system_inequations_solution.tex)].
 
-- [*Problem: Function & Graph -- Bài Tập: Hàm Số & Đồ Thị*]
+- [*Problem: Function & Graph -- Bài Tập: Hàm Số & Đồ Thị*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/function_graph/problem/NQBH_function_graph_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/function_graph/problem/NQBH_function_graph_problem.tex)].
 
-	+ [*Problem & Solution: Function & Graph -- Bài Tập & Lời Giải: Hàm Số & Đồ Thị*]
+	+ [*Problem & Solution: Function & Graph -- Bài Tập & Lời Giải: Hàm Số & Đồ Thị*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/function_graph/solution/NQBH_function_graph_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/function_graph/solution/NQBH_function_graph_solution.tex)].
 
-- [*Problem: Trigonometrical Identities in Triangles -- Bài Tập: Hệ Thức Lượng Trong Tam Giác*]
+- [*Problem: Trigonometrical Identities in Triangles -- Bài Tập: Hệ Thức Lượng Trong Tam Giác*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/trigonometry/problem/NQBH_trigonometry_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/trigonometry/problem/NQBH_trigonometry_problem.tex)].
 
-	+ [*Problem & Solution: Trigonometrical Identities in Triangles -- Bài Tập & Lời Giải: Hệ Thức Lượng Trong Tam Giác*]
+	+ [*Problem & Solution: Trigonometrical Identities in Triangles -- Bài Tập & Lời Giải: Hệ Thức Lượng Trong Tam Giác*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/trigonometry/solution/NQBH_trigonometry_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/trigonometry/solution/NQBH_trigonometry_solution.tex)].
 
 - [*Problem: Vector -- Bài Tập: Vector*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/vector/problem/NQBH_vector_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/vector/problem/NQBH_vector_problem.tex)].
 
@@ -158,13 +158,13 @@ This writing is shared with advanced STEM & beyond.
 
 **2nd Semester**
 
-- [*Problem: Combinatorics -- Bài Tập: Đại Số Tổ Hợp*]
+- [*Problem: Combinatorics -- Bài Tập: Đại Số Tổ Hợp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/combinatorics/problem/NQBH_combinatorics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/combinatorics/problem/NQBH_combinatorics_problem.tex)].
 
-	+ [*Problem & Solution: Combinatorics -- Bài Tập & Lời Giải: Đại Số Tổ Hợp*]
+	+ [*Problem & Solution: Combinatorics -- Bài Tập & Lời Giải: Đại Số Tổ Hợp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/combinatorics/solution/NQBH_combinatorics_solution). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/combinatorics/solution/NQBH_combinatorics_solution.tex)].
 
-- [*Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê*]
+- [*Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/probability_statistics/problem/NQBH_probability_statistics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/probability_statistics/problem/NQBH_probability_statistics_problem.tex)].
 
-	+ [*Problem & Solution: Probability & Statistics -- Bài Tập & Lời Giải: Xác Suất & Thống Kê*]
+	+ [*Problem & Solution: Probability & Statistics -- Bài Tập & Lời Giải: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/probability_statistics/solution/NQBH_probability_statistics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/probability_statistics/solution/NQBH_probability_statistics_solution.tex)].
 
 - [*Problem: 2D Method of Cartesian Coordinates -- Bài Tập: Phương Pháp Tọa Độ Cartesian Trong Mặt Phẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/problem/NQBH_2D_method_coordinate_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/2D_method_coordinate/problem/NQBH_2D_method_coordinate_problem.tex)].
 
@@ -172,13 +172,13 @@ This writing is shared with advanced STEM & beyond.
 
 **Chuyên Đề Học Tập**
 
-- [*Problem: Mathematical Induction & Newton Binomial -- Bài Tập: Phương Pháp Quy Nạp Toán Học & Nhị Thức Newton*]
+- [*Problem: Mathematical Induction & Newton Binomial -- Bài Tập: Phương Pháp Quy Nạp Toán Học & Nhị Thức Newton*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/induction/problem/NQBH_mathematical_induction_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/induction/problem/NQBH_mathematical_induction_problem.tex)].
 
-	+ [*Problem & Solution: Mathematical Induction & Newton Binomial -- Bài Tập & Lời Giải: Phương Pháp Quy Nạp Toán Học & Nhị Thức Newton*]
+	+ [*Problem & Solution: Mathematical Induction & Newton Binomial -- Bài Tập & Lời Giải: Phương Pháp Quy Nạp Toán Học & Nhị Thức Newton*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/induction/solution/NQBH_mathematical_induction_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/induction/solution/NQBH_mathematical_induction_solution.tex)].
 
-- [*Problem: 3 Conics -- Bài Tập: 3 Đường Conic*]
+- [*Problem: 3 Conics -- Bài Tập: 3 Đường Conic*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/conic/problem/NQBH_conics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/conic/problem/NQBH_conics_problem.tex)].
 
-	+ [*Problem & Solution: 3 Conics -- Bài Tập & Lời Giải: 3 Đường Conic*]
+	+ [*Problem & Solution: 3 Conics -- Bài Tập & Lời Giải: 3 Đường Conic*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/conic/solution/NQBH_conics_solution.pdf). [[TeX]https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/conic/solution/NQBH_conics_solution.tex].
 
 ## Grade 11
 
@@ -210,7 +210,7 @@ This writing is shared with advanced STEM & beyond.
 
 - [*Problem: Exponentiation & Logarithm -- Bài Tập: Hàm Số Mũ & Hàm Số Logarith*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/problem/NQBH_exponentiation_logarithm_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/problem/NQBH_exponentiation_logarithm_problem.tex)].
 
-	+ [*Problem & Solution: Exponentiation & Logarithm -- Bài Tập & Lời Giải: Hàm Số Mũ & Hàm Số Logarith*].(https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/problem/NQBH_exponentiation_logarithm_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/solution/NQBH_exponentiation_logarithm_solution.tex)].
+	+ [*Problem & Solution: Exponentiation & Logarithm -- Bài Tập & Lời Giải: Hàm Số Mũ & Hàm Số Logarith*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/problem/NQBH_exponentiation_logarithm_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/exponentiation_logarithm/solution/NQBH_exponentiation_logarithm_solution.tex)].
 
 - [*Problem: Derivative -- Bài Tập: Đạo Hàm*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/derivative/problem/NQBH_derivative_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_11/derivative/problem/NQBH_derivative_problem.tex)].
 
