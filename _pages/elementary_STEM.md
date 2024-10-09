@@ -258,19 +258,19 @@ This writing is shared with advanced STEM & beyond.
 
 - [*Problem: Dynamics -- Bài Tập: Động Lực Học*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/dynamics/problem/NQBH_dynamics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/dynamics/problem/NQBH_dynamics_problem.tex)] (cf. motivation to study -- động lực để học)
 
-	+ [*Problem \& Solution: Dynamics -- Bài Tập \& Lời Giải: Động Lực Học*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/dynamics/solution/NQBH_dynamics_solution.pdf).
+	+ [*Problem & Solution: Dynamics -- Bài Tập & Lời Giải: Động Lực Học*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/dynamics/solution/NQBH_dynamics_solution.pdf).
 
 - [*Problem: Force & Motion -- Bài Tập: Lực & Chuyển Động*]
 
 	+ [*Problem & Solution: Force & Motion -- Bài Tập & Lời Giải: Lực & Chuyển Động*]
 
-- [*Problem: Energy, Work, {\it\&} Productivity\\Bài Tập: Năng Lượng, Công, {\it\&} Công Suất*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/energy/problem/NQBH_energy_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/energy/problem/NQBH_energy_problem.tex)].
+- [*Problem: Energy, Work, & Productivity -- Bài Tập: Năng Lượng, Công, & Công Suất*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/energy/problem/NQBH_energy_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/energy/problem/NQBH_energy_problem.tex)].
 
-	+ [*Problem \& Solution: Energy, Work, \it\& Productivity -- Bài Tập \& Lời Giải: Năng Lượng, Công, {\it\&} Công Suất*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/energy/solution/NQBH_energy_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/energy/solution/NQBH_energy_solution.tex)].
+	+ [*Problem & Solution: Energy, Work, & Productivity -- Bài Tập & Lời Giải: Năng Lượng, Công, & Công Suất*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/energy/solution/NQBH_energy_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/energy/solution/NQBH_energy_solution.tex)].
 
 - [*Problem: Momentum -- Bài Tập: Động Lượng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/problem/NQBH_momentum_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/problem/NQBH_momentum_problem.tex)].
 
-	+ [*Problem \& Solution: Momentum -- Bài Tập \& Lời Giải: Động Lượng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/solution/NQBH_momentum_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/solution/NQBH_momentum_solution.tex)].
+	+ [*Problem & Solution: Momentum -- Bài Tập & Lời Giải: Động Lượng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/solution/NQBH_momentum_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/solution/NQBH_momentum_solution.tex)].
 
 - [*Problem: Circular Motion -- Bài Tập: Chuyển Động Tròn & Biến Dạng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/circular_motion/problem/NQBH_circular_motion_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/circular_motion/problem/NQBH_circular_motion_problem.tex)].
 
