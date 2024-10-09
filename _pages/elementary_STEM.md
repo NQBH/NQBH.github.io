@@ -268,6 +268,10 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem \& Solution: Energy, Work, \it\& Productivity -- Bài Tập \& Lời Giải: Năng Lượng, Công, {\it\&} Công Suất*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/energy/solution/NQBH_energy_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/energy/solution/NQBH_energy_solution.tex)].
 
+- [*Problem: Momentum -- Bài Tập: Động Lượng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/problem/NQBH_momentum_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/problem/NQBH_momentum_problem.tex)].
+
+	+ [*Problem \& Solution: Momentum -- Bài Tập \& Lời Giải: Động Lượng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/solution/NQBH_momentum_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_10/momentum/solution/NQBH_momentum_solution.tex)].
+
 - [*Problem: Circular Motion & Deformation -- Bài Tập: Chuyển Động Tròn & Biến Dạng*]
 
 	+ [*Problem & Solution: Circular Motion & Deformation -- Bài Tập & Lời Giải: Chuyển Động Tròn & Biến Dạng*]
