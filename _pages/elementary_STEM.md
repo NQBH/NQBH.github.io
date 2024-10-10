@@ -64,11 +64,23 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem & Solution: Real $\mathbb{R}$ -- Bài Tập & Lời Giải: Số Thực $\mathbb{R}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/real/solution/NQBH_real_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/real/solution/NQBH_real_solution.tex)].
 
-- [*Problem: Angle & Line -- Bài Tập: Góc & Đường Thẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_line/problem/NQBH_angle_line_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_line/problem/NQBH_angle_line_problem.tex)].
+- [*Problem: Rectangular Prism \& Prism -- Bài Tập: Hình Hộp Chữ Nhật \& Hình Lăng Trụ Đứng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/prism/problem/NQBH_prism_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/prism/problem/NQBH_prism_problem.tex)].
 
-	+ [*Problem & Solution: Angle & Line -- Bài Tập & Lời Giải: Góc & Đường Thẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_line/solution/NQBH_angle_line_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_line/solution/NQBH_angle_line_solution.tex)].
+	+ [*Problem & Solution: Rectangular Prism \& Prism -- Bài Tập & Lời Giải: Hình Hộp Chữ Nhật \& Hình Lăng Trụ Đứng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/prism/solution/NQBH_prism_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/prism/solution/NQBH_prism_solution.tex)].
 
-**1st Semester**
+- [*Problem: Angle & Parallel Lines -- Bài Tập: Góc & Đường Thẳng Song Song*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_parallel_line/problem/NQBH_angle_parallel_line_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_parallel_line/problem/NQBH_angle_parallel_line_problem.tex)].
+
+	+ [*Problem & Solution: Angle & Parallel Lines -- Bài Tập & Lời Giải: Góc & Đường Thẳng Song Song*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_parallel_line/solution/NQBH_angle_parallel_line_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/angle_parallel_line/solution/NQBH_angle_parallel_line_solution.tex)].
+
+**2nd Semester**
+
+- [*Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/probability_statistics/problem/NQBH_probability_statistics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/probability_statistics/problem/NQBH_probability_statistics_problem.tex)].
+
+	+ [*Problem & Solution: Probability & Statistics -- Bài Tập & Lời Giải: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/probability_statistics/solution/NQBH_probability_statistics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/probability_statistics/solution/NQBH_probability_statistics_solution.tex)]
+
+- [*Problem: Algebraic Expression -- Bài Tập: Biểu Thức Đại Số*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/algebraic_expression/problem/NQBH_algebraic_expression_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/algebraic_expression/problem/NQBH_algebraic_expression_problem.tex)].
+
+	+ [*Problem & Solution: Algebraic Expression -- Bài Tập & Lời Giải: Biểu Thức Đại Số*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/algebraic_expression/problem/NQBH_algebraic_expression_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/algebraic_expression/problem/NQBH_algebraic_expression_solution.tex)].
 
 - [*Problem: Congruent Triangles -- Bài Tập: Tam Giác Bằng Nhau $\Delta = \Delta'$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/congruent_triangle/problem/NQBH_congruent_triangle_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_7/congruent_triangle/problem/NQBH_congruent_triangle_problem.tex)].
 
