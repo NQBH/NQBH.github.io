@@ -110,8 +110,8 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem \& Solution: 1st-Order Polynomial Equation with 1 Variable $ax + b = 0$ -- Bài Tập \& Lời Giải: Phương Trình Bậc Nhất 1 Ẩn $ax + b = 0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_polynomial_equation_1_variable/problem/NQBH_1st_order_polynomial_equation_1_variable.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_polynomial_equation_1_variable/problem/NQBH_1st_order_polynomial_equation_1_variable.tex)].
 
-- [*Problem: Similar Triangles & Similar Shapes -- Bài Tập: Tam Giác Đồng Dạng & Hình Đồng Dạng*]
-	+ [*Problem & Solution: Similar Triangles & Similar Shapes -- Bài Tập & Lời Giải: Tam Giác Đồng Dạng & Hình Đồng Dạng*]
+- [*Problem: Similar Triangles & Similar Shapes -- Bài Tập: Tam Giác Đồng Dạng & Hình Đồng Dạng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/similar_triangle/problem/NQBH_similar_triangle_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/similar_triangle/problem/NQBH_similar_triangle_problem.tex)].
+	+ [*Problem & Solution: Similar Triangles & Similar Shapes -- Bài Tập & Lời Giải: Tam Giác Đồng Dạng & Hình Đồng Dạng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/similar_triangle/solution/NQBH_similar_triangle_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/similar_triangle/solution/NQBH_similar_triangle_solution.tex)].
 
 ## Grade 9
 
