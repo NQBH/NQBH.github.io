@@ -80,19 +80,38 @@ This writing is shared with advanced STEM & beyond.
 
 **1st Semester**
 
-- [*Problem: 1st-Order Function -- Bài Tập: Hàm Số Bậc Nhất $y = ax + b,a\ne0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/problem/NQBH_1st_order_function_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/problem/NQBH_1st_order_function_problem.tex)].
+- [*Problem: Multivariate Polynomial $\mathbb{R}[{\bf x}]$ -- Bài Tập: Đa Thức Nhiều Biến $\mathbb{R}[{\bf x}]$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/multivariate_polynomial/problem/NQBH_multivariate_polynomial_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/multivariate_polynomial/problem/NQBH_multivariate_polynomial_problem.tex)].
 
-	+ [*Problem & Solution: 1st-Order Function -- Bài Tập & Lời Giải: Hàm Số Bậc Nhất $y = ax + b,a\ne0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/solution/NQBH_1st_order_function_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/solution/NQBH_1st_order_function_solution.tex)].
+	+ [*Problem & Solution: Multivariate Polynomial $\mathbb{R}[{\bf x}]$ -- Bài Tập & Lời Giải: Đa Thức Nhiều Biến $\mathbb{R}[{\bf x}]$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/multivariate_polynomial/solution/NQBH_multivariate_polynomial_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/multivariate_polynomial/solution/NQBH_multivariate_polynomial_solution.tex)].
 
 - [*Problem: Algebraic & Rational Fractions -- Bài Tập: Phân Thức Đại Số & Phân Thức Đại Số Hữu Tỷ*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/algebraic_rational_fractions/problem/NQBH_algebraic_rational_fractions_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/algebraic_rational_fractions/problem/NQBH_algebraic_rational_fractions_problem.tex)].
 
 	+ [*Problem & Solution: Algebraic & Rational Fractions -- Bài Tập & Lời Giải: Phân Thức Đại Số & Phân Thức Đại Số Hữu Tỷ*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/algebraic_rational_fractions/solution/NQBH_algebraic_rational_fractions_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/algebraic_rational_fractions/solution/NQBH_algebraic_rational_fractions_solution.tex)].
 
-- [*Problem: Multivariate Polynomial $\mathbb{R}[{\bf x}]$ -- Bài Tập: Đa Thức Nhiều Biến $\mathbb{R}[{\bf x}]$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/multivariate_polynomial/problem/NQBH_multivariate_polynomial_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/multivariate_polynomial/problem/NQBH_multivariate_polynomial_problem.tex)].
+- [*Problem: 1st-Order Function -- Bài Tập: Hàm Số Bậc Nhất $y = ax + b,a\ne0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/problem/NQBH_1st_order_function_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/problem/NQBH_1st_order_function_problem.tex)].
 
-	+ [*Problem & Solution: Multivariate Polynomial $\mathbb{R}[{\bf x}]$ -- Bài Tập & Lời Giải: Đa Thức Nhiều Biến $\mathbb{R}[{\bf x}]$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/multivariate_polynomial/solution/NQBH_multivariate_polynomial_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/multivariate_polynomial/solution/NQBH_multivariate_polynomial_solution.tex)].
+	+ [*Problem & Solution: 1st-Order Function -- Bài Tập & Lời Giải: Hàm Số Bậc Nhất $y = ax + b,a\ne0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/solution/NQBH_1st_order_function_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_function/solution/NQBH_1st_order_function_solution.tex)].
+
+- [*Problem: Regular Triangular Pyramids & Regular Quadrilateral Pyramids -- Bài Tập: Hình Chóp Tam Giác Đều & Hình Chóp Tứ Giác Đều*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/pyramid/problem/NQBH_pyramid_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/pyramid/problem/NQBH_pyramid_problem.tex)].
+
+	+ [*Problem & Solution: Regular Triangular Pyramids & Regular Quadrilateral Pyramids -- Bài Tập & Lời Giải: Hình Chóp Tam Giác Đều & Hình Chóp Tứ Giác Đều*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/pyramid/solution/NQBH_pyramid_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/pyramid/solution/NQBH_pyramid_solution.tex)].
+
+- [*Problem: Triangles & Quadrilaterals -- Bài Tập: Tam Giác & Tứ Giác*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/triangle_quadrilateral/problem/NQBH_triangle_quadrilateral_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/triangle_quadrilateral/problem/NQBH_triangle_quadrilateral_problem.tex)].
+
+	+ [*Problem & Solution: Triangles & Quadrilaterals -- Bài Tập & Lời Giải: Tam Giác & Tứ Giác*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/triangle_quadrilateral/solution/NQBH_triangle_quadrilateral_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/triangle_quadrilateral/solution/NQBH_triangle_quadrilateral_solution.tex)].
 
 **2nd Semester**
+
+- [*Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/probability_statistics/problem/NQBH_probability_statistics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/probability_statistics/problem/NQBH_probability_statistics_problem.tex)].
+
+	+ [*Problem & Solution: Probability & Statistics -- Bài Tập & Lời Giải: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/probability_statistics/solution/NQBH_probability_statistics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/probability_statistics/solution/NQBH_probability_statistics_solution.tex)].
+
+- [*1st-Order Polynomial Equation with 1 Variable -- Phương Trình Bậc Nhất 1 Ẩn $ax + b = 0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_polynomial_equation_1_variable/problem/NQBH_1st_order_polynomial_equation_1_variable.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_polynomial_equation_1_variable/problem/NQBH_1st_order_polynomial_equation_1_variable.tex)].
+
+	+ [*Problem \& Solution: 1st-Order Polynomial Equation with 1 Variable $ax + b = 0$ -- Bài Tập \& Lời Giải: Phương Trình Bậc Nhất 1 Ẩn $ax + b = 0$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_polynomial_equation_1_variable/problem/NQBH_1st_order_polynomial_equation_1_variable.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_8/1st_order_polynomial_equation_1_variable/problem/NQBH_1st_order_polynomial_equation_1_variable.tex)].
+
+- [*Problem: Similar Triangles & Similar Shapes -- Bài Tập: Tam Giác Đồng Dạng & Hình Đồng Dạng*]
+	+ [*Problem & Solution: Similar Triangles & Similar Shapes -- Bài Tập & Lời Giải: Tam Giác Đồng Dạng & Hình Đồng Dạng*]
 
 ## Grade 9
 
@@ -104,17 +123,17 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem & Solution: System of 1st-Order Equations $A{\bf x} = B$ -- Bài Tập & Lời Giải: Hệ Phương Trình Bậc Nhất $A{\bf x} = B$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/system_1st_order_equations/solution/NQBH_system_1st_order_equations_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/system_1st_order_equations/solution/NQBH_system_1st_order_equations_solution.tex)].
 
-- [*Problem: Inequality. 1st-Order 1-Unknown Inequation -- Bài Tập: Bất Đẳng Thức. Bất Phương Trình Bậc Nhất 1 Ẩn*]
+- [*Problem: Inequality. 1st-Order 1-Unknown Inequation -- Bài Tập: Bất Đẳng Thức. Bất Phương Trình Bậc Nhất 1 Ẩn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/1st_order_inequation/problem/NQBH_1st_order_inequation_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/1st_order_inequation/problem/NQBH_1st_order_inequation_problem.tex)].
 
-	+ [*Problem & Solution: Inequality. 1st-Order 1-Unknown Inequation -- Bài Tập & Lời Giải: Bất Đẳng Thức. Bất Phương Trình Bậc Nhất 1 Ẩn*]
+	+ [*Problem & Solution: Inequality. 1st-Order 1-Unknown Inequation -- Bài Tập & Lời Giải: Bất Đẳng Thức. Bất Phương Trình Bậc Nhất 1 Ẩn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/1st_order_inequation/solution/NQBH_1st_order_inequation_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/1st_order_inequation/solution/NQBH_1st_order_inequation_solution.tex)].
 
 - [*Problem: Root $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$ -- Bài Tập: Căn Thức $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/problem/NQBH_root_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/problem/NQBH_root_problem.tex)].
 
 	+ [*Problem & Solution: Root $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$ -- Bài Tập & Lời Giải: Căn Thức $\sqrt{f(x)},\sqrt[3]{f(x)},\sqrt[n]{f(x)}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/solution/NQBH_root_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/root/solution/NQBH_root_solution.tex)].
 
-- [*Problem: Trigonometry in Triangles -- Bài Tập: Hệ Thức Lượng Trong Tam Giác*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.tex)].
+- [*Problem: Trigonometry in Triangles -- Bài Tập: Hệ Thức Lượng Trong Tam Giác $\sin\alpha,\cos\alpha,\tan\alpha,\cot\alpha$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/trigonometry/problem/NQBH_trigonometry_problem.tex)].
 
-	+ [*Problem & Solution: Trigonometry in Triangles -- Bài Tập & Lời Giải: Hệ Thức Lượng Trong Tam Giác*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.tex)].
+	+ [*Problem & Solution: Trigonometry in Triangles -- Bài Tập & Lời Giải: Hệ Thức Lượng Trong Tam Giác $\sin\alpha,\cos\alpha,\tan\alpha,\cot\alpha$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/trigonometry/solution/NQBH_trigonometry_solution.tex)].
 
 - [*Problem: Circle -- Bài Tập: Đường Tròn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/circle/problem/NQBH_circle_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_9/circle/problem/NQBH_circle_problem.tex)].
 
