@@ -32,19 +32,19 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem & Solution: Integer $\mathbb{Z}$ -- Bài Tập & Lời Giải: Số Nguyên $\mathbb{Z}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/integer/solution/NQBH_integer_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/integer/solution/NQBH_integer_solution.tex)].
 
-- [*Problem: Fraction & Decimal $\mathbb{Q}$ -- Bài Tập: Phân Số & Số Thập Phân $\mathbb{Q}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/problem/NQBH_fraction_decimal_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/problem/NQBH_fraction_decimal_problem.tex)].
+- [*Problem: Visual Geometry -- Bài Tập: Hình Học Trực Quan*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/problem/NQBH_visual_geometry_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/problem/NQBH_visual_geometry_problem.tex)].
 
-	+ [*Problem & Solution: Fraction & Decimal $\mathbb{Q}$ -- Bài Tập & Lời Giải: Phân Số & Số Thập Phân $\mathbb{Q}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/solution/NQBH_fraction_decimal_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/solution/NQBH_fraction_decimal_solution.tex)].
+	+ [*Problem & Solution: Visual Geometry -- Bài Tập & Lời Giải: Hình Học Trực Quan*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/solution/NQBH_visual_geometry_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/solution/NQBH_visual_geometry_solution.tex)].
 
 **2nd Semester**
 
 - [*Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/problem/NQBH_probability_statistics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/problem/NQBH_probability_statistics_problem.tex)].
 
 	+ [*Problem & Solution: Probability & Statistics -- Bài Tập & Lời Giải: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/solution/NQBH_probability_statistics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/solution/NQBH_probability_statistics_solution.tex)].
+	
+- [*Problem: Fraction & Decimal $\mathbb{Q}$ -- Bài Tập: Phân Số & Số Thập Phân $\mathbb{Q}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/problem/NQBH_fraction_decimal_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/problem/NQBH_fraction_decimal_problem.tex)].
 
-- [*Problem: Visual Geometry -- Bài Tập: Hình Học Trực Quan*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/problem/NQBH_visual_geometry_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/problem/NQBH_visual_geometry_problem.tex)].
-
-	+ [*Problem & Solution: Visual Geometry -- Bài Tập & Lời Giải: Hình Học Trực Quan*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/solution/NQBH_visual_geometry_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/solution/NQBH_visual_geometry_solution.tex)].
+	+ [*Problem & Solution: Fraction & Decimal $\mathbb{Q}$ -- Bài Tập & Lời Giải: Phân Số & Số Thập Phân $\mathbb{Q}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/solution/NQBH_fraction_decimal_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/solution/NQBH_fraction_decimal_solution.tex)].
 
 - [*Problem: 2D/Plane Geometry -- Bài Tập: Hình Học Phẳng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/plane_geometry/problem/NQBH_plane_geometry_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/plane_geometry/problem/NQBH_plane_geometry_problem.tex)].
 
