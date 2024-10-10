@@ -41,7 +41,7 @@ This writing is shared with advanced STEM & beyond.
 - [*Problem: Probability & Statistics -- Bài Tập: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/problem/NQBH_probability_statistics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/problem/NQBH_probability_statistics_problem.tex)].
 
 	+ [*Problem & Solution: Probability & Statistics -- Bài Tập & Lời Giải: Xác Suất & Thống Kê*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/solution/NQBH_probability_statistics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/probability_statistics/solution/NQBH_probability_statistics_solution.tex)].
-	
+
 - [*Problem: Fraction & Decimal $\mathbb{Q}$ -- Bài Tập: Phân Số & Số Thập Phân $\mathbb{Q}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/problem/NQBH_fraction_decimal_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/problem/NQBH_fraction_decimal_problem.tex)].
 
 	+ [*Problem & Solution: Fraction & Decimal $\mathbb{Q}$ -- Bài Tập & Lời Giải: Phân Số & Số Thập Phân $\mathbb{Q}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/solution/NQBH_fraction_decimal_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/fraction_decimal/solution/NQBH_fraction_decimal_solution.tex)].
@@ -221,7 +221,7 @@ This writing is shared with advanced STEM & beyond.
 
 - [*Problem: 3 Conics -- Bài Tập: 3 Đường Conic*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/conic/problem/NQBH_conics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/conic/problem/NQBH_conics_problem.tex)].
 
-	+ [*Problem & Solution: 3 Conics -- Bài Tập & Lời Giải: 3 Đường Conic*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/conic/solution/NQBH_conics_solution.pdf). [[TeX]https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/conic/solution/NQBH_conics_solution.tex].
+	+ [*Problem & Solution: 3 Conics -- Bài Tập & Lời Giải: 3 Đường Conic*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/conic/solution/NQBH_conics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_10/conic/solution/NQBH_conics_solution.tex)].
 
 ## Grade 11
 
