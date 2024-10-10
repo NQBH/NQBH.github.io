@@ -32,10 +32,18 @@ This writing is shared with elementary STEM & beyond.
 
 ## Personal Expository Notes
 
-- [*Linear Algebra & Abstract Algebra -- Đại Số Tuyến Tính & Đại Số Trừu Tượng*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.pdf). `...`
-- [*Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). `...`
-- [*Probability & Statistics -- Xác Suất & Thống Kê*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.pdf). `...`
-- [*Mathematical Optimization -- Toán Tối Ưu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.pdf). `...`
+- [*Linear Algebra & Abstract Algebra -- Đại Số Tuyến Tính & Đại Số Trừu Tượng*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.tex)]. `...`
+- [*Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.tex)]. `...`
+- [*Probability & Statistics -- Xác Suất & Thống Kê*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.tex)] `...`
+- [*Mathematical Optimization -- Toán Tối Ưu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.tex)]. `...`
+
+------
+
+# Computer & Advanced Computer Science
+
+## Personal Expository Notes
+
+- [*Computer -- Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.tex)]. `...`
 
 ------
 
