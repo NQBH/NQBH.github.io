@@ -20,6 +20,8 @@ This writing is shared with elementary STEM & beyond.
 
 # Advanced Mathematics
 
+**Remark.** [Cf. elmSTEM vs. advSTEM] *Unlike series Elementary STEM & Beyond, in this series Advanced Elementary STEM & Beyond, I do not use the structure `advanced_{mathematics,physics,chemistry,computer_science}` since I will merge them all: towards the ultimate unification of Natural Science. Some topics in Social Science will be investigated in my short novel above & will be splitted if necessary & having enough wisdoms.*
+
 ## Research Interests
 
 - *Partial Differential Equations*: Porous Medium equations (PMEs), Navier--Stokes equations (NSEs).
