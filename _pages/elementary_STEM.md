@@ -25,11 +25,9 @@ This writing is shared with advanced STEM & beyond.
 **1st Semester**
 
 - [*Problem: Natural $\mathbb{N}$ -- Bài Tập: Số Tự Nhiên $\mathbb{N}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/natural/problem/NQBH_natural_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/natural/problem/NQBH_natural_problem.tex)].
-
 	+ [*Problem & Solution: Natural $\mathbb{N}$ -- Bài Tập & Lời Giải: Số Tự Nhiên $\mathbb{N}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/natural/solution/NQBH_natural_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/natural/solution/NQBH_natural_solution.tex)].
 
 - [*Problem: Integer $\mathbb{Z}$ -- Bài Tập: Số Nguyên $\mathbb{Z}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/integer/problem/NQBH_integer_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/integer/problem/NQBH_integer_problem.tex)].
-
 	+ [*Problem & Solution: Integer $\mathbb{Z}$ -- Bài Tập & Lời Giải: Số Nguyên $\mathbb{Z}$*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/integer/solution/NQBH_integer_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/integer/solution/NQBH_integer_solution.tex)].
 
 - [*Problem: Visual Geometry -- Bài Tập: Hình Học Trực Quan*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/problem/NQBH_visual_geometry_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/grade_6/visual_geometry/problem/NQBH_visual_geometry_problem.tex)].
