@@ -331,6 +331,8 @@ This writing is shared with advanced STEM & beyond.
 
 	+ [*Problem & Solution: Equation & Inequation -- Bài Tập & Lời Giải: Phương Trình & Bất Phương Trình*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/solution/NQBH_equation_inequation_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/equation_inequation/solution/NQBH_equation_inequation_solution.tex)].
 
+- [*Functional Equation -- Phương Trình Hàm*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/functional_equation/NQBH_functional_equation.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/functional_equation/NQBH_functional_equation.tex)].
+
 # Elementary Physics
 
 ## Grade 6
