@@ -335,7 +335,7 @@ This writing is shared with advanced STEM & beyond.
 
 - [*Elementary Inequality -- Bất Đẳng Thức Sơ Cấp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/inequality/NQBH_inequality.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/inequality/NQBH_inequality.tex)].
 
-	+ [*A substitution & its application to prove inequalities -- 1 Cách Đổi Biến & Ứng Dụng Trong Chứng Minh Bất Đẳng Thức*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/inequality/substitution/NQBH_a_substitution_in_proving_inequality.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/inequality/substitution/NQBH_a_substitution_in_proving_inequality.tex)].
+	+ [*A Substitution & Its Application To Prove Inequalities -- 1 Cách Đổi Biến & Ứng Dụng Trong Chứng Minh Bất Đẳng Thức*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/inequality/substitution/NQBH_a_substitution_in_proving_inequality.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/inequality/substitution/NQBH_a_substitution_in_proving_inequality.tex)].
 
 # Elementary Physics
 
