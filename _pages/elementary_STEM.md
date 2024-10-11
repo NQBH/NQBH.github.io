@@ -333,6 +333,10 @@ This writing is shared with advanced STEM & beyond.
 
 - [*Functional Equation -- Phương Trình Hàm*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/functional_equation/NQBH_functional_equation.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/functional_equation/NQBH_functional_equation.tex)].
 
+- [*Elementary Inequality -- Bất Đẳng Thức Sơ Cấp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/inequality/NQBH_inequality.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/inequality/NQBH_inequality.tex)].
+
+	+ [*A substitution & its application to prove inequalities -- 1 Cách Đổi Biến & Ứng Dụng Trong Chứng Minh Bất Đẳng Thức*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/inequality/substitution/NQBH_a_substitution_in_proving_inequality.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_mathematics/inequality/substitution/NQBH_a_substitution_in_proving_inequality.tex)].
+
 # Elementary Physics
 
 ## Grade 6
