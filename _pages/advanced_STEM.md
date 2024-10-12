@@ -18,6 +18,8 @@ This writing is shared with elementary STEM & beyond.
 
 ------
 
+- [*Universities & Research Institutes -- Trường Đại Học & Viện Nghiên Cứu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.tex)].
+
 # Advanced Mathematics
 
 **Remark.** [Cf. elmSTEM vs. advSTEM] *Unlike series Elementary STEM & Beyond, in this series Advanced Elementary STEM & Beyond, I do not use the structure `advanced_{mathematics,physics,chemistry,computer_science}` since I will merge them all: towards the ultimate unification of Natural Science. Some topics in Social Science will be investigated in my short novel above & will be splitted if necessary & having enough wisdoms.*
