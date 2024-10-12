@@ -16,6 +16,10 @@ This writing is shared with advanced STEM & beyond.
 >   
 > Tiểu thuyết ngắn này bao gồm 1 số bài viết của tôi, những bài có thể chia sẻ được & tôi tự nguyện chia sẻ chúng, để mài bén các dòng suy nghĩ của tôi hơn, để cân bằng với các công việc nghiên cứu khoa học thông qua muôn vàn các hình thái nghệ thuật, & để đánh dấu các bước chuyển mình về mặt tâm lý & trí tuệ của tôi từ 1 cậu nhóc trở thành 1 người đàn ông trưởng thành nếu có bất cứ sự thay đổi nào xảy ra.
 
+# Bridges to Advanced STEM
+
+- [*Universities & Research Institutes -- Trường Đại Học & Viện Nghiên Cứu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.tex)].
+
 # Elementary Mathematics
 
 ## Grade 6
