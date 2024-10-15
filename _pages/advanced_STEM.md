@@ -16,17 +16,15 @@ This writing is shared with elementary STEM & beyond.
 >   
 > Tiểu thuyết ngắn này bao gồm 1 số bài viết của tôi, những bài có thể chia sẻ được & tôi tự nguyện chia sẻ chúng, để mài bén các dòng suy nghĩ của tôi hơn, để cân bằng với các công việc nghiên cứu khoa học thông qua muôn vàn các hình thái nghệ thuật, & để đánh dấu các bước chuyển mình về mặt tâm lý & trí tuệ của tôi từ 1 cậu nhóc trở thành 1 người đàn ông trưởng thành nếu có bất cứ sự thay đổi nào xảy ra.
 
+- [*Universities & Research Institutes -- Trường Đại Học & Viện Nghiên Cứu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.tex)].
+
 # Social Sciences [SS] -- Khoa Học Xã hội [KHXH]
 
 - [*Psychology $\Psi$ -- Tâm Lý Học $\Psi$*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/psychology/NQBH_psychology.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/psychology/NQBH_psychology.tex)].
 
 - [*Philosophy $\Phi$ -- Triết Học $\Phi$*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/philosophy/NQBH_philosophy.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/philosophy/NQBH_philosophy.tex)].
 
-- [*Neuroscience -- Khoa Học Thần Kinh*].
-
-------
-
-- [*Universities & Research Institutes -- Trường Đại Học & Viện Nghiên Cứu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.tex)].
+- [*Neuroscience -- Khoa Học Thần Kinh*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/neuroscience/NQBH_neuroscience.pdf). [[TeX]](https://github.com/NQBH/advanced_STEM_beyond/blob/main/neuroscience/NQBH_neuroscience.tex).
 
 # Natural Sciences [NS] -- Khoa Học Tự Nhiên [KHTN]
 
