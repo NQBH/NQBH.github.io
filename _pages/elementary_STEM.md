@@ -10,7 +10,7 @@ Some Topics in Elementary STEM & Beyond
 ======
 
 This writing is shared with advanced STEM & beyond.
-- [*Some Thoughts on Learning, Teaching, & Research: A Short Novel -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). `...`
+- **Book/Novel.** [*Some Thoughts on Learning, Teaching, & Research: A Short Novel -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). `...`
 
 > This short novel consists of some pieces of my writing, which are able to be shared & I am willing to share, in order to sharpen my flows of thoughts, to balance my scientific work via various aesthetic forms, & to track psychologically & mentally my transitions from boyhood to manhood if there is any.  
 >   

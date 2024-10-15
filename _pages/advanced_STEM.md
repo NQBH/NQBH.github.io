@@ -10,21 +10,31 @@ Some Topics in Advanced STEM & Beyond
 ======
 
 This writing is shared with elementary STEM & beyond.
-- [*Some Thoughts on Learning, Teaching, & Research: A Short Novel -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). `...`
+- **Book/Novel.** [*Some Thoughts on Learning, Teaching, & Research: A Short Novel -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). `...`
 
 > This short novel consists of some pieces of my writing, which are able to be shared & I am willing to share, in order to sharpen my flows of thoughts, to balance my scientific work via various aesthetic forms, & to track psychologically & mentally my transitions from boyhood to manhood if there is any.  
 >   
 > Tiểu thuyết ngắn này bao gồm 1 số bài viết của tôi, những bài có thể chia sẻ được & tôi tự nguyện chia sẻ chúng, để mài bén các dòng suy nghĩ của tôi hơn, để cân bằng với các công việc nghiên cứu khoa học thông qua muôn vàn các hình thái nghệ thuật, & để đánh dấu các bước chuyển mình về mặt tâm lý & trí tuệ của tôi từ 1 cậu nhóc trở thành 1 người đàn ông trưởng thành nếu có bất cứ sự thay đổi nào xảy ra.
 
+# Social Sciences -- Khoa Học Xã hội
+
+- [*Psychology $\Psi$ -- Tâm Lý Học $\Psi$*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/psychology/NQBH_psychology.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/psychology/NQBH_psychology.tex)].
+
+- [*Philosophy $\Phi$ -- Triết Học $\Phi$*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/philosophy/NQBH_philosophy.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/philosophy/NQBH_philosophy.tex)].
+
+- [*Neuroscience -- Khoa Học Thần Kinh*].
+
 ------
 
 - [*Universities & Research Institutes -- Trường Đại Học & Viện Nghiên Cứu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.tex)].
 
-# Advanced Mathematics
+# Natural Sciences -- Khoa Học Tự Nhiên
+
+## Advanced Mathematics
 
 **Remark.** [Cf. elmSTEM vs. advSTEM] *Unlike series Elementary STEM & Beyond, in this series Advanced Elementary STEM & Beyond, I do not use the structure `advanced_{mathematics,physics,chemistry,computer_science}` since I will merge them all: towards the ultimate unification of Natural Science. Some topics in Social Science will be investigated in my short novel above & will be splitted if necessary & having enough wisdoms.*
 
-## Research Interests
+### Research Interests
 
 - *Partial Differential Equations*: Porous Medium equations (PMEs), Navier--Stokes equations (NSEs).
 - *Fluid mechanics*: Turbulence models $k$-$\epsilon$, $k$-$\omega$.
@@ -32,26 +42,26 @@ This writing is shared with elementary STEM & beyond.
 
 ------
 
-## Personal Expository Notes
+### Personal Expository Notes
 
 - [*Linear Algebra & Abstract Algebra -- Đại Số Tuyến Tính & Đại Số Trừu Tượng*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.tex)]. `...`
 - [*Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.tex)]. `...`
 - [*Probability & Statistics -- Xác Suất & Thống Kê*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.tex)] `...`
 - [*Mathematical Optimization -- Toán Tối Ưu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.tex)]. `...`
 
-# Advanced Physics
+## Advanced Physics
 
 ------
 
-# Advanced Computer Science
+## Advanced Computer Science
 
-## Personal Expository Notes
+### Personal Expository Notes
 
 - [*Computer -- Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.tex)]. `...`
 
 ------
 
-# Publications
+## Publications
 There are some peer-reviewed publications I wrote or joined to write but decided to remove my publication name in those to avoid any conflict & for the good, thus I do not & will not mention them here.
 
 - Nguyen Anh Dao, Jesus Ildefonso Díaz, Quan Ba Hong Nguyen. *Pointwise gradient estimates in multi-dimensional slow diffusion equations with a singular quenching term*. Advanced Nonlinear Studies. 2020. DOI: [`10.1515/ans-2020-2076`](https://www.degruyter.com/document/doi/10.1515/ans-2020-2076/html). [`pdf`](https://github.com/NQBH/reference/blob/master/Dao_Diaz_Nguyen2020.pdf)
