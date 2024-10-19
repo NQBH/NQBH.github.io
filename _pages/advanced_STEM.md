@@ -20,6 +20,8 @@ This writing is shared with elementary STEM & beyond.
 
 # Social Sciences [SS] -- Khoa Học Xã hội [KHXH]
 
+- [*Literary -- Văn Chương*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/literary/NQBH_literary.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/literary/NQBH_literary.tex)].
+
 - [*Psychology $\Psi$ -- Tâm Lý Học $\Psi$*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/psychology/NQBH_psychology.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/psychology/NQBH_psychology.tex)].
 
 - [*Philosophy $\Phi$ -- Triết Học $\Phi$*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/philosophy/NQBH_philosophy.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/philosophy/NQBH_philosophy.tex)].
