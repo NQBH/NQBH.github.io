@@ -10,7 +10,7 @@ Some Topics in Advanced STEM & Beyond
 ======
 
 This writing is shared with elementary STEM & beyond.
-- **Book/Novel.** [*Some Thoughts on Learning, Teaching, & Research: A Short Novel -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). `...`
+- **Book/Novel.** [*Some Thoughts on Learning, Teaching, & Research: A Short Novel -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf).
 
 > This short novel consists of some pieces of my writing, which are able to be shared & I am willing to share, in order to sharpen my flows of thoughts, to balance my scientific work via various aesthetic forms, & to track psychologically & mentally my transitions from boyhood to manhood if there is any.  
 >   
@@ -48,10 +48,10 @@ This writing is shared with elementary STEM & beyond.
 
 ### Personal Expository Notes
 
-- [*Linear Algebra & Abstract Algebra -- Đại Số Tuyến Tính & Đại Số Trừu Tượng*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.tex)]. `...`
-- [*Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.tex)]. `...`
-- [*Probability & Statistics -- Xác Suất & Thống Kê*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.tex)] `...`
-- [*Mathematical Optimization -- Toán Tối Ưu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.tex)]. `...`
+- [*Linear Algebra & Abstract Algebra -- Đại Số Tuyến Tính & Đại Số Trừu Tượng*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.tex)].
+- [*Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.tex)].
+- [*Probability & Statistics -- Xác Suất & Thống Kê*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.tex)]
+- [*Mathematical Optimization -- Toán Tối Ưu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.tex)].
 
 ## Advanced Physics
 
@@ -61,7 +61,7 @@ This writing is shared with elementary STEM & beyond.
 
 ### Personal Expository Notes
 
-- [*Computer -- Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.tex)]. `...`
+- [*Computer -- Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.tex)].
 
 ------
 
