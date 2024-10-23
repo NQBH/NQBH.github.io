@@ -19,17 +19,17 @@ About NQBH
 ======
 
 **Job**:
-- Writer:  [Novelist]
+- Writer -- Nhà văn:  Novelist (self-employed) -- Tiểu Thuyết Gia (thể loại công việc mà tôi tự mướn mình làm trong lúc thất nghiệp trá hình).
 
-- Educator: Elementary \{Mathematics, Physics, Chemistry, Natural Science, Computer Science\} Teacher/Tutor.
+- Educator -- Nhà giáo dục: Elementary \{Mathematics, Physics, Chemistry, Natural Science, Computer Science\} Teacher/Tutor.
 
-- Pure Mathematician wannabe: Mathematical Analyst.
+- Pure Mathematician wannabe -- Nhà Toán học Thuần túy wannabe: Mathematical Analyst -- Nhà Giải tích Toán học.
 
-- Applied Mathematician (transferred from failed Pure Mathematician wannabe): Fluid Dynamist.
+- Applied Mathematician -- Nhà Toán học Ứng dụng (transferred from failed Pure Mathematician wannabe): Fluid Dynamist -- Nhà nghiên cứu về Động lực học Chất Lỏng.
 
-**Personality**: Highly introverted, Highly Sensitive/Hypersensitive (HSP), Agreeable- & Disagreeable Giver(s) (being Matcher(s) sometimes but never being Taker(s)).
+**Personality**: Highly introverted, Highly Sensitive/Hypersensitive (HSP), Agreeable- & Disagreeable Giver(s), being Matcher(s) sometimes but never being Taker(s).
 
-> If you think you can read me psychologically easily, i.e., understand 1 of my personalities, then try to comprehend all of my personalities. -- Nếu bạn nghĩ rằng bạn có thể đọc vị tâm lý của tôi 1 cách dễ dàng, i.e., hiểu nhân cách của tôi, thì hãy thử thấu hiểu tất cả các nhân cách của tôi.
+> If you think you can read me psychologically easily, i.e., understand 1 of my personalities, then try to comprehend all of them. -- Nếu bạn nghĩ rằng bạn có thể đọc vị tâm lý của tôi 1 cách dễ dàng, i.e., hiểu nhân cách của tôi, thì hãy thử thấu hiểu tất cả chúng.
 
 **Curriculum Vitae (CV).** [CV](https://github.com/NQBH/publication/blob/master/CV/NQBH_CV.pdf).
 
@@ -43,6 +43,20 @@ Writings
 > This short novel consists of some pieces of my writing, which are able to be shared & I am willing to share, in order to sharpen my flows of thoughts, to balance my scientific work via various aesthetic forms, & to track psychologically & mentally my transitions from boyhood to manhood if there is any.  
 >   
 > Tiểu thuyết ngắn này bao gồm 1 số bài viết của tôi, những bài có thể chia sẻ được & tôi tự nguyện chia sẻ chúng, để mài bén các dòng suy nghĩ của tôi hơn, để cân bằng với các công việc nghiên cứu khoa học thông qua muôn vàn các hình thái nghệ thuật, & để đánh dấu các bước chuyển mình về mặt tâm lý & trí tuệ của tôi từ 1 cậu nhóc trở thành 1 người đàn ông trưởng thành nếu có bất cứ sự thay đổi nào xảy ra.
+
+------
+
+> "The 2 most important days in your life are the day you are born & the day you find out why." -- Mark Twain
+
+> "The essence of mathematics lies in its freedom." -- Georg Cantor
+
+> "It is true that a mathematician who is not somewhat of a poet, will never be a perfect mathematician." -- Karl Weierstrass
+
+(The doube *"ss"* in the end of Weierstrass's name should be the character ß, i.e., beta-like symbol: Eszett, in his original name in German. Trust me: I knew it since I worked at Weierstrass Institute in Berlin, Germany for 1.5 years.)
+
+> "In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will. Man takes up the sword in order to shield the small wound in his heart sustained in a far-off time beyond remembrance. Man wields the sword so that he may die smiling in some far-off time beyond perception." -- Kentaro Miura, Berserk, Vol. 1
+
+> "Providence may guide a man to meet 1 specific person, even if such guidance eventually leads him to darkness. Man simply cannot forsake the beauty of his own chosen path. When will man learn a way to control his soul?" -- Kentaro Miura, Berserk
 
 ------
 
