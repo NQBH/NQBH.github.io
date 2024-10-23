@@ -18,10 +18,10 @@ toc: true
 About NQBH
 ======
 
-**Job**:
+**Career**:
 - *Writer -- Nhà văn* (self-employed): Novelist -- Tiểu Thuyết Gia (thể loại công việc mà tôi tự mướn mình làm trong lúc thất nghiệp trá hình).
 
-- *Educator -- Nhà Giáo Dục*: Elementary \{Mathematics, Physics, Chemistry, Natural Science, Computer Science\} Teacher/Tutor -- Giáo viên/Gia sư về Toán Sơ Cấp, Vật Lý Sơ Cấp, Hóa học Sơ Cấp, Khoa Học Tự Nhiên Sơ Cấp, Tin học/Khoa học Máy Tính Sơ Cấp.
+- *Educator -- Nhà Giáo Dục*: Elementary \{Mathematics, Physics, Chemistry, Natural Science, Computer Science\} Teacher/Tutor -- Giáo viên/Gia sư về Toán Sơ Cấp, Vật Lý Sơ Cấp, Hóa Học Sơ Cấp, Khoa Học Tự Nhiên Sơ Cấp, Tin học/Khoa học Máy Tính Sơ Cấp.
 
 - *Pure Mathematician wannabe -- Nhà Toán học Thuần túy wannabe*: Mathematical Analyst -- Nhà Giải tích Toán học.
 
@@ -35,6 +35,8 @@ About NQBH
 
 **E-mail.** <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
+------
+
 Writings
 ======
 
@@ -45,6 +47,8 @@ Writings
 > Tiểu thuyết ngắn này bao gồm 1 số bài viết của tôi, những bài có thể chia sẻ được & tôi tự nguyện chia sẻ chúng, để mài bén các dòng suy nghĩ của tôi hơn, để cân bằng với các công việc nghiên cứu khoa học thông qua muôn vàn các hình thái nghệ thuật, & để đánh dấu các bước chuyển mình về mặt tâm lý & trí tuệ của tôi từ 1 cậu nhóc trở thành 1 người đàn ông trưởng thành nếu có bất cứ sự thay đổi nào xảy ra.
 
 ------
+
+# Quotes
 
 > "The 2 most important days in your life are the day you are born & the day you find out why." -- Mark Twain
 
