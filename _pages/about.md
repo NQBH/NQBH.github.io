@@ -15,6 +15,16 @@ toc: true
 
 ------
 
+About NQBH
+======
+
+*Job*: Writer, Novelist, Educator, Applied Mathematician (transferred from failed Pure Mathematician wannabe).
+
+*Personality*: Highly introverted, highly sensitive/hypersensitive (HSP), agreeable- & disagreeable giver(s) (being Matcher(s) sometimes but never being Taker(s)).
+If you think you can read me psychologically easily, i.e., understand 1 of my personality, then try to comprehend all of my personalities. -- Nếu bạn nghĩ rằng bạn có thể đọc vị tâm lý của tôi 1 cách dễ dàng, i.e., hiểu nhân cách của tôi, thì hãy thử thấu hiểu tất cả các nhân cách của tôi.
+
+[CV](https://github.com/NQBH/publication/blob/master/CV/NQBH_CV.pdf).
+
 Writings
 ======
 
