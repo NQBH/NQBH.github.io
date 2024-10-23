@@ -19,17 +19,17 @@ About NQBH
 ======
 
 **Job**:
-- Writer -- Nhà văn:  Novelist (self-employed) -- Tiểu Thuyết Gia (thể loại công việc mà tôi tự mướn mình làm trong lúc thất nghiệp trá hình).
+- *Writer -- Nhà văn* (self-employed): Novelist -- Tiểu Thuyết Gia (thể loại công việc mà tôi tự mướn mình làm trong lúc thất nghiệp trá hình).
 
-- Educator -- Nhà giáo dục: Elementary \{Mathematics, Physics, Chemistry, Natural Science, Computer Science\} Teacher/Tutor.
+- *Educator -- Nhà Giáo Dục*: Elementary \{Mathematics, Physics, Chemistry, Natural Science, Computer Science\} Teacher/Tutor -- Giáo viên/Gia sư về Toán Sơ Cấp, Vật Lý Sơ Cấp, Hóa học Sơ Cấp, Khoa Học Tự Nhiên Sơ Cấp, Tin học/Khoa học Máy Tính Sơ Cấp.
 
-- Pure Mathematician wannabe -- Nhà Toán học Thuần túy wannabe: Mathematical Analyst -- Nhà Giải tích Toán học.
+- *Pure Mathematician wannabe -- Nhà Toán học Thuần túy wannabe*: Mathematical Analyst -- Nhà Giải tích Toán học.
 
-- Applied Mathematician -- Nhà Toán học Ứng dụng (transferred from failed Pure Mathematician wannabe): Fluid Dynamist -- Nhà nghiên cứu về Động lực học Chất Lỏng.
+- *Applied Mathematician -- Nhà Toán học Ứng dụng* (transferred from failed Pure Mathematician wannabe): Fluid Dynamist -- Nhà nghiên cứu về Động lực học Chất Lỏng.
 
-**Personality**: Highly introverted, Highly Sensitive/Hypersensitive (HSP), Agreeable- & Disagreeable Giver(s), being Matcher(s) sometimes but never being Taker(s).
+**Personality**: Highly/Hyper Introverted, Highly/Hyper Sensitive (HSP), Agreeable- & Disagreeable Giver(s), being Matcher(s) sometimes but never being Taker(s).
 
-> If you think you can read me psychologically easily, i.e., understand 1 of my personalities, then try to comprehend all of them. -- Nếu bạn nghĩ rằng bạn có thể đọc vị tâm lý của tôi 1 cách dễ dàng, i.e., hiểu nhân cách của tôi, thì hãy thử thấu hiểu tất cả chúng.
+> If you think you can read me psychologically easily, i.e., understand 1 of my personalities, then try to comprehend all of them. -- Nếu bạn nghĩ rằng bạn có thể đọc vị tâm lý của tôi 1 cách dễ dàng, i.e., hiểu 1 trong các nhân cách của tôi, thì cứ thử thấu hiểu tất cả chúng.
 
 **Curriculum Vitae (CV).** [CV](https://github.com/NQBH/publication/blob/master/CV/NQBH_CV.pdf).
 
