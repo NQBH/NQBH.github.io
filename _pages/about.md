@@ -40,7 +40,9 @@ About NQBH
 Writings
 ======
 
-- **Book/Novel.** [*Some Thoughts on Learning, Teaching, & Research: A Short Novel -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). `...`
+*Convention -- Quy ước.* `...`: still writing, unfinished.
+
+- **Book/Novel.** [*Some Thoughts on Learning, Teaching, & Research: A Short Novel -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.tex)] `...`
   + [*Universities & Research Institutes -- Trường Đại Học & Viện Nghiên Cứu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.tex)].
   + [*Psychological Manipulation -- Thao Túng Tâm Lý*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/psychological_manipulation/NQBH_psychological_manipulation.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/psychological_manipulation/NQBH_psychological_manipulation.tex)]. Written on Christmas Eve, Dec 2020.
   + [*Comments, Contributors, & Payments/Donations -- Bình Luận, Đóng Góp, & Thanh Toán/Quyên Góp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/comment_donation/NQBH_learning_teaching_research_comment_donation.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/comment_donation/NQBH_learning_teaching_research_comment_donation.tex)].
