@@ -53,6 +53,8 @@ This writing is shared with elementary STEM & beyond.
 
 ## Advanced Physics
 
+### Personal Expository Notes
+
 - [*Physics -- Vật Lý*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/physics/NQBH_physics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/physics/NQBH_physics.tex)].
 
 ------
@@ -62,6 +64,12 @@ This writing is shared with elementary STEM & beyond.
 ### Personal Expository Notes
 
 - [*Computer -- Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.tex)].
+
+------
+
+## Advanced Chemistry
+
+### Personal Expository Notes
 
 ------
 
