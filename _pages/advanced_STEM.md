@@ -25,6 +25,8 @@ This writing is shared with elementary STEM & beyond.
 - [*Psychology $\Psi$ -- Tâm Lý Học $\Psi$*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/psychology/NQBH_psychology.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/psychology/NQBH_psychology.tex)].
 - [*Philosophy $\Phi$ -- Triết Học $\Phi$*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/philosophy/NQBH_philosophy.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/philosophy/NQBH_philosophy.tex)].
 - [*Neuroscience -- Khoa Học Thần Kinh*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/neuroscience/NQBH_neuroscience.pdf). [[TeX]](https://github.com/NQBH/advanced_STEM_beyond/blob/main/neuroscience/NQBH_neuroscience.tex).
+- [*Sociology -- Xã Hội Học*].
+- [*Economy -- Kinh Tế Học*].
 
 # Natural Sciences [NS] -- Khoa Học Tự Nhiên [KHTN]
 
@@ -68,6 +70,12 @@ This writing is shared with elementary STEM & beyond.
 ------
 
 ## Advanced Chemistry
+
+### Personal Expository Notes
+
+------
+
+## Advanced Biology
 
 ### Personal Expository Notes
 
