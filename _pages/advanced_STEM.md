@@ -53,6 +53,8 @@ This writing is shared with elementary STEM & beyond.
 
 ## Advanced Physics
 
+- [*Physics -- Vật Lý*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/physics/NQBH_physics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/physics/NQBH_physics.tex)].
+
 ------
 
 ## Advanced Computer Science
