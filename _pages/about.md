@@ -15,7 +15,7 @@ toc: true
 
 ------
 
-About NQBH
+About [NQBH]
 ======
 
 **Career**:
@@ -37,7 +37,7 @@ About NQBH
 
 ------
 
-Writings
+Writings -- Viết Lách
 ======
 
 *Convention -- Quy ước.* `...`: still writing, unfinished.
@@ -66,6 +66,13 @@ Writings
 > "In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will. Man takes up the sword in order to shield the small wound in his heart sustained in a far-off time beyond remembrance. Man wields the sword so that he may die smiling in some far-off time beyond perception." -- Kentaro Miura, Berserk, Vol. 1
 
 > "Providence may guide a man to meet 1 specific person, even if such guidance eventually leads him to darkness. Man simply cannot forsake the beauty of his own chosen path. When will man learn a way to control his soul?" -- Kentaro Miura, Berserk
+
+------
+
+# Hobby -- Sở Thích
+
+- [*Anime, Manga, Manhwa, Movie, Music, Quote, Sport*](https://github.com/NQBH/hobby/blob/master/anime_manga_movie_music_quote/NQBH_anime_manga_movie_music_quote.pdf). [[Tex](https://github.com/NQBH/hobby/blob/master/anime_manga_movie_music_quote/NQBH_anime_manga_movie_music_quote.tex)].
+
 
 ------
 
