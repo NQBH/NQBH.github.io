@@ -19,7 +19,7 @@ About [NQBH]
 ======
 
 **Career**:
-- *Writer -- Nhà văn* (self-employed): Novelist -- Tiểu Thuyết Gia (thể loại công việc mà tôi tự mướn mình làm trong lúc thất nghiệp trá hình).
+- *Author & Writer -- Tác Giả & Nhà văn* (self-employed): Novelist -- Tiểu Thuyết Gia (thể loại công việc mà tôi tự mướn mình làm trong lúc thất nghiệp trá hình).
 
 - *Educator -- Nhà Giáo Dục*: Elementary \{Mathematics, Physics, Chemistry, Natural Science, Computer Science\} Teacher/Tutor -- Giáo viên/Gia sư về Toán Sơ Cấp, Vật Lý Sơ Cấp, Hóa Học Sơ Cấp, Khoa Học Tự Nhiên Sơ Cấp, Tin học/Khoa học Máy Tính Sơ Cấp.
 
