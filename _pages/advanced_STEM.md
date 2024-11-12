@@ -52,6 +52,7 @@ This writing is shared with elementary STEM & beyond.
 - [*Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.tex)].
 - [*Probability & Statistics -- Xác Suất & Thống Kê*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.tex)]
 - [*Mathematical Optimization -- Toán Tối Ưu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.tex)].
+- [*Number Theory -- Lý Thuyết Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/number_theory/NQBH_number_theory.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/number_theory/NQBH_number_theory.tex)].
 
 ## Advanced Physics
 
