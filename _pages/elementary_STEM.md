@@ -289,8 +289,8 @@ This writing is shared with advanced STEM & beyond.
 ## Grade 12
 
 - [*Cheatsheet: Elementary Physics Grade 12*]
-- [*Problem: Thermodynamics -- Bài Tập: Vật Lý Nhiệt*]
-	+ [*Problem & Solution: Thermodynamics -- Bài Tập & Lời Giải: Vật Lý Nhiệt*]
+- [*Problem: Thermo Physics -- Bài Tập: Vật Lý Nhiệt*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/thermal_physics/problem/NQBH_thermal_physics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/thermal_physics/problem/NQBH_thermal_physics_problem.tex)].
+	+ [*Problem & Solution: Thermodynamics -- Bài Tập & Lời Giải: Vật Lý Nhiệt*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/thermal_physics/solution/NQBH_thermal_physics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/thermal_physics/solution/NQBH_thermal_physics_solution.tex)].
 - [*Problem: Ideal Gas -- Bài Tập: Khí Lý Tưởng*]
 	+ [*Problem & Solution: Ideal Gas -- Bài Tập & Lời Giải: Khí Lý Tưởng*]
 - [*Problem: Magnetic Field -- Bài Tập: Từ Trường*]
