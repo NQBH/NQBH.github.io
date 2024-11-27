@@ -291,8 +291,8 @@ This writing is shared with advanced STEM & beyond.
 - [*Cheatsheet: Elementary Physics Grade 12*]
 - [*Problem: Thermo Physics -- Bài Tập: Vật Lý Nhiệt*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/thermal_physics/problem/NQBH_thermal_physics_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/thermal_physics/problem/NQBH_thermal_physics_problem.tex)].
 	+ [*Problem & Solution: Thermodynamics -- Bài Tập & Lời Giải: Vật Lý Nhiệt*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/thermal_physics/solution/NQBH_thermal_physics_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/thermal_physics/solution/NQBH_thermal_physics_solution.tex)].
-- [*Problem: Ideal Gas -- Bài Tập: Khí Lý Tưởng*]
-	+ [*Problem & Solution: Ideal Gas -- Bài Tập & Lời Giải: Khí Lý Tưởng*]
+- [*Problem: Ideal Gas -- Bài Tập: Khí Lý Tưởng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/ideal_gas/problem/NQBH_ideal_gas_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/ideal_gas/problem/NQBH_ideal_gas_problem.tex)].
+	+ [*Problem & Solution: Ideal Gas -- Bài Tập & Lời Giải: Khí Lý Tưởng*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/ideal_gas/solution/NQBH_ideal_gas_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_physics/grade_12/ideal_gas/solution/NQBH_ideal_gas_solution.tex)].
 - [*Problem: Magnetic Field -- Bài Tập: Từ Trường*]
 	+ [*Problem & Solution: Magnetic Field -- Bài Tập & Lời Giải: Từ Trường*]
 - [*Problem: Nuclear Physics -- Bài Tập: Vật Lý Hạt Nhân*]
