@@ -71,7 +71,7 @@ Writings -- Viết Lách
 
 # Hobby -- Sở Thích
 
-- [*Anime, Manga, Manhwa, Movie, Music, Quote, Sport*](https://github.com/NQBH/hobby/blob/master/anime_manga_movie_music_quote/NQBH_anime_manga_movie_music_quote.pdf). [[Tex](https://github.com/NQBH/hobby/blob/master/anime_manga_movie_music_quote/NQBH_anime_manga_movie_music_quote.tex)].
+- [*Hobby: Anime, Cook, Manga, Manhwa, Movie, Lyrics, Music, Quote, Sport, Video, etc.*](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.pdf). [[Tex](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.tex)].
 
 
 ------
