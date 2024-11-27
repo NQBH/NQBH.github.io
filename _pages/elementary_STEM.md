@@ -353,8 +353,8 @@ This writing is shared with advanced STEM & beyond.
 ## Grade 12
 
 - [*Cheatsheet: Elementary Chemistry Grade 12*]
-- [*Problem: Ester-Lipid -- Bài Tập: Ester-Lipid*]
-	+ [*Problem & Solution: Ester-Lipid -- Bài Tập & Lời Giải: Ester-Lipid*]
+- [*Problem: Ester-Lipid -- Bài Tập: Ester-Lipid*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_chemistry/grade_12/ester_lipid/problem/NQBH_ester_lipid_problem.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_chemistry/grade_12/ester_lipid/problem/NQBH_ester_lipid_problem.tex)].
+	+ [*Problem & Solution: Ester-Lipid -- Bài Tập & Lời Giải: Ester-Lipid*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_chemistry/grade_12/ester_lipid/solution/NQBH_ester_lipid_solution.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/elementary_chemistry/grade_12/ester_lipid/solution/NQBH_ester_lipid_solution.tex)]
 - [*Problem: Carbohydrate -- Bài Tập: Carbohydrate*]
 	+ [*Problem & Solution: Carbohydrate -- Bài Tập & Lời Giải: Carbohydrate*]
 - [*Problem: Nitrogen Compound -- Bài Tập: Hợp Chất Chứa Nitrogen*]
