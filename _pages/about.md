@@ -53,7 +53,7 @@ Writings -- Viết Lách
 >
 > [fr] Ce court roman est constitué de quelques morceaux de mes écrits, qui peuvent être partagés. Je suis prêt à partager, afin d'aiguiser mes flux de pensées, d'équilibrer mon travail scientifique via diverses formes esomethingétiques, de suivre psychologiquement et mentalement mes transitions de l'enfance à l'âge adulte s'il y en a.  
 >
-> [de] Dieser Kurzroman besteht aus einigen Teilen meines Schreibens, die geteilt werden können {\it\&} Ich bin bereit, sie zu teilen, um meine Gedankenflüsse zu schärfen, meine wissenschaftliche Arbeit durch verschiedene äsomethingetische Formen auszubalancieren, {\it\&} um meine Übergänge vom Jungen- zum Mannesalter psychologisch und mental zu verfolgen, falls es welche gibt.
+> [de] Dieser Kurzroman besteht aus einigen Teilen meines Schreibens, die geteilt werden können & Ich bin bereit, sie zu teilen, um meine Gedankenflüsse zu schärfen, meine wissenschaftliche Arbeit durch verschiedene äsomethingetische Formen auszubalancieren, & um meine Übergänge vom Jungen- zum Mannesalter psychologisch und mental zu verfolgen, falls es welche gibt.
 
 ------
 
