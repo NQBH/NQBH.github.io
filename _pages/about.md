@@ -19,13 +19,13 @@ About [NQBH]
 ======
 
 **Career**:
-- *Author & Writer -- Tác Giả & Nhà văn* (self-employed): Novelist -- Tiểu Thuyết Gia (thể loại công việc mà tôi tự mướn mình làm trong lúc thất nghiệp trá hình).
+- *Author & Writer (amateur) -- Tác Giả & Nhà văn (nghiệp dư)* (self-employed): Novelist -- Tiểu Thuyết Gia (thể loại công việc mà tôi tự mướn mình làm trong lúc thất nghiệp trá hình).
 
-- *Educator -- Nhà Giáo Dục*: Elementary \{Mathematics, Physics, Chemistry, Natural Science, Computer Science\} Teacher/Tutor -- Giáo viên/Gia sư về Toán Sơ Cấp, Vật Lý Sơ Cấp, Hóa Học Sơ Cấp, Khoa Học Tự Nhiên Sơ Cấp, Tin học/Khoa học Máy Tính Sơ Cấp.
+- *Educator -- Nhà Giáo Dục (amateur)*: Elementary \{Mathematics, Physics, Chemistry, Natural Science, Computer Science\} Teacher/Tutor -- Giáo viên/Gia sư (nghiệp dư) về Toán Sơ Cấp, Vật Lý Sơ Cấp, Hóa Học Sơ Cấp, Khoa Học Tự Nhiên Sơ Cấp, Tin học/Khoa học Máy Tính Sơ Cấp.
 
-- *Pure Mathematician wannabe -- Nhà Toán học Thuần túy wannabe*: Mathematical Analyst -- Nhà Giải tích Toán học.
+- *Pure Mathematician wannabe (amateur) -- Nhà Toán học Thuần túy wannabe (nghiệp dư)*: Mathematical Analyst -- Nhà Giải tích Toán học.
 
-- *Applied Mathematician -- Nhà Toán học Ứng dụng* (transferred from failed Pure Mathematician wannabe): Fluid Dynamist -- Nhà nghiên cứu về Động lực học Chất Lỏng.
+- *Applied Mathematician (professional) -- Nhà Toán học Ứng dụng (chuyên nghiệp)* (transferred from failed Pure Mathematician wannabe): Fluid Dynamist -- Nhà nghiên cứu về Động lực học Chất Lỏng.
 
 **Personality**: Highly/Hyper Introverted, Highly/Hyper Sensitive (HSP), Agreeable- & Disagreeable Giver(s), being Matcher(s) sometimes but never being Taker(s).
 
@@ -42,14 +42,18 @@ Writings -- Viết Lách
 
 *Convention -- Quy ước.* `...`: still writing, unfinished.
 
-- **Book/Novel.** [*Some Thoughts on Learning, Teaching, & Research: A Short Novel -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.tex)] `...`
+- **Book/Novel -- Sách/Tiểu Thuyết.** [***Some Thoughts on Learning, Teaching, & Research: A Short Novel -- Vài Suy Nghĩ Về Việc Học, Việc Dạy, & Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn***](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.tex)] `...`
   + [*Universities & Research Institutes -- Trường Đại Học & Viện Nghiên Cứu*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.tex)].
   + [*Psychological Manipulation -- Thao Túng Tâm Lý*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/psychological_manipulation/NQBH_psychological_manipulation.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/psychological_manipulation/NQBH_psychological_manipulation.tex)]. Written on Christmas Eve, Dec 2020.
   + [*Comments, Contributors, & Payments/Donations -- Bình Luận, Đóng Góp, & Thanh Toán/Quyên Góp*](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/comment_donation/NQBH_learning_teaching_research_comment_donation.pdf). [[TeX](https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/comment_donation/NQBH_learning_teaching_research_comment_donation.tex)].
 
-> This short novel consists of some pieces of my writing, which are able to be shared & I am willing to share, in order to sharpen my flows of thoughts, to balance my scientific work via various aesthetic forms, & to track psychologically & mentally my transitions from boyhood to manhood if there is any.  
+> [en] This short novel consists of some pieces of my writing, which are able to be shared & I am willing to share, in order to sharpen my flows of thoughts, to balance my scientific work via various aesthetic forms, & to track psychologically & mentally my transitions from boyhood to manhood if there is any.  
 >   
-> Tiểu thuyết ngắn này bao gồm 1 số bài viết của tôi, những bài có thể chia sẻ được & tôi tự nguyện chia sẻ chúng, để mài bén các dòng suy nghĩ của tôi hơn, để cân bằng với các công việc nghiên cứu khoa học thông qua muôn vàn các hình thái nghệ thuật, & để đánh dấu các bước chuyển mình về mặt tâm lý & trí tuệ của tôi từ 1 cậu nhóc choai choai trở thành 1 người đàn ông trưởng thành nếu có bất cứ sự thay đổi nào xảy ra.
+> [vi] Tiểu thuyết ngắn này bao gồm 1 số bài viết của tôi, những bài có thể chia sẻ được & tôi tự nguyện chia sẻ chúng, để mài bén các dòng suy nghĩ của tôi hơn, để cân bằng với các công việc nghiên cứu khoa học thông qua muôn vàn các hình thái nghệ thuật, & để đánh dấu các bước chuyển mình về mặt tâm lý & trí tuệ của tôi từ 1 cậu nhóc choai choai trở thành 1 người đàn ông trưởng thành nếu có bất cứ sự thay đổi nào xảy ra.  
+>
+> [fr] Ce court roman est constitué de quelques morceaux de mes écrits, qui peuvent être partagés. Je suis prêt à partager, afin d'aiguiser mes flux de pensées, d'équilibrer mon travail scientifique via diverses formes esomethingétiques, de suivre psychologiquement et mentalement mes transitions de l'enfance à l'âge adulte s'il y en a.  
+>
+> [de] Dieser Kurzroman besteht aus einigen Teilen meines Schreibens, die geteilt werden können {\it\&} Ich bin bereit, sie zu teilen, um meine Gedankenflüsse zu schärfen, meine wissenschaftliche Arbeit durch verschiedene äsomethingetische Formen auszubalancieren, {\it\&} um meine Übergänge vom Jungen- zum Mannesalter psychologisch und mental zu verfolgen, falls es welche gibt.
 
 ------
 
