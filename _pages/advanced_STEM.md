@@ -41,12 +41,14 @@ This writing is shared with elementary STEM & beyond.
 ### Research Interests
 
 - Mathematical Analysis [MA].
-	+ (Systems of) Ordinary Differential Equations [ODEs].
+	+ (Systems of) Ordinary Differential Equations [ODEs]. Biological Dynamical Systems.
 	+ Partial Differential Equations [PDEs]: Porous Medium equations [PMEs], Navier--Stokes equations [NSEs].
 - Numerical Analysis [NA].
 	+ Finite Element Methods [FEMs].
 	+ Finite Volume Methods [FVMs]
-- Fluid mechanics: Turbulence models $k$-$\epsilon$, $k$-$\omega$.
+- Fluid Mechanics:
+	+ Fluid Dynamics. Turbulence models $k$-$\epsilon$, $k$-$\omega$.
+	+ Computational Fluid Dynamics [CFD].
 - Mathematical Otimization [MO]: Shape Optimization, Optimal Control, Topology Optimization (maybe?).
 - Artificial Intelligence [AI]:
 	+ Machine Learning [ML]: Artificial Neural Network [ANN].
