@@ -40,13 +40,17 @@ This writing is shared with elementary STEM & beyond.
 
 ### Research Interests
 
-- *Mathematical Analysis*.
-	+ *Partial Differential Equations*: Porous Medium equations (PMEs), Navier--Stokes equations (NSEs).
-- *Numerical Analysis*.
+- Mathematical Analysis [MA].
+	+ (Systems of) Ordinary Differential Equations [ODEs].
+	+ Partial Differential Equations [PDEs]: Porous Medium equations [PMEs], Navier--Stokes equations [NSEs].
+- Numerical Analysis [NA].
 	+ Finite Element Methods [FEMs].
 	+ Finite Volume Methods [FVMs]
-- *Fluid mechanics*: Turbulence models $k$-$\epsilon$, $k$-$\omega$.
-- *Mathematical Otimization*: Shape Optimization, Optimal Control, Topology Optimization (maybe?).
+- Fluid mechanics: Turbulence models $k$-$\epsilon$, $k$-$\omega$.
+- Mathematical Otimization [MO]: Shape Optimization, Optimal Control, Topology Optimization (maybe?).
+- Artificial Intelligence [AI]:
+	+ Machine Learning [ML]: Artificial Neural Network [ANN].
+		* Deep Learning [DL].
 
 ------
 
