@@ -60,6 +60,8 @@ This writing is shared with elementary STEM & beyond.
 
 - [*Linear Algebra & Abstract Algebra -- Đại Số Tuyến Tính & Đại Số Trừu Tượng*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.tex)].
 - [*Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.tex)].
+- [*Discrete Mathematics -- Toán Rời Rạc*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/NQBH_discrete_mathematics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/NQBH_discrete_mathematics.tex)].
+	+ Slide: [*Basic Discrete Mathematics -- Toán Rời Rạc Cơ Bản*].
 - [*Probability & Statistics -- Xác Suất & Thống Kê*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.tex)]
 	+ [*Artificial Neural Network (ANN) -- Mạng Lưới Nơron Nhân Tạo*](https://github.com/NQBH/draft/blob/master/NEURAL_NETWORK/NQBH_neural_network.pdf). [[TeX](https://github.com/NQBH/draft/blob/master/NEURAL_NETWORK/NQBH_neural_network.tex)].
 - [*Mathematical Optimization -- Toán Tối Ưu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.tex)].
@@ -78,6 +80,12 @@ This writing is shared with elementary STEM & beyond.
 ### Personal Expository Notes
 
 - [*Computer -- Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.tex)].
+- [*Discrete Mathematics -- Toán Rời Rạc*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/NQBH_discrete_mathematics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/NQBH_discrete_mathematics.tex)].
+	+ Slide: [*Basic Discrete Mathematics -- Toán Rời Rạc Cơ Bản*].
+- [*Artifical Intelligence -- Trí Tuệ Nhân Tạo*]
+	+ [*Machine Learning*]
+		* [*Artificial Neural Network (ANN) -- Mạng Lưới Nơron Nhân Tạo*](https://github.com/NQBH/draft/blob/master/NEURAL_NETWORK/NQBH_neural_network.pdf). [[TeX](https://github.com/NQBH/draft/blob/master/NEURAL_NETWORK/NQBH_neural_network.tex)].
+		* [*Deep Learning*]
 
 ------
 
