@@ -64,7 +64,7 @@ This writing is shared with elementary STEM & beyond.
 	+ Slide: [*Discrete Mathematics for Computer Science -- Toán Rời Rạc Cho Khoa Học Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/slide/NQBH_discrete_mathematics_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/slide/NQBH_discrete_mathematics_slide.tex)].
 	+ Lecture: [*Lecture Note: Discrete Mathematics for Computer Science -- Bài Giảng: Toán Rời Rạc Cho Khoa Học Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/lecture/NQBH_discrete_mathematics_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/lecture/NQBH_discrete_mathematics_lecture.tex)].
 - [*Probability & Statistics -- Xác Suất & Thống Kê*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.tex)]
-	+ [*Artificial Neural Network (ANN) -- Mạng Lưới Nơron Nhân Tạo*](https://github.com/NQBH/draft/blob/master/NEURAL_NETWORK/NQBH_neural_network.pdf). [[TeX](https://github.com/NQBH/draft/blob/master/NEURAL_NETWORK/NQBH_neural_network.tex)].
+	+ [*Machine Learning -- Học Máy*](https://github.com/NQBH/draft/blob/master/machine_learning/NQBH_machine_learning.pdf). [[TeX](https://github.com/NQBH/draft/blob/master/machine_learning/NQBH_machine_learning.tex)].
 - [*Mathematical Optimization -- Toán Tối Ưu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.tex)].
 - [*Number Theory -- Lý Thuyết Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/number_theory/NQBH_number_theory.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/number_theory/NQBH_number_theory.tex)].
 
@@ -85,9 +85,8 @@ This writing is shared with elementary STEM & beyond.
 	+ Slide: [*Discrete Mathematics for Computer Science -- Toán Rời Rạc Cho Khoa Học Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/slide/NQBH_discrete_mathematics_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/slide/NQBH_discrete_mathematics_slide.tex)].
 	+ Lecture: [*Lecture Note: Discrete Mathematics for Computer Science -- Bài Giảng: Toán Rời Rạc Cho Khoa Học Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/lecture/NQBH_discrete_mathematics_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/lecture/NQBH_discrete_mathematics_lecture.tex)].
 - [*Artifical Intelligence -- Trí Tuệ Nhân Tạo*]
-	+ [*Machine Learning*]
-		* [*Artificial Neural Network (ANN) -- Mạng Lưới Nơron Nhân Tạo*](https://github.com/NQBH/draft/blob/master/NEURAL_NETWORK/NQBH_neural_network.pdf). [[TeX](https://github.com/NQBH/draft/blob/master/NEURAL_NETWORK/NQBH_neural_network.tex)].
-		* [*Deep Learning*]
+	+ [*Machine Learning & Deep Learning -- Học Máy & Học Sâu*](https://github.com/NQBH/draft/blob/master/machine_learning/NQBH_machine_learning.pdf). [[TeX](https://github.com/NQBH/draft/blob/master/machine_learning/NQBH_machine_learning.tex)].
+		* [*Deep Learning -- Học Sâu*].
 
 ------
 
