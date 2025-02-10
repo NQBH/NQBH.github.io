@@ -59,12 +59,15 @@ This writing is shared with elementary STEM & beyond.
 ### Personal Expository Notes
 
 - [*Linear Algebra & Abstract Algebra -- Đại Số Tuyến Tính & Đại Số Trừu Tượng*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.tex)].
+  + [`C/C++4LA`]. [[`Python4LA`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/algebra/Python)].
 - [*Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.tex)].
+  + [`C/C++4MA&NA`]. [[`Python4MA&NA`]()].
 - [*Vietnamese Mathematical Olympiad for High School- & College Students (VMC) -- Olympic Toán Học Học Sinh & Sinh Viên Toàn Quốc*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/VMC/NQBH_VMC.pdf).[[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/VMC/NQBH_VMC.tex).]
-	+ [`C/C++4VMC`]. [[`Python4VMC`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/VMC/Python)].
+	+ [`C/C++4VMC`]. [[`Python4VMC`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/VMC/Python)]. [[Figure](https://github.com/NQBH/advanced_STEM_beyond/tree/main/VMC/figure)].
 - [*Discrete Mathematics -- Toán Rời Rạc*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/NQBH_discrete_mathematics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/NQBH_discrete_mathematics.tex)].
 	+ Slide: [*Discrete Mathematics for Computer Science -- Toán Rời Rạc Cho Khoa Học Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/slide/NQBH_discrete_mathematics_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/slide/NQBH_discrete_mathematics_slide.tex)].
 	+ Lecture: [*Lecture Note: Discrete Mathematics for Computer Science -- Bài Giảng: Toán Rời Rạc Cho Khoa Học Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/lecture/NQBH_discrete_mathematics_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/lecture/NQBH_discrete_mathematics_lecture.tex)].
+	+ [`C/C++4DM`]. [[`Python4DM`]()].
 - [*Probability & Statistics -- Xác Suất & Thống Kê*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/probability_statistics/NQBH_probability_statistics.tex)]
 	+ [*Data Science -- Khoa Học Dữ Liệu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/NQBH_data_science.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/NQBH_data_science.tex)].
 		* Slide: [*Mathematical Methods for Data Science -- Phương Pháp Toán cho Khoa Học Dữ Liệu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.tex)].
