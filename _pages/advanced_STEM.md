@@ -89,6 +89,10 @@ This writing is shared with elementary STEM & beyond.
 	+ Codes: [`C/C++4DL`]. [[`Python4DL`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/deep_learning/Python)].
 - [*Mathematical Optimization -- Toán Tối Ưu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/optimization/NQBH_mathematical_optimization.tex)].
 - [*Number Theory -- Lý Thuyết Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/number_theory/NQBH_number_theory.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/number_theory/NQBH_number_theory.tex)].
+- [*Large Language Models (LLMs) -- Mô Hình Ngôn Ngữ Lớn*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/large_language_model/NQBH_large_language_model.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/large_language_model/NQBH_large_language_model.tex)].
+	+ Slide: [*Slide: Mathematical For Large Language Models -- Slide Bài Giảng: Toán Học Cho Mô Hình Ngôn Ngữ Lớn*]
+	+ Lecture: [*Lecture Note: Mathematical For Large Language Models -- Bài Giảng: Toán Học Cho Mô Hình Ngôn Ngữ Lớn*]
+	+ Codes:[`C/C++4LLM`]. [[`Python4LLM`].
 
 ## Advanced Physics
 
