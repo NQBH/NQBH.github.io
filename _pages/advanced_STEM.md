@@ -92,7 +92,7 @@ This writing is shared with elementary STEM & beyond.
 - [*Large Language Models (LLMs) -- Mô Hình Ngôn Ngữ Lớn*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/large_language_model/NQBH_large_language_model.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/large_language_model/NQBH_large_language_model.tex)].
 	+ Slide: [*Slide: Mathematical For Large Language Models -- Slide Bài Giảng: Toán Học Cho Mô Hình Ngôn Ngữ Lớn*]
 	+ Lecture: [*Lecture Note: Mathematical For Large Language Models -- Bài Giảng: Toán Học Cho Mô Hình Ngôn Ngữ Lớn*]
-	+ Codes:[`C/C++4LLM`]. [[`Python4LLM`].
+	+ Codes: [[`C/C++4LLM`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/large_language_model/C++)]. [[`Python4LLM`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/large_language_model/Python)].
 
 ## Advanced Physics
 
@@ -130,7 +130,7 @@ This writing is shared with elementary STEM & beyond.
 - [*Large Language Models (LLMs) -- Mô Hình Ngôn Ngữ Lớn*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/large_language_model/NQBH_large_language_model.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/large_language_model/NQBH_large_language_model.tex)].
 	+ Slide: [*Slide: Mathematical For Large Language Models -- Slide Bài Giảng: Toán Học Cho Mô Hình Ngôn Ngữ Lớn*]
 	+ Lecture: [*Lecture Note: Mathematical For Large Language Models -- Bài Giảng: Toán Học Cho Mô Hình Ngôn Ngữ Lớn*]
-	+ Codes:[`C/C++4LLM`]. [[`Python4LLM`].
+	+ Codes: [[`C/C++4LLM`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/large_language_model/C++)]. [[`Python4LLM`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/large_language_model/Python)].
 
 ------
 
