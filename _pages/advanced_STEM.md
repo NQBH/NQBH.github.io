@@ -64,7 +64,7 @@ This writing is shared with elementary STEM & beyond.
 	+ Lecture: [*Lecture Note: Mathematical Analysis -- Bài Giảng: Giải Tích Toán Học*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/lecture/NQBH_mathematical_analysis_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/lecture/NQBH_mathematical_analysis_lecture.tex)].
 	+ Slide: [*Slide: Mathematical Analysis -- Slide: Giải Tích Toán Học*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/slide/NQBH_mathematical_analysis_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/slide/NQBH_mathematical_analysis_slide.tex)].
   + Codes: [[`C/C++4MA`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/analysis/C++)]. [[`Python4MA`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/analysis/Python)].
-- [*Vietnamese Mathematical Olympiad for High School- & College Students (VMC) -- Olympic Toán Học Học Sinh & Sinh Viên Toàn Quốc*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/VMC/NQBH_VMC.pdf).[[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/VMC/NQBH_VMC.tex).]
+- [*Vietnamese Mathematical Olympiad for High School- & College Students (VMC) -- Olympic Toán Học Học Sinh & Sinh Viên Toàn Quốc*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/VMC/NQBH_VMC.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/VMC/NQBH_VMC.tex).]
 	+ Codes: [[`C/C++4VMC`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/VMC/C++)]. [[`Python4VMC`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/VMC/Python)]. [[Figure](https://github.com/NQBH/advanced_STEM_beyond/tree/main/VMC/figure)].
 - [*Discrete Mathematics -- Toán Rời Rạc*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/NQBH_discrete_mathematics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/NQBH_discrete_mathematics.tex)].
 	+ Slide: [*Discrete Mathematics for Computer Science -- Toán Rời Rạc Cho Khoa Học Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/slide/NQBH_discrete_mathematics_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/slide/NQBH_discrete_mathematics_slide.tex)].
@@ -79,11 +79,11 @@ This writing is shared with elementary STEM & beyond.
 	+ Slide: [*Mathematical For Data Science -- Phương Pháp Toán cho Khoa Học Dữ Liệu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.tex)].
 	+ Lecture Note: [*Lecture Note: Mathematical For Data Science -- Bài Giảng: Phương Pháp Toán cho Khoa Học Dữ Liệu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.tex)].
 	+ Codes: [`C/C++4DS`]. [[`Python4DS`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/data_science/Python)].
-- [*Machine Learning & Deep Learning -- Học Máy & Học Sâu*](https://github.com/NQBH/draft/blob/master/machine_learning/NQBH_machine_learning.pdf). [[TeX](https://github.com/NQBH/draft/blob/master/machine_learning/NQBH_machine_learning.tex)].
+- [*Machine Learning -- Học Máy*](https://github.com/NQBH/draft/blob/master/machine_learning/NQBH_machine_learning.pdf). [[TeX](https://github.com/NQBH/draft/blob/master/machine_learning/NQBH_machine_learning.tex)].
 	+ Slide: [*Mathematics for Machine Learning -- Toán Học cho Học Máy*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/machine_learning/slide/NQBH_mathematics_for_machine_learning_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/machine_learning/slide/NQBH_mathematics_for_machine_learning_slide.tex)].
 	+ Lecture: [*Lecture Note: Mathematics for Machine Learning -- Bài Giảng: Toán Học cho Học Máy*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/machine_learning/lecture/NQBH_mathematics_for_machine_learning_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/machine_learning/lecture/NQBH_mathematics_for_machine_learning_lecture.tex)].
 	+ Codes: [`C/C++4ML`]. [[`Python4ML`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/machine_learning/Python)].
-- [*Deep Learning -- Học Sâu*].
+- [*Deep Learning -- Học Sâu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/deep_learning/NQBH_deep_learning.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/deep_learning/NQBH_deep_learning.tex)].
 	+ Slide: [*Mathematical For Deep Learning -- Phương Pháp Toán cho Học Sâu*]
 	+ Lecture: [*Lecture Note: Mathematical For Deep Learning -- Bài Giảng: Phương Pháp Toán cho Học Sâu*]
 	+ Codes: [`C/C++4DL`]. [[`Python4DL`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/deep_learning/Python)].
@@ -123,7 +123,7 @@ This writing is shared with elementary STEM & beyond.
 	+ Slide: [*Mathematics for Machine Learning -- Toán Học cho Học Máy*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/machine_learning/slide/NQBH_mathematics_for_machine_learning_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/machine_learning/slide/NQBH_mathematics_for_machine_learning_slide.tex)].
 	+ Lecture: [*Lecture Note: Mathematics for Machine Learning -- Bài Giảng: Toán Học cho Học Máy*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/machine_learning/lecture/NQBH_mathematics_for_machine_learning_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/machine_learning/lecture/NQBH_mathematics_for_machine_learning_lecture.tex)].
 	+ Codes: [`C/C++4ML`]. [[`Python4ML`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/machine_learning/Python)].
-- [*Deep Learning -- Học Sâu*].
+- [*Deep Learning -- Học Sâu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/deep_learning/NQBH_deep_learning.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/deep_learning/NQBH_deep_learning.tex)].
 	+ Slide: [*Mathematical For Deep Learning -- Phương Pháp Toán cho Học Sâu*]
 	+ Lecture: [*Lecture Note: Mathematical For Deep Learning -- Bài Giảng: Phương Pháp Toán cho Học Sâu*]
 	+ Codes: [`C/C++4DL`]. [[`Python4DL`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/deep_learning/Python)].
@@ -131,6 +131,8 @@ This writing is shared with elementary STEM & beyond.
 	+ Slide: [*Slide: Mathematical For Large Language Models -- Slide Bài Giảng: Toán Học Cho Mô Hình Ngôn Ngữ Lớn*]
 	+ Lecture: [*Lecture Note: Mathematical For Large Language Models -- Bài Giảng: Toán Học Cho Mô Hình Ngôn Ngữ Lớn*]
 	+ Codes: [[`C/C++4LLM`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/large_language_model/C++)]. [[`Python4LLM`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/large_language_model/Python)].
+- [*Computer Music -- Âm Nhạc Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer_music/NQBH_computer_music.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer_music/NQBH_computer_music.tex)].
+- [*Computer Vision -- Thị Giác Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer_vision/NQBH_computer_vision.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer_vision/NQBH_computer_vision.pdf)].
 
 ------
 
