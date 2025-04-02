@@ -66,8 +66,7 @@ This writing is shared with elementary STEM & beyond.
   + Codes: [[`C/C++4MA`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/analysis/C++)]. [[`Python4MA`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/analysis/Python)].
 - [***Vietnamese Mathematical Olympiad for High School- & College Students (VMC) -- Olympic Toán Học Học Sinh & Sinh Viên Toàn Quốc***](https://github.com/NQBH/advanced_STEM_beyond/blob/main/VMC/NQBH_VMC.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/VMC/NQBH_VMC.tex).]
 	+ Codes: [[`C/C++4VMC`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/VMC/C++)]. [[`Python4VMC`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/VMC/Python)]. [[`Figure`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/VMC/figure)].
-
-	![UMT at VMC2025](./images/VMC2025.jpeg "UMT at VMC2025.")
+	![UMT at VMC2025](/images/VMC2025.png "UMT at VMC2025.")
 - [*Discrete Mathematics -- Toán Rời Rạc*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/NQBH_discrete_mathematics.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/NQBH_discrete_mathematics.tex)].
 	+ Slide: [*Discrete Mathematics for Computer Science -- Toán Rời Rạc Cho Khoa Học Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/slide/NQBH_discrete_mathematics_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/slide/NQBH_discrete_mathematics_slide.tex)].
 	+ Lecture: [*Lecture Note: Discrete Mathematics for Computer Science -- Bài Giảng: Toán Rời Rạc Cho Khoa Học Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/lecture/NQBH_discrete_mathematics_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/discrete_mathematics/lecture/NQBH_discrete_mathematics_lecture.tex)].
