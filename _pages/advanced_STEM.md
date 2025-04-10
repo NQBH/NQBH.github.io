@@ -23,8 +23,10 @@ This writing is shared with elementary STEM & beyond.
 >
 > [de] Dieser Kurzroman besteht aus einigen Teilen meines Schreibens, die geteilt werden können & Ich bin bereit, sie zu teilen, um meine Gedankenflüsse zu schärfen, meine wissenschaftliche Arbeit durch verschiedene äsomethingetische Formen auszubalancieren, & um meine Übergänge vom Jungen- zum Mannesalter psychologisch und mental zu verfolgen, falls es welche gibt.
 
-- [*On Teaching Rules & Principles\\Bàn Về Các Quy Tắc & Nguyên Tắc Giảng Dạy*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/NQBH_teaching_rule_principle.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/NQBH_teaching_rule_principle.tex)]. `...`
- 	+ [`Abstract`] Bàn về các quy tắc & nguyên tắc trong việc học, việc dạy, & nghiên cứu STEM nâng cao ở bậc Đại Học trở lên, gồm undergraduate- & graduate levels.
+------
+
+- [*On Teaching Rules & Principles -- Bàn Về Các Quy Tắc & Nguyên Tắc Giảng Dạy*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/NQBH_teaching_rule_principle.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/NQBH_teaching_rule_principle.tex)]. `...`
+ 	+ **Abstract.** Bàn về các quy tắc & nguyên tắc trong việc học, việc dạy, & nghiên cứu STEM nâng cao ở bậc Đại Học trở lên, gồm undergraduate- & graduate levels.
 
 # Social Sciences [SS] -- Khoa Học Xã hội [KHXH]
 
@@ -63,7 +65,7 @@ This writing is shared with elementary STEM & beyond.
 
 - [*Survey: Linear Algebra & Abstract Algebra -- Đại Số Tuyến Tính & Đại Số Trừu Tượng*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.tex)].
   + [`C/C++4LA`]. [[`Python4LA`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/algebra/Python)].
-- [*Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.tex)].
+- [*Survey: Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.tex)].
 	+ Lecture: [*Lecture Note: Mathematical Analysis -- Bài Giảng: Giải Tích Toán Học*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/lecture/NQBH_mathematical_analysis_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/lecture/NQBH_mathematical_analysis_lecture.tex)].
 	+ Slide: [*Slide: Mathematical Analysis -- Slide: Giải Tích Toán Học*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/slide/NQBH_mathematical_analysis_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/slide/NQBH_mathematical_analysis_slide.tex)].
   + Codes: [[`C/C++4MA`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/analysis/C++)]. [[`Python4MA`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/analysis/Python)].
