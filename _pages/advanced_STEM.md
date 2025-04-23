@@ -25,8 +25,8 @@ This writing is shared with elementary STEM & beyond.
 
 ------
 
-- [*On Teaching Rules & Principles -- Bàn Về Các Quy Tắc & Nguyên Tắc Giảng Dạy*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/NQBH_teaching_rule_principle.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/NQBH_teaching_rule_principle.tex)]. `...`
- 	+ **Abstract.** Bàn về các quy tắc & nguyên tắc trong việc học, việc dạy, & nghiên cứu STEM nâng cao ở bậc Đại Học trở lên, gồm undergraduate- & graduate levels.
+- [*On Teaching Rules & Principles -- Bàn Về Các Quy Tắc & Nguyên Tắc Giảng Dạy*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/NQBH_teaching_rule_principle.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/NQBH_teaching_rule_principle.tex)].
+ 	- **Abstract.** Bàn về các quy tắc & nguyên tắc trong việc học, việc dạy, & nghiên cứu STEM nâng cao ở bậc Đại Học trở lên, gồm undergraduate- & graduate levels.
 
 # Social Sciences [SS] -- Khoa Học Xã hội [KHXH]
 
@@ -64,6 +64,7 @@ This writing is shared with elementary STEM & beyond.
 ### Personal Expository Advanced Mathematics Notes
 
 - [*Survey: Linear Algebra & Abstract Algebra -- Đại Số Tuyến Tính & Đại Số Trừu Tượng*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.tex)].
+	+ Lecture: [*Lecture Note: Algebra -- Bài Giảng: Đại Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/lecture/NQBH_algebra_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/lecture/NQBH_algebra_lecture.tex)]. Focused on essential concepts in Linear Algebra for AI-DS-ML-DL.
   + [`C/C++4LA`]. [[`Python4LA`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/algebra/Python)].
 - [*Survey: Mathematical Analysis & Numerical Analysis -- Giải Tích Toán Học & Giải Tích Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/NQBH_mathematical_analysis.tex)].
 	+ Lecture: [*Lecture Note: Mathematical Analysis -- Bài Giảng: Giải Tích Toán Học*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/lecture/NQBH_mathematical_analysis_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/lecture/NQBH_mathematical_analysis_lecture.tex)].
