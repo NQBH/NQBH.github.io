@@ -61,8 +61,8 @@ This writing is shared with elementary STEM & beyond.
 ### Personal Expository Advanced Mathematics Notes
 
 - [*On Teaching Rules & Principles -- Bàn Về Các Quy Tắc & Nguyên Tắc Giảng Dạy*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/NQBH_teaching_rule_principle.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/NQBH_teaching_rule_principle.tex)]. Bàn về các quy tắc & nguyên tắc trong việc học, việc dạy, & nghiên cứu STEM nâng cao ở bậc Đại Học trở lên, gồm undergraduate- & graduate levels.
-	+ Python code for grading: [`grade.py`](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/grade.py).
- 	+ List of Advanced-STEM undergraduate students: [*Advanced STEM students*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/student/NQBH_student.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/student/NQBH_student.tex)].
+	+ Python code for grading: [[`grade.py`](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/rule_principle/grade.py)].
+	+ List of Advanced-STEM undergraduate students: [*Advanced STEM students*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/student/NQBH_student.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/student/NQBH_student.tex)].
 
 - [*Survey: Linear Algebra & Abstract Algebra -- Khảo Sát: Đại Số Tuyến Tính & Đại Số Trừu Tượng*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/NQBH_algebra.tex)].
 	+ Lecture: [*Lecture Note: Algebra -- Bài Giảng: Đại Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/lecture/NQBH_algebra_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/algebra/lecture/NQBH_algebra_lecture.tex)]. Focused on essential concepts in Linear Algebra for AI-DS-ML-DL.
