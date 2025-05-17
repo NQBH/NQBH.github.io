@@ -127,7 +127,7 @@ This writing is shared with elementary STEM & beyond.
 	* Slide: [*Mathematics for Data Science -- Toán Học cho Khoa Học Dữ Liệu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.tex)].
 	* Lecture: [*Lecture Note: Mathematics For Data Science -- Bài Giảng: Phương Pháp Toán cho Khoa Học Dữ Liệu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.tex)].
 	* Codes: [`C/C++4DS`]. [[`Python4DS`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/data_science/Python)].
-- [*Survey: Artifical Intelligence -- Khảo Sát: Trí Tuệ Nhân Tạo*].
+- [*Survey: Artifical Intelligence -- Khảo Sát: Trí Tuệ Nhân Tạo*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/AI/NQBH_AI.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/AI/NQBH_AI.tex)].
 	+ Slide: [*Slide: Introduction to Artificial Intelligence -- Slide Bài Giảng: Nhập Môn Trí Tuệ Nhân Tạo*].
 	+ Lecture Note: [*Lecture Note: Introduction to Artificial Intelligence -- Bài Giảng: Nhập Môn Trí Tuệ Nhân Tạo*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/AI/lecture/NQBH_introduction_AI_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/AI/lecture/NQBH_introduction_AI_lecture.tex)].
 	+ Codes: [[C/C++4AI]]. [[Python4AI]].
