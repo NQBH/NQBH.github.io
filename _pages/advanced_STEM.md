@@ -132,7 +132,7 @@ This writing is shared with elementary STEM & beyond.
 	* Lecture: [*Lecture Note: Mathematics For Data Science -- Bài Giảng: Phương Pháp Toán cho Khoa Học Dữ Liệu*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_science/slide/NQBH_mathematical_methods_for_DS_slide.tex)].
 	* Codes: [`C++4DS`]. [[`Python4DS`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/data_science/Python)].
 - [*Survey: Artifical Intelligence -- Khảo Sát: Trí Tuệ Nhân Tạo*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/AI/NQBH_AI.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/AI/NQBH_AI.tex)].
-	+ Preliminaries: *Data Structures & Algorithms (DSA)* because AI requires advanced data structure & algorithms to study decision problem, search probklem, & optimization problems, especially shortest path problems.
+	+ Preliminaries: *Data Structures & Algorithms (DSA)* because AI requires advanced data structures & algorithms to study decision problems, search problems, & optimization problems, etc.
 	+ Slide: [*Slide: Introduction to Artificial Intelligence -- Slide Bài Giảng: Nhập Môn Trí Tuệ Nhân Tạo*].
 	+ Lecture Note: [*Lecture Note: Introduction to Artificial Intelligence -- Bài Giảng: Nhập Môn Trí Tuệ Nhân Tạo*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/AI/lecture/NQBH_introduction_AI_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/AI/lecture/NQBH_introduction_AI_lecture.tex)].
 	+ Codes: [[`C++4AI`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/AI/C++)]. [[`Python4AI`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/AI/Python)].
