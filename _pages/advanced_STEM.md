@@ -150,6 +150,8 @@ This writing is shared with elementary STEM & beyond.
 	+ Codes: [[`C++4LLM`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/large_language_model/C++)]. [[`Python4LLM`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/large_language_model/Python)].
 - [*Survey: Computer Music -- Khảo Sát: Âm Nhạc Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer_music/NQBH_computer_music.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer_music/NQBH_computer_music.tex)].
 - [*Survey: Computer Vision -- Khảo Sát: Thị Giác Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer_vision/NQBH_computer_vision.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer_vision/NQBH_computer_vision.pdf)].
+	+ Lecture: [*Lecture Note: Computer Vision \& Digital Image Processing -- Bài Giảng: Thị Giác Máy Tính \& Xử Lý Ảnh Kỹ Thuật Số*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer_vision/lecture/NQBH_computer_vision_lecture.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer_vision/lecture/NQBH_computer_vision_lecture.tex)].
+	+ Codes: [`C++4CV`]. [`Python4CV`].
 
 ------
 
