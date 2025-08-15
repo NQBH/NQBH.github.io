@@ -36,6 +36,8 @@ This writing is shared with elementary STEM & beyond.
 
 # Natural Sciences [NS] -- Khoa Học Tự Nhiên [KHTN]
 
+**Remark.** I prefer lecture note or report to slide presentation, e.g., PowerPoint, Beamer presentation, & the like.
+
 ## Advanced Mathematics
 
 **Remark.** [Cf. elmSTEM vs. advSTEM] *Unlike series Elementary STEM & Beyond, in this series Advanced Elementary STEM & Beyond, I do not use the structure `advanced_{mathematics,physics,chemistry,computer_science}` since I will merge them all: towards the ultimate unification of Natural Science. Some topics in Social Science will be investigated in my short novel above & will be splitted if necessary & having enough wisdoms.*
@@ -132,9 +134,12 @@ This writing is shared with elementary STEM & beyond.
 
 - [*Survey: Computer -- Khảo  Sát: Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.tex)].
 - [*Vietnamese Olympiads in Informatics & International Collegiate Programming Contest (ICPC) -- Olympic Tin Học Sinh Viên & ICPC*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/NQBH_OLP_ICPC.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/NQBH_OLP_ICPC.tex)].
+	+ [*2 Pointers Method -- Phương Pháp 2 Con Trỏ*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/2_pointers/NQBH_2_pointers.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/2_pointers/NQBH_2_pointers.tex)].
+	+ [*Sliding Window Method -- Phương Pháp Cửa Sổ Trượt*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/sliding_window/NQBH_sliding_window.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/sliding_window/NQBH_sliding_window.tex)].
+	+ [*Graph Theory in Competitive Programming -- Lý Thuyết Đồ Thị Trong Lập Trình Thi Đấu*](github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/graph/NQBH_graph.pdf). [[TeX](github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/graph/NQBH_graph.tex)].
 	+ [*Longest Increasing Subsequences (LIS) & Longest Decreasing Subsequences (LDS) -- Dãy Con Tăng Dài Nhất & Dãy Con Giảm Dài Nhất*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/LIS/NQBH_LIS.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/LIS/NQBH_LIS.tex)].
 	+ [*Bitmask Dynamic Programming -- Quy Hoạch Động Bitmask*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/bitmask_DP/NQBH_bitmask_dynamic_programming.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/bitmask_DP/NQBH_bitmask_dynamic_programming.tex)].
-	+ Codes: [[`input`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/input)]. [[`output`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/output)]. [[`C`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/C)]. [[`C++`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/C++)]. [[`Java`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/Java)]. [[`Python`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/Python)].
+	+ Codes: [[`input`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/input)]. [[`output`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/output)]. [[`C`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/C)]. [[`C++`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/C++)]. [[`C#`](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/graph/NQBH_graph.pdf)]. [[`Java`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/Java)]. [[`JavaScript`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/JavaScript)]. [[`Python`](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/Python)].
 	+ Resources: [[resource](https://github.com/NQBH/advanced_STEM_beyond/tree/main/OLP_ICPC/resource)].
 - **Data Structure & Algorithms (DSA) -- Cấu Trúc Dữ Liệu & Giải  Thuật (DSA)**.
 	+ [*Survey: Data Structure & Algorithms (DSA) -- Khảo Sát: Cấu Trúc Dữ Liệu & Giải  Thuật (DSA)*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_structure_algorithm/NQBH_data_structure_algorithm.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/data_structure_algorithm/NQBH_data_structure_algorithm.tex)].
