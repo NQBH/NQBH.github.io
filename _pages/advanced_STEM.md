@@ -133,7 +133,8 @@ This writing is shared with elementary STEM & beyond.
 ### Personal Expository Advanced Computer Science Notes
 
 - [*Survey: Computer -- Khảo  Sát: Máy Tính*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/computer/NQBH_computer.tex)].
-- [*Vietnamese Olympiads in Informatics & International Collegiate Programming Contest (ICPC) -- Olympic Tin Học Sinh Viên & ICPC*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/NQBH_OLP_ICPC.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/NQBH_OLP_ICPC.tex)].
+- **Competitive Programming & ICPC -- Lập Trình Thi Đấu: Olympic Tin Học (OLP), Olympic Trí Tuệ Nhân Tạo (OAI), & ICPC.**
+	+ [*Vietnamese Olympiads in Informatics & International Collegiate Programming Contest (ICPC) -- Olympic Tin Học Sinh Viên & ICPC*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/NQBH_OLP_ICPC.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/NQBH_OLP_ICPC.tex)].
 	+ [*2 Pointers Method -- Phương Pháp 2 Con Trỏ*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/2_pointers/NQBH_2_pointers.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/2_pointers/NQBH_2_pointers.tex)].
 	+ [*Sliding Window Method -- Phương Pháp Cửa Sổ Trượt*](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/sliding_window/NQBH_sliding_window.pdf). [[TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/sliding_window/NQBH_sliding_window.tex)].
 	+ [*Graph Theory in Competitive Programming -- Lý Thuyết Đồ Thị Trong Lập Trình Thi Đấu*](github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/graph/NQBH_graph.pdf). [[TeX](github.com/NQBH/advanced_STEM_beyond/blob/main/OLP_ICPC/graph/NQBH_graph.tex)].
