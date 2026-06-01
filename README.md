@@ -1,41 +1,70 @@
+# Quarto Academic Website Template
 
-# Academic Pages
+Welcome! This is a simple and customizable template for building your own academic website using [Quarto](https://quarto.org/). You can easily fork, edit, and publish your site with just a few steps.
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+## 🚀 Quick Start
 
-Academic Pages is a Github Pages template for academic websites.
+1. **Star** this repository to bookmark it for future reference.  
+1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
+1. **Test to publish** your site using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch) (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
+1. **Check** if your website works or not. If successful, you should see exactly the same website as [this one](https://drganghe.github.io/quarto-academic-website-template/) using your own Github Pages url:
+   - `https://YourGitHubUserName.github.io` if your repository name is `YourGitHubUserName.github.io`
+   - `https://YourGitHubUserName.github.io/RepositoryName` for other `RepositoryName`
+   - Errors:
+      - If [404](/files/images/Error1.png), it is likely you haven't set up GitHub Pages
+      - If it shows the [README](/files/images/Error2.png) file, it is likely you've published from the `root` folder, not the `docs` directory
+
+If you achieve this milestone, congratulations! You are now ready to start updating your website:
+
+1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
+1. **Add or edit content** in the following files and folders:
+   - `/posts/` – posts about publications, news, events  
+   - `teaching.qmd` – teaching information  
+   - `projects.yml` – research or other projects  
+   - `people.qmd` and `/people/` – team or collaborators  
+   - `/files/` - profiles, images, pdfs, and includes 
+1. [**Render and preview**](https://quarto.org/docs/websites/#website-preview) your site locally.  
+1. **`Commit` to publish** your updates.
+1. **Refine and polish** your content and design as needed.  
+1. ✅ Enjoy your new website!
+1. **Link** your website on your official pages to let Google and AI bots include in their search results.
 
 
-# Getting Started
+## Automatically Generate a Neat Publication List
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+1. **Prepare your publication source file**:
+   - Recommended: maintain `publications.xlsx` (already supported by this template, you can convert a bib file to Excel using online tools).
+2. **Fill `publications.xlsx` using the expected column names**:
+   - `Section`, `Authors`, `Year`, `Date`, `Title`, `Paper Link`, `Journal`, `Volume`, `Issue`, `Pages`, `DOI`
+   - Optional links/metadata: `PDF`, `Preprint`, `ShareIt`, `Supplemental Information`, `GitHub`, `Code`, `Data`
+   - Optional flags/info: `Highly Cited`, `Hot Paper`, `Awards`, `Media Coverage`, `Invited Presentation`, `Categories`
+3. **Install Python dependency** (one-time):
+   - `pip install openpyxl`
+   - Optional validation support: `pip install pyyaml`
+4. **Convert Excel to YAML**:
+   - `python xlsx_to_yml.py`
+   - Or with custom files: `python xlsx_to_yml.py input.xlsx output.yml`
+   - Force conversion: `python xlsx_to_yml.py --force`
+5. **Render your site**:
+   - `quarto render`
+   - The project is already configured with `pre-render: python xlsx_to_yml.py` in `_quarto.yml`, so conversion will run automatically before rendering if there is any update in `publications.xlsx`.
+6. **Check publication page output**:
+   - Main auto-generated page: `pub-listing.qmd`
+   - Listing template: `pub-listing.ejs`
+   - Styling: `pub-listing.css`
+   - Filter: The `remove-stray-divfence.lua` filter is added to remove excessive ::: in html after rendering.
+7. **Categorize records correctly**:
+   - Use `Section` as either `Selected Work` or `Peer-reviewed Journal Paper` to place entries into corresponding sections. You can add other Section as needed.
+   - Use `Categories` with separators like `,`, `;`, or `|` for listing filters.
+8. **Publish changes**:
+   - Enjoy your neat automatically generated publication list. You can customize style and template if you need to add new links and flags.
 
-See more info at https://academicpages.github.io/
 
-## Running Locally
+## 🛠 Requirements
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+- Install [Quarto](https://quarto.org/docs/get-started/)
+- Learn the basics from the [official Quarto documentation](https://quarto.org/docs/websites/)
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+## 📚 More Examples & Tips
 
-
-# Maintenance 
-
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+- [Quarto Academic Site Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html)
