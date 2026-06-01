@@ -10,7 +10,7 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles # Options: trestles (split left/right), jolla (centered profile)
-  image-width: 50%
+  image-width: 250px
   links:
     - icon: github
       text: GitHub
@@ -84,7 +84,6 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 **E-mail.** <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
-------
 
 Writings -- Viết Lách
 ======
