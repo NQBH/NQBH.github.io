@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Nguyễn Quản Bá Hồng">
-<meta name="description" content="NQBH’s website">
+<meta name="description" content="Quarto Academic Website Template adapted by Dr.&nbsp;Gang He">
 
-<title>Nguyễn Quản Bá Hồng [NQBH]’s GitHub Page – NQBH's website</title>
+<title>NQBH – NQBH’s website</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -35,11 +35,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -47,6 +48,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-4eaa6fc6487bc7c67150b7a59f3bcba7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,6 +76,36 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 3,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id="></script>
 
 <script type="text/javascript">
@@ -103,15 +136,44 @@ https://badge.dimensions.ai/
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Nguyễn Quản Bá Hồng [NQBH]’s GitHub Page – NQBH’s website">
-<meta property="og:description" content="About Me">
-<meta property="og:image" content="https://quarto.org/quarto.png">
+<meta property="og:title" content="NQBH – NQBH’s website">
+<meta property="og:description" content="NQBH’s website">
+<meta property="og:image" content="https://nqbh.github.io/files/images/NQBH.jpg">
 <meta property="og:site_name" content="NQBH’s website">
-<meta name="twitter:title" content="Nguyễn Quản Bá Hồng [NQBH]’s GitHub Page – NQBH’s website">
-<meta name="twitter:description" content="About Me">
-<meta name="twitter:image" content="https://quarto.org/quarto.png">
+<meta name="twitter:title" content="NQBH – NQBH’s website">
+<meta name="twitter:description" content="NQBH’s website">
+<meta name="twitter:image" content="https://nqbh.github.io/files/images/NQBH.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -233,45 +295,81 @@ https://badge.dimensions.ai/
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#quotes" id="toc-quotes" class="nav-link active" data-scroll-target="#quotes">Quotes</a></li>
+  <li><a href="#hobby-sở-thích" id="toc-hobby-sở-thích" class="nav-link" data-scroll-target="#hobby-sở-thích">Hobby – Sở Thích</a></li>
+  <li><a href="#payment-donation-thanh-toán-quyên-góp" id="toc-payment-donation-thanh-toán-quyên-góp" class="nav-link" data-scroll-target="#payment-donation-thanh-toán-quyên-góp">Payment &amp; Donation – Thanh Toán &amp; Quyên Góp</a>
+  <ul class="collapse">
+  <li><a href="#bank-transfer-information-thông-tin-chuyển-khoản" id="toc-bank-transfer-information-thông-tin-chuyển-khoản" class="nav-link" data-scroll-target="#bank-transfer-information-thông-tin-chuyển-khoản">Bank Transfer Information – Thông Tin Chuyển Khoản</a></li>
+  <li><a href="#recent-posts" id="toc-recent-posts" class="nav-link" data-scroll-target="#recent-posts">Recent Posts</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
+
+
+
+<div class="quarto-about-trestles column-page-left">
+  <div class="about-entity">
+    <img src="files/images/NQBH.jpg" class="about-image
+  rounded " style="width: 100px;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Nguyễn Quản Bá Hồng [NQBH]’s GitHub Page</h1>
+<h1 class="title">NQBH</h1>
 </div>
-
-<div>
-  <div class="description">
-    About Me
+<div class="quarto-title-meta column-page-left">
   </div>
-</div>
-
-
-<div class="quarto-title-meta column-page">
-
-    
-  
-    
-  </div>
-  
-
-
 </header>
-
-
-<div style="text-align: justify;">
-<section id="about-nqbh" class="level1">
-<h1>About [NQBH]</h1>
-<p><strong>Career</strong>: - <em>Author &amp; Writer (amateur) – Tác Giả &amp; Nhà văn (nghiệp dư)</em> (self-employed): Novelist – Tiểu Thuyết Gia (thể loại công việc mà tôi tự mướn mình làm trong lúc thất nghiệp trá hình).</p>
-<ul>
-<li><p><em>Educator – Nhà Giáo Dục (amateur)</em>: Elementary {Mathematics, Physics, Chemistry, Natural Science, Computer Science} Teacher/Tutor – Giáo viên/Gia sư (nghiệp dư) về Toán Sơ Cấp, Vật Lý Sơ Cấp, Hóa Học Sơ Cấp, Khoa Học Tự Nhiên Sơ Cấp, Tin học/Khoa học Máy Tính Sơ Cấp.</p></li>
-<li><p><em>Pure Mathematician wannabe (amateur) – Nhà Toán học Thuần túy wannabe (nghiệp dư)</em>: Mathematical Analyst – Nhà Giải tích Toán học.</p></li>
-<li><p><em>Applied Mathematician (professional) – Nhà Toán học Ứng dụng (chuyên nghiệp)</em> (transferred from failed Pure Mathematician wannabe): Fluid Dynamist – Nhà nghiên cứu về Động lực học Chất Lỏng.</p></li>
-</ul>
+    <div class="about-links">
+  <a href="https://github.com/NQBH" class="about-link" rel="" target="_blank">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">GitHub</span>
+  </a>
+  <a href="https://baruch.cuny.edu" class="about-link" rel="" target="_blank">
+    <i class="bi bi-globe"></i>
+     <span class="about-link-text">Uprofile</span>
+  </a>
+  <a href="mailto:nguyenquanbahong@gmail.com" class="about-link" rel="" target="">
+    <i class="bi bi-envelope"></i>
+     <span class="about-link-text">E-mail</span>
+  </a>
+  <a href="https://linkedin.com" class="about-link" rel="" target="_blank">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://www.youtube.com" class="about-link" rel="" target="_blank">
+    <i class="bi bi-youtube"></i>
+     <span class="about-link-text">YouTube</span>
+  </a>
+  <a href="https://orcid.org" class="about-link" rel="" target="_blank">
+     <span class="about-link-text"><i class="ai  ai-orcid"></i> ORCID</span>
+  </a>
+  <a href="https://www.webofscience.com" class="about-link" rel="" target="_blank">
+     <span class="about-link-text"><i class="ai  ai-clarivate"></i> Web of Science</span>
+  </a>
+  <a href="https://www.scopus.com" class="about-link" rel="" target="_blank">
+     <span class="about-link-text"><i class="ai  ai-scopus"></i> Scopus</span>
+  </a>
+  <a href="https://scholar.google.com/citations?user=22hHvB8AAAAJ&amp;hl=vi" class="about-link" rel="" target="_blank">
+     <span class="about-link-text"><i class="ai  ai-google-scholar"></i> Google Scholar</span>
+  </a>
+  <a href="https://www.researchgate.net/profile/Hong-Nguyen-184" class="about-link" rel="" target="_blank">
+     <span class="about-link-text"><i class="ai  ai-researchgate"></i> Research Gate</span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents"><div id="hero-heading">
+<p><strong>Career</strong>: <em>Author &amp; Writer (amateur) – Tác Giả &amp; Nhà văn (nghiệp dư)</em> (self-employed): Novelist – Tiểu Thuyết Gia (thể loại công việc mà tôi tự mướn mình làm trong lúc thất nghiệp trá hình).</p>
+<p><em>Educator – Nhà Giáo Dục (amateur)</em>: Elementary {Mathematics, Physics, Chemistry, Natural Science, Computer Science} Teacher/Tutor – Giáo viên/Gia sư (nghiệp dư) về Toán Sơ Cấp, Vật Lý Sơ Cấp, Hóa Học Sơ Cấp, Khoa Học Tự Nhiên Sơ Cấp, Tin học/Khoa học Máy Tính Sơ Cấp.</p>
+<p><em>Pure Mathematician wannabe (amateur) – Nhà Toán học Thuần túy wannabe (nghiệp dư)</em>: Mathematical Analyst – Nhà Giải tích Toán học.</p>
+<p><em>Applied Mathematician (professional) – Nhà Toán học Ứng dụng (chuyên nghiệp)</em> (transferred from failed Pure Mathematician wannabe): Fluid Dynamist – Nhà nghiên cứu về Động lực học Chất Lỏng.</p>
 <p><strong>Personality</strong>: Highly/Hyper Introverted, Highly/Hyper Sensitive (HSP), Agreeable- &amp; Disagreeable Giver(s), being Matcher(s) sometimes but never being Taker(s).</p>
 <blockquote class="blockquote">
 <p>If you think you can read me psychologically easily, i.e., understand 1 of my personalities, then try to comprehend all of them. – Nếu bạn nghĩ rằng bạn có thể đọc vị tâm lý của tôi 1 cách dễ dàng, i.e., hiểu 1 trong các nhân cách của tôi, thì cứ thử thấu hiểu tất cả chúng.</p>
@@ -283,27 +381,19 @@ h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#110;&#x
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail email">'+e+'<\/'+'a'+'>');
 // -->
 </script><noscript>nguyenquanbahong at gmail dot com</noscript> (also the <code>Email</code> button in the sidebar).</p>
-<hr>
-</section>
-<section id="writings-viết-lách" class="level1">
-<h1>Writings – Viết Lách</h1>
+<p>Writings – Viết Lách</p>
+</div></div>
+</div>
+
 <p><em>Convention – Quy ước.</em> <code>...</code>: still writing, unfinished.</p>
-<ul>
-<li><strong>Book/Novel – Sách/Tiểu Thuyết.</strong> <a href="https://github.com/NQBH/advanced_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf"><strong><em>Some Thoughts on Learning, Teaching, &amp; Research: A Short Novel – Vài Suy Nghĩ Về Việc Học, Việc Dạy, &amp; Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn</em></strong></a>. [<a href="https://github.com/NQBH/advanced_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.tex">TeX</a>] <code>...</code>
-<ul>
-<li><a href="https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.pdf"><em>Universities &amp; Research Institutes – Trường Đại Học &amp; Viện Nghiên Cứu</em></a>. [<a href="https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.tex">TeX</a>].</li>
-<li><a href="https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/psychological_manipulation/NQBH_psychological_manipulation.pdf"><em>Psychological Manipulation – Thao Túng Tâm Lý</em></a>. [<a href="https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/psychological_manipulation/NQBH_psychological_manipulation.tex">TeX</a>]. Written on Christmas Eve, Dec 2020.</li>
-<li><a href="https://github.com/NQBH/advanced_STEM_beyond/blob/main/learning_teaching_research/comment_donation/NQBH_learning_teaching_research_comment_donation.pdf"><em>Comments, Contributors, &amp; Payments/Donations – Bình Luận, Đóng Góp, &amp; Thanh Toán/Quyên Góp</em></a>. [<a href="https://github.com/NQBH/advanced_STEM_beyond/blob/main/learning_teaching_research/comment_donation/NQBH_learning_teaching_research_comment_donation.tex">TeX</a>].</li>
-</ul></li>
-</ul>
+<p><strong>Book/Novel – Sách/Tiểu Thuyết.</strong> <a href="https://github.com/NQBH/advanced_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.pdf"><strong><em>Some Thoughts on Learning, Teaching, &amp; Research: A Short Novel – Vài Suy Nghĩ Về Việc Học, Việc Dạy, &amp; Nghề Nghiên Cứu: 1 Tiểu Thuyết Ngắn</em></strong></a>. [<a href="https://github.com/NQBH/advanced_STEM_beyond/blob/main/learning_teaching_research/NQBH_on_learning_teaching_research.tex">TeX</a>] <code>...</code> + <a href="https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.pdf"><em>Universities &amp; Research Institutes – Trường Đại Học &amp; Viện Nghiên Cứu</em></a>. [<a href="https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/university/NQBH_university.tex">TeX</a>]. + <a href="https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/psychological_manipulation/NQBH_psychological_manipulation.pdf"><em>Psychological Manipulation – Thao Túng Tâm Lý</em></a>. [<a href="https://github.com/NQBH/elementary_STEM_beyond/blob/main/learning_teaching_research/psychological_manipulation/NQBH_psychological_manipulation.tex">TeX</a>]. Written on Christmas Eve, Dec 2020. + <a href="https://github.com/NQBH/advanced_STEM_beyond/blob/main/learning_teaching_research/comment_donation/NQBH_learning_teaching_research_comment_donation.pdf"><em>Comments, Contributors, &amp; Payments/Donations – Bình Luận, Đóng Góp, &amp; Thanh Toán/Quyên Góp</em></a>. [<a href="https://github.com/NQBH/advanced_STEM_beyond/blob/main/learning_teaching_research/comment_donation/NQBH_learning_teaching_research_comment_donation.tex">TeX</a>].</p>
 <blockquote class="blockquote">
 <p>[en] This short novel consists of some pieces of my writing, which are able to be shared &amp; I am willing to share, in order to sharpen my flows of thoughts, to balance my scientific work via various aesthetic forms, &amp; to track psychologically &amp; mentally my transitions from boyhood to manhood if there is any.</p>
 <p>[vi] Tiểu thuyết ngắn này bao gồm 1 số bài viết của tôi, những bài có thể chia sẻ được &amp; tôi tự nguyện chia sẻ chúng, để mài bén các dòng suy nghĩ của tôi hơn, để cân bằng với các công việc nghiên cứu khoa học thông qua muôn vàn các hình thái nghệ thuật, &amp; để đánh dấu các bước chuyển mình về mặt tâm lý &amp; trí tuệ của tôi từ 1 cậu nhóc choai choai trở thành 1 người đàn ông trưởng thành nếu có bất cứ sự thay đổi nào xảy ra.</p>
-<p>[fr] Ce court roman est constitué de quelques morceaux de mes écrits, qui peuvent être partagés. Je suis prêt à partager, afin d’aiguiser mes flux de pensées, d’équilibrer mon travail scientifique via diverses formes esthétiques, de suivre psychologiquement et mentalement mes transitions de l’enfance à l’âge adulte s’il y en a.</p>
-<p>[de] Dieser Kurzroman besteht aus einigen Teilen meines Schreibens, die geteilt werden können &amp; Ich bin bereit, sie zu teilen, um meine Gedankenflüsse zu schärfen, meine wissenschaftliche Arbeit durch verschiedene ästhetische Formen auszubalancieren, &amp; um meine Übergänge vom Jungen- zum Mannesalter psychologisch und mental zu verfolgen, falls es gibt.</p>
+<p>[fr] Ce court roman est constitué de quelques morceaux de mes écrits, qui peuvent être partagés. Je suis prêt à partager, afin d’aiguiser mes flux de pensées, d’équilibrer mon travail scientifique via diverses formes esomethingétiques, de suivre psychologiquement et mentalement mes transitions de l’enfance à l’âge adulte s’il y en a.</p>
+<p>[de] Dieser Kurzroman besteht aus einigen Teilen meines Schreibens, die geteilt werden können &amp; Ich bin bereit, sie zu teilen, um meine Gedankenflüsse zu schärfen, meine wissenschaftliche Arbeit durch verschiedene äsomethingetische Formen auszubalancieren, &amp; um meine Übergänge vom Jungen- zum Mannesalter psychologisch und mental zu verfolgen, falls es welche gibt.</p>
 </blockquote>
-<hr>
-</section>
+<p>:::</p>
 <section id="quotes" class="level1">
 <h1>Quotes</h1>
 <blockquote class="blockquote">
@@ -315,58 +405,116 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail email">'
 <blockquote class="blockquote">
 <p>“It is true that a mathematician who is not somewhat of a poet, will never be a perfect mathematician.” – Karl Weierstrass</p>
 </blockquote>
-<p>(The double <em>“ss”</em> in the end of Weierstrass’s name should be the character ß, i.e., beta-like symbol: Eszett, in his original name in German. Trust me: I knew it since I worked at Weierstrass Institute in Berlin, Germany for 1.5 years.)</p>
+<p>(The doube <em>“ss”</em> in the end of Weierstrass’s name should be the character ß, i.e., beta-like symbol: Eszett, in his original name in German. Trust me: I knew it since I worked at Weierstrass Institute in Berlin, Germany for 1.5 years.)</p>
 <blockquote class="blockquote">
 <p>“In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will. Man takes up the sword in order to shield the small wound in his heart sustained in a far-off time beyond remembrance. Man wields the sword so that he may die smiling in some far-off time beyond perception.” – Kentaro Miura, Berserk, Vol. 1</p>
 </blockquote>
 <blockquote class="blockquote">
 <p>“Providence may guide a man to meet 1 specific person, even if such guidance eventually leads him to darkness. Man simply cannot forsake the beauty of his own chosen path. When will man learn a way to control his soul?” – Kentaro Miura, Berserk</p>
 </blockquote>
-<hr>
+<p>:::</p>
 </section>
 <section id="hobby-sở-thích" class="level1">
 <h1>Hobby – Sở Thích</h1>
 <ul>
 <li><a href="https://github.com/NQBH/hobby/blob/master/NQBH_hobby.pdf"><em>Hobby: Anime, Cook, Manga, Manhwa, Movie, Lyrics, Music, Quote, Sport, Video, etc.</em></a>. [<a href="https://github.com/NQBH/hobby/blob/master/NQBH_hobby.tex">Tex</a>].</li>
 </ul>
-<hr>
+<p>:::</p>
 </section>
 <section id="payment-donation-thanh-toán-quyên-góp" class="level1">
 <h1>Payment &amp; Donation – Thanh Toán &amp; Quyên Góp</h1>
 <p>Nếu thấy (các) tài liệu có ích hoặc (các) bài viết hay nên thấy thích, cứ mạnh dạn chuyển khoản cho mình: Mình chắc chắn sẽ không ngại. Ghi chú chuyển khoản nếu muốn.</p>
 <p><strong>Warning</strong>: <em>Say no &amp; never to living kidney donations</em>.</p>
 <section id="bank-transfer-information-thông-tin-chuyển-khoản" class="level2">
-<h2 class="anchored" data-anchor-id="bank-transfer-information-thông-tin-chuyển-khoản">Bank Transfer Information – Thông Tin Chuyển Khoản</h2>
+<h2 data-anchor-id="bank-transfer-information-thông-tin-chuyển-khoản">Bank Transfer Information – Thông Tin Chuyển Khoản</h2>
 <blockquote class="blockquote">
-<p><em>Chủ Tài Khoản</em>: <code>Nguyễn Quản Bá Hồng</code><br>
-<em>Bank</em>: <code>Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB)</code><br>
-<em>Số Tài Khoản</em>: <code>1510717</code><br>
-<em>Chi Nhánh</em>: <code>ACB-CN Bến Tre</code></p>
+<p><em>Chủ Tài Khoản</em>: <code>Nguyễn Quản Bá Hồng</code>.<br>
+<em>Bank</em>: <code>Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB)</code>.<br>
+<em>Số Tài Khoản</em>: <code>1510717</code>.<br>
+<em>Chi Nhánh</em>: <code>ACB-CN Bến Tre</code>.</p>
 </blockquote>
-<hr>
-</section>
-</section>
-<section id="visitors" class="level1">
-<h1>Visitors</h1>
-<section id="flag-counters" class="level2">
-<h2 class="anchored" data-anchor-id="flag-counters">Flag Counters</h2>
+<p>Visitors :::</p>
+<p>:::</p>
+<p>Flag Counters :::</p>
 <p><a href="https://www.flagcounter.me/details/cQh"><img src="https://www.flagcounter.me/cQh/" alt="Flag Counter"></a></p>
+<p>:::</p>
+<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
 </section>
-</section>
+<section id="recent-posts" class="level2">
+<h2 data-anchor-id="recent-posts">Recent Posts</h2>
+<p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
+<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1728925200000">
+<a href="https://drganghe.github.io/quarto-academic-site-examples.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./files/images/placeholder1.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Quarto Academic Website Examples and Tips
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Oct 15, 2024
 </div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="ZXZlbnQlMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1725296400000" data-listing-file-modified-sort="1782404112505" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
+<a href="./posts/event-title/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./files/images/placeholder2.JPG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Event item
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Sep 3, 2024
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1719162000000" data-listing-file-modified-sort="1782404112505" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
+<a href="./posts/news-title/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./files/images/placeholder3.JPG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+News item
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 24, 2024
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<p align="right">
+<a href="./posts.html">All Posts »</a>
+</p>
 
 
+
+
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
