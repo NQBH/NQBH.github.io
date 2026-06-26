@@ -67,7 +67,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-**Career**:
+## Career:
 *Author & Writer (amateur) -- Tác Giả & Nhà văn (nghiệp dư)* (self-employed): Novelist -- Tiểu Thuyết Gia (thể loại công việc mà tôi tự mướn mình làm trong lúc thất nghiệp trá hình).
 
 *Educator -- Nhà Giáo Dục (amateur)*: Elementary \{Mathematics, Physics, Chemistry, Natural Science, Computer Science\} Teacher/Tutor -- Giáo viên/Gia sư (nghiệp dư) về Toán Sơ Cấp, Vật Lý Sơ Cấp, Hóa Học Sơ Cấp, Khoa Học Tự Nhiên Sơ Cấp, Tin học/Khoa học Máy Tính Sơ Cấp.
@@ -80,12 +80,12 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 > If you think you can read me psychologically easily, i.e., understand 1 of my personalities, then try to comprehend all of them. -- Nếu bạn nghĩ rằng bạn có thể đọc vị tâm lý của tôi 1 cách dễ dàng, i.e., hiểu 1 trong các nhân cách của tôi, thì cứ thử thấu hiểu tất cả chúng.
 
-**Curriculum Vitae (CV).** [CV](https://github.com/NQBH/publication/blob/master/CV/NQBH_CV.pdf).
+## Curriculum Vitae (CV).** [CV](https://github.com/NQBH/publication/blob/master/CV/NQBH_CV.pdf).
 
 **E-mail.** <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
 
-Writings -- Viết Lách
+## Writings -- Viết Lách
 :::
 
 *Convention -- Quy ước.* `...`: still writing, unfinished.
@@ -160,4 +160,4 @@ Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News
 :::{#recent-posts}
 :::
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+<p align="center">[All Posts »](/posts.qmd)</p>
