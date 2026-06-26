@@ -2,9 +2,9 @@
 title: "NQBH"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
 image: "files/images/NQBH.jpg"
-page-navigation: false
-toc: false
-#sidebar: false
+page-navigation: true
+toc: true
+sidebar: true
 page-layout: full
 
 about:
