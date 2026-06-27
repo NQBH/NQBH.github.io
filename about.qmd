@@ -9,7 +9,7 @@ page-layout: article # Changed from 'full' to 'article' to center the page and g
 
 about:
   id: hero-heading
-  template: trestles # Change 'trestles' to 'jolla' if you want your photo and links centered on the screen
+  template: jolla # Change 'trestles' to 'jolla' if you want your photo and links centered on the screen
   image-width: 15em
   links:
     - icon: github
