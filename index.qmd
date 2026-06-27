@@ -85,8 +85,6 @@ listing:
 
 **E-mail.** <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
-:::
-
 ## Writings -- Viết Lách
 
 *Convention -- Quy ước.* `...`: still writing, unfinished.
