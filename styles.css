@@ -1,5 +1,1 @@
-/* Example: Force the main container to be exactly 1000px wide */
-.quarto-container {
-  max-width: 1000px !important;
-  margin: 0 auto; /* Centers the page */
-}
+/* css styles */
