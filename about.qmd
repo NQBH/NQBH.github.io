@@ -5,12 +5,12 @@ image: "files/images/NQBH.jpg"
 page-navigation: true
 toc: true
 sidebar: true
-page-layout: full
+page-layout: article # Changed from 'full' to 'article' to center the page and give it margins
 
 about:
   id: hero-heading
-  template: trestles # Options: trestles (split left/right), jolla (centered profile)
-  image-width: 100px
+  template: trestles # Change 'trestles' to 'jolla' if you want your photo and links centered on the screen
+  image-width: 15em
   links:
     - icon: github
       text: GitHub
@@ -31,7 +31,7 @@ about:
       text: YouTube
       href: https://www.youtube.com     
       target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+    - text: "{{< ai orcid >}} ORCID"   
       href: https://orcid.org
       target: _blank
     - text: "{{< ai clarivate >}} Web of Science"
@@ -47,7 +47,7 @@ about:
       href: https://www.researchgate.net/profile/Hong-Nguyen-184
       target: _blank
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+listing:   
   - id: recent-posts
     contents: 
       - posts
@@ -56,8 +56,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
       title: ""
     type: grid
     max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
+    page-size: 3 
     fields: [image, date, title, subtitle]
     max-description-length: 75
     sort: 
@@ -80,13 +79,15 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 > If you think you can read me psychologically easily, i.e., understand 1 of my personalities, then try to comprehend all of them. -- Nếu bạn nghĩ rằng bạn có thể đọc vị tâm lý của tôi 1 cách dễ dàng, i.e., hiểu 1 trong các nhân cách của tôi, thì cứ thử thấu hiểu tất cả chúng.
 
-## Curriculum Vitae (CV).** [CV](https://github.com/NQBH/publication/blob/master/CV/NQBH_CV.pdf).
+## Curriculum Vitae (CV)
+
+**[CV](https://github.com/NQBH/publication/blob/master/CV/NQBH_CV.pdf)**.
 
 **E-mail.** <nguyenquanbahong@gmail.com> (also the `Email` button in the sidebar).
 
+:::
 
 ## Writings -- Viết Lách
-:::
 
 *Convention -- Quy ước.* `...`: still writing, unfinished.
 
@@ -99,11 +100,9 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 >   
 > [vi] Tiểu thuyết ngắn này bao gồm 1 số bài viết của tôi, những bài có thể chia sẻ được & tôi tự nguyện chia sẻ chúng, để mài bén các dòng suy nghĩ của tôi hơn, để cân bằng với các công việc nghiên cứu khoa học thông qua muôn vàn các hình thái nghệ thuật, & để đánh dấu các bước chuyển mình về mặt tâm lý & trí tuệ của tôi từ 1 cậu nhóc choai choai trở thành 1 người đàn ông trưởng thành nếu có bất cứ sự thay đổi nào xảy ra.  
 >
-> [fr] Ce court roman est constitué de quelques morceaux de mes écrits, qui peuvent être partagés. Je suis prêt à partager, afin d'aiguiser mes flux de pensées, d'équilibrer mon travail scientifique via diverses formes esomethingétiques, de suivre psychologiquement et mentalement mes transitions de l'enfance à l'âge adulte s'il y en a.  
+> [fr] Ce court roman est constitué de quelques morceaux de mes écrits, qui peuvent être partagés. Je suis prêt à partager, afin d'aiguiser mes flux de pensées, d'équilibrer mon travail scientifique via diverses formes esthétiques, de suivre psychologiquement et mentalement mes transitions de l'enfance à l'âge adulte s'il y en a.  
 >
-> [de] Dieser Kurzroman besteht aus einigen Teilen meines Schreibens, die geteilt werden können & Ich bin bereit, sie zu teilen, um meine Gedankenflüsse zu schärfen, meine wissenschaftliche Arbeit durch verschiedene äsomethingetische Formen auszubalancieren, & um meine Übergänge vom Jungen- zum Mannesalter psychologisch und mental zu verfolgen, falls es welche gibt.
-
-:::
+> [de] Dieser Kurzroman besteht aus einigen Teilen meines Schreibens, die geteilt werden können & Ich bin bereit, sie zu teilen, um meine Gedankenflüsse zu schärfen, meine wissenschaftliche Arbeit durch verschiedene ästhetische Formen auszubalancieren, & um meine Übergänge vom Jungen- zum Mannesalter psychologisch und mental zu verfolgen, falls es welche gibt.
 
 # Quotes
 
@@ -113,20 +112,15 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 > "It is true that a mathematician who is not somewhat of a poet, will never be a perfect mathematician." -- Karl Weierstrass
 
-(The doube *"ss"* in the end of Weierstrass's name should be the character ß, i.e., beta-like symbol: Eszett, in his original name in German. Trust me: I knew it since I worked at Weierstrass Institute in Berlin, Germany for 1.5 years.)
+(The double *"ss"* in the end of Weierstrass's name should be the character ß, i.e., beta-like symbol: Eszett, in his original name in German. Trust me: I knew it since I worked at Weierstrass Institute in Berlin, Germany for 1.5 years.)
 
 > "In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will. Man takes up the sword in order to shield the small wound in his heart sustained in a far-off time beyond remembrance. Man wields the sword so that he may die smiling in some far-off time beyond perception." -- Kentaro Miura, Berserk, Vol. 1
 
 > "Providence may guide a man to meet 1 specific person, even if such guidance eventually leads him to darkness. Man simply cannot forsake the beauty of his own chosen path. When will man learn a way to control his soul?" -- Kentaro Miura, Berserk
 
-:::
-
 # Hobby -- Sở Thích
 
 - [*Hobby: Anime, Cook, Manga, Manhwa, Movie, Lyrics, Music, Quote, Sport, Video, etc.*](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.pdf). [[Tex](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.tex)].
-
-
-:::
 
 # Payment & Donation -- Thanh Toán & Quyên Góp
 
@@ -140,17 +134,11 @@ Nếu thấy (các) tài liệu có ích hoặc (các) bài viết hay nên th�
 > *Số Tài Khoản*: `1510717`.  
 > *Chi Nhánh*: `ACB-CN Bến Tre`.
 
-Visitors
-:::
+# Visitors
 
-:::
-
-Flag Counters
-:::
+## Flag Counters
 
 <a href="https://www.flagcounter.me/details/cQh"><img src="https://www.flagcounter.me/cQh/" alt="Flag Counter"></a>
-
-:::
 
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
