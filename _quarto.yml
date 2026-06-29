@@ -9,12 +9,12 @@ description-meta: "NQBH"
 author-meta: "NQBH"
 
 website:
-  title: "Quarto Academic"
+  title: "NQBH"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "NQBH's website: sharable & publishable collections"
  
   navbar:
-    background: light  # You can change the background color here
+    background: dark  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
       - text: Home
@@ -91,7 +91,7 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://github.com/NQBH/NQBH.github.io"
   
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID
