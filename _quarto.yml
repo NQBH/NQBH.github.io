@@ -10,7 +10,7 @@ author-meta: "NQBH"
 
 website:
   title: "NQBH"
-  image: "https://quarto.org/quarto.png"
+  image: "files/images/NQBH.jpg"
   description: "NQBH's website: sharable & publishable collections"
  
   navbar:
@@ -103,6 +103,9 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    grid:
+      body-width: 2500px  # Increases the text body width
+      margin-width: 200px # Adjusts the right margin
     toc: true
     footnotes-hover: true
     code-copy: true

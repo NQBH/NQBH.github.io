@@ -1,16 +1,16 @@
 ---
 title: "NQBH"
 description-meta: "NQBH's website: sharable & publishable collections"
-image: "files/images/placeholder4.JPG"
+image: "files/images/Rose.jpg"
+image-width: 30%
 page-navigation: true
 toc: true
 sidebar: true
-page-layout: full
 
 about:
   id: hero-heading
-  template: trestles
-  image-width: 50%
+  template: jolla
+  image-width: 30%
   links:
     - icon: sun
       text: Lab
@@ -59,7 +59,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
     image-height: 150px
     page-size: 3 #set same as max-times to remove the page number setting
     fields: [image, date, title, subtitle]
-    max-description-length: 75
+    max-description-length: 150
     sort: 
       - "date desc"
       - "title asc"
@@ -67,20 +67,40 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm NQBH.
+My Vietnamese- & publication names are Nguyễn Quản Bá Hồng (NQBH) & Nguyen Quan Ba Hong, respectively.
 
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
+## Curriculum Vitae (CV)
+
+[CV](https://github.com/NQBH/publication/blob/master/CV/NQBH_CV.pdf).
+
+E-mails: `nguyenquanbahong@gmail.com`, `hong.nguyenquanba@umt.edu.vn`.
 
 ## Experience
 
-- Researcher, Univerisity
-- Consultant, Company
-- Intern, Institute
+- [2025--now] Lecturer in Mathematics for AI/ML/DL/DS.
+- [2020--2021] PhD student, WIAS Berlin, Germany
+- [2019] Intern, IRMAR, France.
 
 ## Education
 
 - Master of Science, Univerisité de Rennes 1
 - Bachelor of Science, Ho Chi Minh City Univerisity of Science (HCMUS).
+
+# Hobby -- Sở Thích
+
+- [Hobby: anime, cook, manga, manhwa, movie, lyrics, music, quote, sport, video, etc. [[pdf](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.pdf)], [[Tex](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.tex)].]
+
+# Payment & Donation -- Thanh toán & quyên góp/"cúng dường"
+
+Nếu thấy (các) tài liệu có ích hoặc (các) bài viết hay nên thấy thích, cứ mạnh dạn chuyển khoản cho mình: Mình chắc chắn sẽ không ngại. Ghi chú chuyển khoản nếu muốn.
+
+Warning: Say no & never to living kidney donations.
+
+## Bank Transfer Information -- Thông Tin Chuyển Khoản
+Chủ Tài Khoản: `Nguyễn Quản Bá Hồng`.  
+Bank: `Ngân Hàng Thương Mại Á Châu/Asia Commercial Bank (ACB)`.  
+Số Tài Khoản: `1510717`.  
+Chi Nhánh: `ACB-CN Bến Tre`.
 
 # Visitors
 
