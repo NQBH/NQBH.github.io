@@ -1,1 +1,7 @@
 /* css styles */
+/* Widen the main content area for standard pages */
+main.content {
+  max-width: 1500px; /* You can adjust this number. The default is usually around 800px */
+  margin-left: auto;
+  margin-right: auto;
+}
