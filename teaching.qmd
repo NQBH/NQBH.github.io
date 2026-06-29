@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
-title-block-banner: false
+subtitle: "what I teach & can teach."
+title-block-banner: true
 ---
 
 
@@ -11,6 +11,7 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder1.jpg)
+Introduction to Mathematical Analysis -- Nhập Môn Giải Tích Toán Học
 
 :::
 
@@ -18,7 +19,7 @@ title-block-banner: false
 
 [Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
 
-Class 1 introduction.
+Combinatorics & Graph Theory -- Tổ Hợp & Lý Thuyết Đồ Thị.
 
 :::
 
@@ -31,6 +32,7 @@ Class 1 introduction.
 
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
+Fundamentals of Programming -- Cơ Sở/Nhập Môn Lập Trình
 
 :::
 
