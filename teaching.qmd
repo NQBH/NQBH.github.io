@@ -17,15 +17,15 @@ Mathematical Analysis
 
 ::: {.g-col-12 .g-col-md-10}
 
-**Introduction to Mathematical Analysis -- Nhập Môn Giải Tích Toán Học**
+## Introduction to Mathematical Analysis -- Nhập Môn Giải Tích Toán Học
 
-`semester`: summer 2025, summer 2026.
+**Semester.** Summer 2025, Summer 2026.
 
 `GitHub repository`: [advanced STEM & beyond/analysis](https://github.com/NQBH/advanced_STEM_beyond/tree/main/analysis).
 
-`resource`:
+**Resource.**
 
-- final exam 2026: [test: [pdf](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/resource/analysis_final_term_exam_2026/NQBH_analysis_final_term_exam_2026.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/resource/analysis_final_term_exam_2026/NQBH_analysis_final_term_exam_2026.tex)].
+- *Final Exam 2026*: Test: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/resource/analysis_final_term_exam_2026/NQBH_analysis_final_term_exam_2026.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/resource/analysis_final_term_exam_2026/NQBH_analysis_final_term_exam_2026.tex)]. Solution: [PDF](***), [TeX](***). [Gemini Solution](https://share.gemini.google/5TToPTPu0qpA).
 
 :::
 
@@ -44,17 +44,17 @@ Combinatorics & Graph Theory.
 
 ::: {.g-col-12 .g-col-md-10}
 
-**Combinatorics & Graph Theory -- Tổ Hợp & Lý Thuyết Đồ Thị**:
+## Combinatorics & Graph Theory -- Tổ Hợp & Lý Thuyết Đồ Thị
 
-`semester`: summer 2025, summer 2026.
+**Semester.** Summer 2025, Summer 2026.
 
 `GitHub repository`: [advanced STEM & beyond/combinatorics](https://github.com/NQBH/advanced_STEM_beyond/tree/main/combinatorics).
 
-`resource`:
+**Resource.**
 
-- midterm exam 2025: [test: [pdf](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_2025.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_2025.tex)], [solution: [pdf](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_solution_2025.pdf). [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_solution_2025.tex)].
+- *Midterm Exam 2025*: Test: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_2025.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_2025.tex). Solution: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_solution_2025.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_solution_2025.tex).
 
-- final exam 2026. [test: [pdf](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_final_exam_2026/NQBH_combinatorics_graph_theory_final_exam_2026.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_final_exam_2026/NQBH_combinatorics_graph_theory_final_exam_2026.tex)].
+- *Final Exam 2026*: Test: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_final_exam_2026/NQBH_combinatorics_graph_theory_final_exam_2026.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_final_exam_2026/NQBH_combinatorics_graph_theory_final_exam_2026.tex). [Gemini solution](https://share.gemini.google/C4ra9CqBWQKt). Solution: [PDF](***), [TeX](***).
 
 :::
 
@@ -72,12 +72,15 @@ Basic C/C++ Programming
 
 ::: {.g-col-12 .g-col-md-10}
 
-**Fundamentals of Programming -- Cơ Sở/Nhập Môn Lập Trình**
-`semester`: summer 2025, summer 2026.
+## Fundamentals of Programming -- Cơ Sở/Nhập Môn Lập Trình
 
-`resource`:
+**Semester.** Summer 2025, Summer 2026.
 
-- final exam 2026: [test: [pdf](https://github.com/NQBH/advanced_STEM_beyond/blob/main/fundamental_programming/final_term/NQBH_fundamental_programming_final_term_2026.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/fundamental_programming/final_term/NQBH_fundamental_programming_final_term_2026.tex)].
+**Resource.**
+
+- *Midterm Exam 2026*: Test: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/fundamental_programming/midterm/NQBH_fundamental_programming_midterm_2026.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/fundamental_programming/midterm/NQBH_fundamental_programming_midterm_2026.tex).
+
+- *Final Exam 2026*: Test:[PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/fundamental_programming/final_term/NQBH_fundamental_programming_final_term_2026.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/fundamental_programming/final_term/NQBH_fundamental_programming_final_term_2026.tex).
 
 :::
 
@@ -94,12 +97,15 @@ Basic Python Programming
 
 ::: {.g-col-12 .g-col-md-10}
 
-**Information Technology Fundamentals II**
-`semester`: summer 2025, summer 2026.
+## Information Technology Fundamentals II -- Nền Tảng Công Nghệ Thông Tin II
 
-[`lecture note`: [pdf](https://github.com/NQBH/advanced_STEM_beyond/blob/main/IT_fundamentals/lecture/NQBH_IT_fundamentals_lecture.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/IT_fundamentals/lecture/NQBH_IT_fundamentals_lecture.tex)].
+**Semester.** Summer 2025, Summer 2026.
 
-[`final exam 2026`: [pdf](https://github.com/NQBH/advanced_STEM_beyond/blob/main/fundamental_programming/final_term/NQBH_fundamental_programming_final_term_2026.pdf). [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/fundamental_programming/final_term/NQBH_fundamental_programming_final_term_2026.tex)].
+**Resource.**
+
+- *Lecture Note*: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/IT_fundamentals/lecture/NQBH_IT_fundamentals_lecture.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/IT_fundamentals/lecture/NQBH_IT_fundamentals_lecture.tex)].
+
+- *Final Exam 2026*: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/fundamental_programming/final_term/NQBH_fundamental_programming_final_term_2026.pdf). [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/fundamental_programming/final_term/NQBH_fundamental_programming_final_term_2026.tex)].
 
 :::
 
@@ -116,8 +122,13 @@ Machine Learning
 
 ::: {.g-col-12 .g-col-md-10}
 
-**Machine Learning with Python**
-`semester`: summer 2025, summer 2026.
+## Machine Learning with Python -- Học Máy với Python
+
+**Semester.** Summer 2025, Summer 2026.
+
+**Resources.**
+
+- Lecture Note:
 
 :::
 
@@ -134,20 +145,22 @@ Bachelor Thesis Supervision
 
 ::: {.g-col-12 .g-col-md-10}
 
-**Bachelor Thesis Supervision in Mathematics/Computer Science -- Hướng Dẫn Luận Văn Đại Học ngành Toán/Khoa Học Máy Tính**
+## Bachelor Thesis Supervision in Mathematics/Computer Science -- Hướng Dẫn Luận Văn Đại Học ngành Toán/Khoa Học Máy Tính
 
-`semester`: spring 2026.
+**Semester.** Spring 2026.
 
-`NQBH's research topics`:
+### NQBH's research topics
 
-- *Partial Differential Equations (PDEs)*: Diffusion equation.
+- *Partial Differential Equations (PDEs)*: Advection--Diffusion Equation, Porous Medium Equations (PMEs), Navier--Stokes Equations (NSEs).
+
+- *Inverse Problems (IP)*.
 
 - *Neural Networks (NNs)*: Graph Neural Networks (GNN = NNs + graph theory)
 
-- *Combinatorics*: Rough Set Theory (RST).
+- *Combinatorics*: Extremal Combinatorics, Rough Set Theory (RST).
 
 - *Numerical Analysis (NA)*: Finite Volume Methods (FVMs), conservation laws.
 
-`resources`: bachelor thesis sample:
+**Resources.** Bachelor Thesis sample:
 
-- Nguyễn Ngọc Thạch (Software Engineering). *Chronix: Hệ Thống Lập Lịch Cá Nhân Hóa Tối Ưu Năng Suất Dựa Trên AI & Nhịp Điệu Sinh Học*. Bachelor Thesis. 2026. [[pdf](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/bachelor_thesis/NNT_bachelor_thesis.pdf)] [`source code`: classified, contact the author].
+- Nguyễn Ngọc Thạch [NNT] (Software Engineering). *Chronix: Hệ Thống Lập Lịch Cá Nhân Hóa Tối Ưu Năng Suất Dựa Trên AI & Nhịp Điệu Sinh Học*. Bachelor Thesis. 2026. [[PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/teach/bachelor_thesis/NNT_bachelor_thesis.pdf)] [`source code`: classified, contact the author NNT: [GitHub/Suppleo](https://github.com/Suppleo)].
