@@ -71,15 +71,17 @@ My Vietnamese- & publication names are Nguyễn Quản Bá Hồng (NQBH) & Nguye
 
 ## Curriculum Vitae (CV)
 
-[CV](https://github.com/NQBH/publication/blob/master/CV/NQBH_CV.pdf).
+My not-so-good academic CV: [CV](https://github.com/NQBH/publication/blob/master/CV/NQBH_CV.pdf).
 
 E-mails: `nguyenquanbahong@gmail.com`, `hong.nguyenquanba@umt.edu.vn`.
+The former is used for general purposes & the latter mainly for work, especially for undergraduate students to submit their homeworks, projects, & other deadlines.
 
 ## Experience
 
-- [2025--now] Lecturer in Mathematics for AI/ML/DL/DS.
-- [2020--2021] PhD student, WIAS Berlin, Germany
-- [2019] Master Internship, IRMAR, France.
+- [2025--now]: Lecturer in Mathematics for AI/ML/DL/DS, School of Technology, University of Management & Technology, Ho Chi Minh City (UMT HCMC), Vietnam .
+- [2021--2024]: COVID19 survivor; existential crisis => quest for meaning.
+- [2020--2021]: PhD student, WIAS Berlin, Germany
+- [2019]: Master Internship, IRMAR, France.
 
 ## Education
 
@@ -88,13 +90,13 @@ E-mails: `nguyenquanbahong@gmail.com`, `hong.nguyenquanba@umt.edu.vn`.
 
 # Hobby -- Sở Thích
 
-- [Hobby: anime, cook, manga, manhwa, movie, lyrics, music, quote, sport, video, etc. [[pdf](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.pdf)], [[Tex](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.tex)].]
+- Hobby: anime, cook, manga, manhwa, movie, lyrics, music, quote, sport, video, etc. [[pdf](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.pdf)], [[Tex](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.tex)].
 
 # Payment & Donation -- Thanh toán & quyên góp/"cúng dường"
 
 Nếu thấy (các) tài liệu có ích hoặc (các) bài viết hay nên thấy thích, cứ mạnh dạn chuyển khoản cho mình: Mình chắc chắn sẽ không ngại. Ghi chú chuyển khoản nếu muốn.
 
-Warning: Say no & never to living kidney donations.
+I will sell my books & other art forms (if there is any) with reader-dependent cost. Sharing is caring (perhaps).
 
 ## Bank Transfer Information -- Thông Tin Chuyển Khoản
 Chủ Tài Khoản: `Nguyễn Quản Bá Hồng`.  

@@ -4,24 +4,23 @@ subtitle: "what I teach & can teach."
 title-block-banner: true
 ---
 
-
-## Class 1
+## Class
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/analysis.jpeg)
-Mathematical Analysis
+Discrete Mathematics (DM)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-## Introduction to Mathematical Analysis -- Nhập Môn Giải Tích Toán Học
+## Discrete Mathematics -- Toán Rời Rạc
 
 **Semester.** Summer 2025, Summer 2026.
 
-`GitHub repository`: [advanced STEM & beyond/analysis](https://github.com/NQBH/advanced_STEM_beyond/tree/main/analysis).
+**GitHub repository.** [advanced STEM & beyond/analysis](https://github.com/NQBH/advanced_STEM_beyond/tree/main/analysis).
 
 **Resource.**
 
@@ -31,14 +30,66 @@ Mathematical Analysis
 
 :::
 
+## Class
 
-## Class 2
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/analysis.jpeg)
+Linear Algebra (LA)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+## Linear Algebra -- Đại Số Tuyến Tính
+
+**Semester.** Summer 2025, Summer 2026.
+
+**GitHub repository.** [advanced STEM & beyond/analysis](https://github.com/NQBH/advanced_STEM_beyond/tree/main/analysis).
+
+**Resource.**
+
+- *Final Exam 2026*: Test: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/resource/analysis_final_term_exam_2026/NQBH_analysis_final_term_exam_2026.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/resource/analysis_final_term_exam_2026/NQBH_analysis_final_term_exam_2026.tex)]. Solution: [PDF](***), [TeX](***). [Gemini Solution](https://share.gemini.google/5TToPTPu0qpA).
+
+:::
+
+:::
+
+## Class
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/analysis.jpeg)
+Mathematical Analysis (MA)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+## Introduction to Mathematical Analysis -- Nhập Môn Giải Tích Toán Học
+
+**Semester.** Summer 2025, Summer 2026.
+
+**GitHub repository.** [advanced STEM & beyond/analysis](https://github.com/NQBH/advanced_STEM_beyond/tree/main/analysis).
+
+**Resource.**
+
+- *Final Exam 2026*: Test: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/resource/analysis_final_term_exam_2026/NQBH_analysis_final_term_exam_2026.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/resource/analysis_final_term_exam_2026/NQBH_analysis_final_term_exam_2026.tex)]. Solution: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/resource/analysis_final_term_exam_2026/NQBH_analysis_final_term_exam_2026_solution.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/analysis/resource/analysis_final_term_exam_2026/NQBH_analysis_final_term_exam_2026_solution.tex). [Gemini Solution](https://share.gemini.google/5TToPTPu0qpA).
+
+:::
+
+:::
+
+
+## Class
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/graph.png)
-Combinatorics & Graph Theory.
+Combinatorics & Graph Theory (CGT).
 
 :::
 
@@ -48,20 +99,19 @@ Combinatorics & Graph Theory.
 
 **Semester.** Summer 2025, Summer 2026.
 
-`GitHub repository`: [advanced STEM & beyond/combinatorics](https://github.com/NQBH/advanced_STEM_beyond/tree/main/combinatorics).
+**GitHub repository.** [advanced STEM & beyond/combinatorics](https://github.com/NQBH/advanced_STEM_beyond/tree/main/combinatorics).
 
 **Resource.**
 
 - *Midterm Exam 2025*: Test: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_2025.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_2025.tex). Solution: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_solution_2025.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_midterm_exam_2025/NQBH_combinatorics_graph_theory_midterm_exam_solution_2025.tex).
 
-- *Final Exam 2026*: Test: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_final_exam_2026/NQBH_combinatorics_graph_theory_final_exam_2026.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_final_exam_2026/NQBH_combinatorics_graph_theory_final_exam_2026.tex). [Gemini solution](https://share.gemini.google/C4ra9CqBWQKt). Solution: [PDF](***), [TeX](***).
+- *Final Exam 2026*: Test: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_final_exam_2026/NQBH_combinatorics_graph_theory_final_exam_2026.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_final_exam_2026/NQBH_combinatorics_graph_theory_final_exam_2026.tex). Solution: [PDF](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_final_exam_2026/NQBH_combinatorics_graph_theory_final_exam_2026_solution.pdf), [TeX](https://github.com/NQBH/advanced_STEM_beyond/blob/main/combinatorics/resource/combinatorics_graph_theory_final_exam_2026/NQBH_combinatorics_graph_theory_final_exam_2026_solution.tex). [Gemini solution](https://share.gemini.google/C4ra9CqBWQKt).
 
 :::
 
 :::
 
-
-## Class 3
+## Class
 
 ::: {.grid}
 
@@ -73,6 +123,8 @@ Basic C/C++ Programming
 ::: {.g-col-12 .g-col-md-10}
 
 ## Fundamentals of Programming -- Cơ Sở/Nhập Môn Lập Trình
+
+**GitHub repository.** [advanced STEM & beyond/fundamental_programming](https://github.com/NQBH/advanced_STEM_beyond/tree/main/fundamental_programming)
 
 **Semester.** Summer 2025, Summer 2026.
 
@@ -86,7 +138,7 @@ Basic C/C++ Programming
 
 :::
 
-## Class 4
+## Class
 
 ::: {.grid}
 
@@ -97,7 +149,9 @@ Basic Python Programming
 
 ::: {.g-col-12 .g-col-md-10}
 
-## Information Technology Fundamentals II -- Nền Tảng Công Nghệ Thông Tin II
+## Information Technology Fundamentals II (IFT2) -- Nền Tảng Công Nghệ Thông Tin II
+
+**GitHub repository.** [advanced STEM & beyond/IT_fundamentals](https://github.com/NQBH/advanced_STEM_beyond/tree/main/IT_fundamentals).
 
 **Semester.** Summer 2025, Summer 2026.
 
@@ -111,18 +165,20 @@ Basic Python Programming
 
 :::
 
-## Class 5
+## Class
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/ML.jpg)
-Machine Learning
+Machine Learning (ML)
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
 ## Machine Learning with Python -- Học Máy với Python
+
+**GitHub repository.** [advanced STEM & beyond/machine_learning](https://github.com/NQBH/advanced_STEM_beyond/tree/main/machine_learning).
 
 **Semester.** Summer 2025, Summer 2026.
 
@@ -134,13 +190,13 @@ Machine Learning
 
 :::
 
-## Class 6
+## Class
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/bachelor.png)
-Bachelor Thesis Supervision
+Bachelor Thesis Supervision (BTS)
 :::
 
 ::: {.g-col-12 .g-col-md-10}
