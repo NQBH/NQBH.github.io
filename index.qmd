@@ -78,13 +78,13 @@ The former is used for general purposes & the latter mainly for work, especially
 
 ## Experience
 
-- [2021--2024]: survivor, existential crisis, quest for meaning.
+- 2025--2026: Lecturer in Mathematics for AI, ML, DL, DS, School of Technology, University of Management & Technology, Ho Chi Minh City, Vietnam.
 
-- [2020--2021]: PhD student, WIAS Berlin, Germany.
+- 2021--2024: survivor, existential crisis, quest for meaning.
 
-- [2019]: 3 months, Master Internship, IRMAR, France.
+- 2020--2021: PhD student, WIAS Berlin, Germany.
 
-- [2025--2026]: Lecturer in Mathematics for AI/ML/DL/DS, School of Technology, University of Management & Technology, Ho Chi Minh City (UMT HCMC), Vietnam.
+- 2019: 3 months, Master Internship, IRMAR, France.
 
 ## Education
 
@@ -93,17 +93,23 @@ The former is used for general purposes & the latter mainly for work, especially
 
 # Hobby -- Sở Thích
 
-- Hobby: anime, cook, manga, manhwa, movie, lyrics, music, quote, sport, video, etc. [[pdf](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.pdf)], [[Tex](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.tex)].
+- **Hobby**: anime, cook, manga, manhwa, movie, lyrics, music, quote, sport, video, etc. [[pdf](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.pdf)], [[Tex](https://github.com/NQBH/hobby/blob/master/NQBH_hobby.tex)].
 
-# Writing: Science, Psychology $\Psi$, Philosophy $\Phi$ -- Viết Lách: Khoa Học, Tâm Lý $\Psi$, Triết Học $\Phi$.
+# Writing -- Viết Lách.
 
-**Preamble.** Define pseudoname/alias (bút danh): `alias` $\coloneqq$ `NQBH`. Perspective: more on personal life than on professional career.
+**Preamble.**
+- Define pseudoname/alias (bút danh): `alias` $\coloneqq$ `NQBH`.
+- Themes: mostly Dark. Science, Psychology $\Psi$, Philosophy $\Phi$ -- Khoa Học, Tâm Lý $\Psi$, Triết Học $\Phi$.
+- Perspective: more on personal life than on professional career.
 
-- NQBH. [*How to Prompt AI: An "AI-Guided Personal" Guide of How to Prompt AIs -- Cách Prompt AI: 1 Hướng Dẫn Cá Nhân về Cách Prompt AI Được Chính AIs Hướng Dẫn*](https://github.com/NQBH/writing/blob/main/AI_prompt_guide/NQBH_AI_prompt_guide.pdf). [$\TeX$](https://github.com/NQBH/writing/blob/main/AI_prompt_guide/NQBH_AI_prompt_guide.tex).
 
-- NQBH. [*A Theoretically Rigorous Atempt to Comprehend Some Theories of Human Personality Anatomy -- Thử Thấu Hiểu Chặt Chẽ Vài Thuyết Giải Phẫu Học Nhân Cách của Con Người*](https://github.com/NQBH/writing/blob/main/anatomy_personality/NQBH_anatomy_personality.pdf). [$\TeX$](https://github.com/NQBH/writing/blob/main/anatomy_personality/NQBH_anatomy_personality.tex).
+**Short non-scientific articles**
 
-- NQBH. [*Some Decision Problems: A Personal Perspective -- Vài Bài Toán Quyết Định: 1 Góc Nhìn Cá Nhân](https://github.com/NQBH/writing/blob/main/decision_problem/NQBH_decision_problem.pdf). [$\TeX$](https://github.com/NQBH/writing/blob/main/decision_problem/NQBH_decision_problem.tex).
+- NQBH. [How to Prompt AI: An "AI-Guided Personal" Guide of How to Prompt AIs -- Cách Prompt AI: 1 Hướng Dẫn Cá Nhân về Cách Prompt AI Được Chính AIs Hướng Dẫn](https://github.com/NQBH/writing/blob/main/AI_prompt_guide/NQBH_AI_prompt_guide.pdf). [$\rm\TeX$](https://github.com/NQBH/writing/blob/main/AI_prompt_guide/NQBH_AI_prompt_guide.tex).
+
+- NQBH. [A Theoretically Rigorous Atempt to Comprehend Some Theories of Human Personality Anatomy -- Thử Thấu Hiểu Chặt Chẽ Vài Thuyết Giải Phẫu Học Nhân Cách của Con Người](https://github.com/NQBH/writing/blob/main/anatomy_personality/NQBH_anatomy_personality.pdf). [$\rm\TeX$](https://github.com/NQBH/writing/blob/main/anatomy_personality/NQBH_anatomy_personality.tex).
+
+- NQBH. [Some Decision Problems: A Personal Perspective -- Vài Bài Toán Quyết Định: 1 Góc Nhìn Cá Nhân](https://github.com/NQBH/writing/blob/main/decision_problem/NQBH_decision_problem.pdf). [$\rm\TeX$](https://github.com/NQBH/writing/blob/main/decision_problem/NQBH_decision_problem.tex).
 
 # Payment & Donation -- Thanh toán & quyên góp/"cúng dường"
 
