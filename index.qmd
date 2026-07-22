@@ -98,9 +98,12 @@ The former is used for general purposes & the latter mainly for work, especially
 # Writing -- Viết Lách.
 
 **Preamble.**
+
 - Define pseudoname/alias (bút danh): `alias` $\coloneqq$ `NQBH`.
-- Themes: mostly Dark. Science, Psychology $\Psi$, Philosophy $\Phi$ -- Khoa Học, Tâm Lý $\Psi$, Triết Học $\Phi$.
-- Perspective: more on personal life than on professional career.
+
+- *Themes*: mostly dark, focus mainly on science, psychology $\Psi$, philosophy $\Phi$ -- khoa học, tâm lý $\Psi$, triết học $\Phi$.
+
+- *Perspective*: more on personal life than on professional career (if there is any).
 
 
 **Short non-scientific articles**
@@ -110,6 +113,8 @@ The former is used for general purposes & the latter mainly for work, especially
 - NQBH. [A Theoretically Rigorous Atempt to Comprehend Some Theories of Human Personality Anatomy -- Thử Thấu Hiểu Chặt Chẽ Vài Thuyết Giải Phẫu Học Nhân Cách của Con Người](https://github.com/NQBH/writing/blob/main/anatomy_personality/NQBH_anatomy_personality.pdf). [$\rm\TeX$](https://github.com/NQBH/writing/blob/main/anatomy_personality/NQBH_anatomy_personality.tex).
 
 - NQBH. [Some Decision Problems: A Personal Perspective -- Vài Bài Toán Quyết Định: 1 Góc Nhìn Cá Nhân](https://github.com/NQBH/writing/blob/main/decision_problem/NQBH_decision_problem.pdf). [$\rm\TeX$](https://github.com/NQBH/writing/blob/main/decision_problem/NQBH_decision_problem.tex).
+
+**Self-published books.**
 
 # Payment & Donation -- Thanh toán & quyên góp/"cúng dường"
 
